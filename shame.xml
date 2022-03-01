@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE LexicalResource SYSTEM "WN-IELMF-0.dtd">
+<!DOCTYPE LexicalResource SYSTEM "https://raw.githubusercontent.com/anasfkhan81/OldEnglish/main/WN-IELMF-0.DTD">
 <LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
 
   <Lexicon id ="OEWN_Sample"
@@ -170,6 +170,8 @@
             <Sense id ="SCEAMUNG_N_sense"><SenseDefinition gloss = "disgrace"/></Sense>
           </LexicalEntry>
 
-          <Synset id="example-ang-shame-n" partOfSpeech="n" ili = "asdasda" members="ABLYSUNG_N_sense_2 A-SWARNUNG_N_sense_1 "></Synset>
+          <Synset id="example-ang-shame-n" partOfSpeech="n" ili = "asdasda" ></Synset>
+          <Synset id="example-ang-shame-v" partOfSpeech="v" ili = "asdasda" ></Synset>
+          
   </Lexicon>
 </LexicalResource>
