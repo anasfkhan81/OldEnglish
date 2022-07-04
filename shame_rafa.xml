@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://raw.githubusercontent.com/anasfkhan81/OldEnglish/main/WN-IELMF-0.DTD">
+<LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <Lexicon id ="OEWN_Sample"
+          label = "A Sample of the Old English WordNet"
+          email = "anasfkhan81@gmail.com"
+          license = "https://creativecommons.org/publicdomain/zero/1.0/"
+          version = "0.1"
+          language = "ang">
+          <LexicalEntry id = "A__APSEN_N" partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm="āpsen"/>
+            <Sense id = "A__APSEN_N_sense" >
+              <SenseDefinition gloss = "shameless, foulness"/>
+            </Sense>
+          </LexicalEntry>
+
+
+          <LexicalEntry id = "A__APSEN_ADJ" partOfSpeech="a">
+            <!-- Not found-->
+            <Lemma writtenForm="æpsen"/>
+            <Sense id = "A__APSEN_ADJ_sense" >
+              <SenseDefinition gloss = "shameless"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "A-F__ARAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āfǣran "/>
+            <Sense id="A-F__ARAN_VB_sense">
+              <SenseDefinition gloss = "to frighten"/>
+            </Sense>
+          </LexicalEntry>
+    
+          <LexicalEntry id = "A__APSENNES_N" partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm="æpsenes"/>
+            <Sense id = "A__APSENNES_N_sense">
+              <SenseDefinition gloss = "cowardice, disgrace"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "A_AWISC-BEREND_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ǣwiscberende"/>
+            <Sense id = "A_AWISC-BEREND_ADJ_sense">
+              <SenseDefinition gloss = "disgraceful, shameful"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "A_AWISCE_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="awisce"/>
+            <Sense id = "A_AWISCE_ADJ_sense">
+              <SenseDefinition gloss = "shameful"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "A_AWISCLIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ǣwisclic"/>
+            <Sense id = "A_AWISCLIC_ADJ_sense">
+              <SenseDefinition gloss = "disgraceful, infamous"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "A_AWISC_MOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ǣwiscmōd"/>
+            <Sense id ="A_AWISC_MOD_ADJ_sense">
+              <SenseDefinition gloss = "ashamed, abashed, cowed"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "A__AWISCNES_N" partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm="ǣwiscnes"/>
+            <Sense id= "A__AWISCNES_N_sense_1">
+              <SenseDefinition gloss = "shameless conduct"/>
+            </Sense>
+            <Sense id= "A__AWISCNES_N_sense_2">
+              <SenseDefinition gloss = "reverence"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "ABLYSIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āblysian"/>
+            <Sense id = "ABLYSIAN_VB_sense">
+              <SenseDefinition gloss = "to blush"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "ABLYSUNG_N" partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm="āblysung"/>
+            <Sense id ="ABLYSUNG_N_sense_1">
+              <SenseDefinition gloss = "blushing"/>
+            </Sense>
+            <Sense id ="ABLYSUNG_N_sense_2" synset = "example-ang-shame-n">
+              <SenseDefinition gloss = "shame"/>
+            </Sense>
+          </LexicalEntry>
+
+
+          <LexicalEntry id = "A-METAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āmētan"/>
+            <Sense id = "A-METAN_VB_sense3"><SenseDefinition gloss = "to paint, depict"/></Sense>
+            <Sense id = "A-METAN_VB_sense4"><SenseDefinition gloss = "adorn"/></Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "AREODIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm = "ārēodian"/>
+            <Sense id = "AREODIAN_VB_sense">
+              <SenseDefinition gloss = "to redden, blush"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "AR-LEAS_ADJ" partOfSpeech="a">
+            <Lemma writtenForm = "ārlēas"/>
+            <Sense id = "AR-LEAS_ADJ_sense1"><SenseDefinition gloss = "dishonourable, base, impious, wicked"/></Sense>
+            <Sense id = "AR-LEAS_ADJ_sense2"><SenseDefinition gloss = "cruel"/></Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "AR-LEASLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="ārlēaslīce"/>
+            <Sense id = "AR-LEASLICE_ADV_sense">
+              <SenseDefinition gloss = "cruelly"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "AR-LEASNES_N"  partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm="ārlēasnes"/>
+              <Sense id = "AR-LEASNES_N_">
+                <SenseDefinition gloss = "wickedness"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "AR-WUR__TIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="ārweorðian"/>
+            <Sense id = "AR-WUR__TIAN_VB_sense">
+              <SenseDefinition gloss = "to honour, revenge, worship, extol"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "AR-WUR__TNES_N" partOfSpeech="n">
+            <Lemma writtenForm="ārweorðnes"/>
+            <Sense id = "AR-WUR__TNES_N_sense">
+              <SenseDefinition gloss = "reverence, honour"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "AR-WUR__TUNG_N" partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm="ārweorðung"/>
+            <Sense id = "AR-WUR__TUNG_N_sense">
+              <SenseDefinition gloss = "honour"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "ARYDERAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="ārȳderian"/>
+            <Sense id = "ARYDERAN_VB_sense" synset = "example-ang-shame-v"><SenseDefinition gloss = "to blush"/>
+            </Sense>
+          </LexicalEntry>
+
+        <LexicalEntry id = "A-SCEAMIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āsceamian"/>
+            <Sense id = "A-SCEAMIAN_VB_sense" synset = "example-ang-shame-v"><SenseDefinition gloss = "to feel shame"/>
+          </Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "A-SW__AMAN_VB" partOfSpeech="v">
+          <Lemma writtenForm="āswǣman"/>
+            <Sense id = "A-SW__AMAN_VB_sense_1" synset = "example-ang-shame-v"><SenseDefinition gloss = "grieve, pain"/></Sense>
+            <Sense id = "A-SW__AMAN_VB_sense_2"><SenseDefinition gloss = "to roam, wander about"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "A-SWARNIAN_VB" partOfSpeech="v">
+          <Lemma writtenForm="āswārnian"/>
+          <Sense id = "A-SWARNIAN_VB_sense">
+            <SenseDefinition gloss = "to be confounded"/>
+          </Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "A-SWARNUNG_N" partOfSpeech="n"  grammaticalGender = "f"><Lemma writtenForm="āswārnung"/>
+            <Sense id ="A-SWARNUNG_N_sense_1" synset = "example-ang-shame-n">
+              <SenseDefinition gloss = "shame"/></Sense>
+            <Sense id ="A-SWARNUNG_N_sense_2">
+              <SenseDefinition gloss = "confusion"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "AWISC_N" partOfSpeech="n" grammaticalGender = "f">
+          <Lemma writtenForm="ǣwisc"/>
+            <Sense id ="AWISC_N_sense_1">
+              <SenseDefinition gloss = "offence"/>
+            </Sense>
+            <Sense id ="AWISC_N_sense_2" synset = "example-ang-shame-n">
+              <SenseDefinition gloss = "shame"/>
+            </Sense>
+            <Sense id ="AWISC_N_sense_3">
+              <SenseDefinition gloss = "disgrace"/>
+            </Sense>
+            <Sense id ="AWISC_N_sense_4">
+              <SenseDefinition gloss = "dishonour"/>
+            </Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "BE-WREON_VB" partOfSpeech="v">
+          <Lemma writtenForm="bewrēon"/>
+          <Sense id ="BE-WREON_VB_sense">
+            <SenseDefinition gloss = "to cover, hide, cover over, enwrap, protect, clothe"/>
+          </Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "BYSMOR_N" partOfSpeech="n" grammaticalGender = "nmf">
+          <Lemma writtenForm="bismer"/>
+            <Sense id ="BYSMOR_N_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "disgrace, scandal, shame, mockery, insult, reproach, scorn"/></Sense>
+            <Sense id ="BYSMOR_N_sense_2" ><SenseDefinition gloss = " filthiness, defilement"/></Sense>
+          </LexicalEntry>
+
+        <LexicalEntry id = "BYSMORUNG_N" partOfSpeech="n" grammaticalGender = "nmf">
+          <Lemma writtenForm="bismerung"/>
+            <Sense id ="BYSMORUNG_N_sense_1"><SenseDefinition gloss = "mockery, scorn, blasphemy"/></Sense>
+            <Sense id ="BYSMORUNG_N_sense_2" ><SenseDefinition gloss = "infamy, disrepute"/></Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id = "ED-WIT_N" partOfSpeech="n" grammaticalGender = "n">
+          <Lemma writtenForm="edwīt"/>
+            <Sense id ="ED-WIT_N_sense" synset = "example-ang-shame-n"><SenseDefinition gloss = "reproach, shame, disgrace, scorn, abuse"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "EDWIT_LIF_N" partOfSpeech="n" grammaticalGender = "n"><Lemma writtenForm="edwītlīf"/>
+          <Sense id = "EDWIT_LIF_N_sense"><SenseDefinition gloss = "life of dishonour"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FACEN_N" partOfSpeech="n" grammaticalGender = "n"><Lemma writtenForm="fācen"/>
+          <Sense id = "FACEN_N_sense_1">
+            <SenseDefinition gloss = "deceit, fraud, treachery, sin, evil, wickedness, crime"/>
+          </Sense>
+          <Sense id = "FACEN_N_sense_2">
+            <SenseDefinition gloss = "blemish, fault (in an object)"/>
+          </Sense>
+        </LexicalEntry>
+    
+        <LexicalEntry id = "FOR-SCEAMIAN_VB" partOfSpeech="v">
+          <Lemma writtenForm = "forscamian"></Lemma>
+            <Sense id = "FOR-SCEAMIAN_VB_sense" synset = "example-ang-shame-v">
+              <SenseDefinition gloss = "to be ashamed"/>
+            </Sense>
+        </LexicalEntry>
+   
+        <LexicalEntry id = "FOR-SCEAMUNG_N"  partOfSpeech="n" grammaticalGender = "f">
+          <Lemma writtenForm = "forscamung"/>
+            <Sense id =  "FOR-SCEAMUNG_N_sense" >
+            <SenseDefinition gloss = "modesty"/>
+          </Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FOR-WANDUNG_N" partOfSpeech="n" grammaticalGender = "f">
+          <Lemma writtenForm="forwandung"/>
+          <Sense id ="FOR-WANDUNG_N_sense" synset = "example-ang-shame-n"><SenseDefinition gloss = "shame"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FRACO__T_ADJ" partOfSpeech="a">
+          <Lemma writtenForm = "fracoð"/>
+            <Sense id ="FRACO__T_ADJ_sense_1">
+              <SenseDefinition gloss = "vile, bad, wicked, criminal, impious, filthy, abonimable"/>
+            </Sense>
+            <Sense id ="FRACO__T_ADJ_sense_2"><SenseDefinition gloss = "useless, worthless"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FRACO__T_N" partOfSpeech="n" grammaticalGender = "n">
+          <Lemma writtenForm = "fracoð"/>
+            <Sense id ="FRACO__T_N_sense_1">
+              <SenseDefinition gloss = "insult, contumely, disgrace"/>
+            </Sense>
+            <Sense id ="FRACO__T_N_sense_2">
+              <SenseDefinition gloss = "wickedness"/>
+            </Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FRACO__T-D__ADE_N" partOfSpeech="n" grammaticalGender = "f">
+          <Lemma writtenForm = "fracoðdǣd"/>
+          <Sense id = "FRACO__T-D__ADE_N_sense"><SenseDefinition gloss = "misdeed"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FRACO__TLIC_ADJ" partOfSpeech="a">
+          <Lemma writtenForm = "fracoðlic "/>
+          <Sense id = "FRACO__TLIC_ADJ_sense" synset = "example-ang-shame-adj">
+            <SenseDefinition gloss = "base, ignominious, shameful, lewd"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FRACO__TLICE_ADV" partOfSpeech="a">
+          <Lemma writtenForm = "fracoðlīce"/>
+          <Sense id = "FRACO__TLICE_ADV_sense" synset = "example-ang-shame-adv"><SenseDefinition gloss = "shamefully"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FRACO__TNES_N" partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm = "fracoð-licnes"/>
+            <Sense id = "FRACO__TNES_N_sense"><SenseDefinition gloss = "vileness, coarseness, obscenity"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FRACO__T-WORD_N" partOfSpeech="n" grammaticalGender = "n">
+          <Lemma writtenForm = "fracoðword"/>
+          <Sense id = "FRACO__T-WORD_N_sense"><SenseDefinition gloss = "insulting word"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FUL_ADJ" partOfSpeech="a">
+          <Lemma writtenForm="fūl"/>
+          <Sense id = "FUL_ADJ_sense_1"><SenseDefinition gloss = "foul, unclean, impure, vile, corrupt, rotten"/></Sense>
+          <Sense id = "FUL_ADJ_sense_2"><SenseDefinition gloss = "black alder"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "FULLIC_ADJ" partOfSpeech="a">
+          <Lemma writtenForm="fūllic"/>
+            <Sense id = "FULLIC_ADJ_sense" synset = "example-ang-shame-adv"><SenseDefinition gloss = "unclean objectionable, shameful, base, foul"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "HUXLIC_ADJ" partOfSpeech="a">
+          <Lemma writtenForm="hūsclic"/>
+            <Sense id = "HUXLIC_ADJ_sense" synset = "example-ang-shame-adj"><SenseDefinition gloss = "shameful, ignominious"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "HUXLICE_ADV" partOfSpeech="a">
+          <Lemma writtenForm ="hūsclīce"/>
+          <Sense id = "HUXLICE_ADJ_sense" synset = "example-ang-shame-adv"><SenseDefinition gloss = "shamefully, ignominiously"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "LYSU_ADJ" partOfSpeech="a">
+          <Lemma writtenForm="lysu"/>
+          <Sense id = "LYSU_ADJ_sense">
+              <SenseDefinition gloss = "base, false, evil"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "OFER-GEOTAN_VB" partOfSpeech="v">
+          <Lemma writtenForm="ofergēotan"/>
+          <Sense id = "OFER-GEOTAN_VB_sense">
+            <SenseDefinition gloss = "to pour upon, suffuse, flood, overwhelm"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "OFER-WRIGAN_VB" partOfSpeech="v">
+          <Lemma writtenForm="oferwrēon"/>
+          <Sense id = "OFER-WRIGAN_VB_sense">
+            <SenseDefinition gloss = "to cover over, conceal, hide"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "OR-WIR__TLIC_ADJ" partOfSpeech="a">
+          <Lemma writtenForm="orwyrðlic "/>
+          <Sense id = "OR-WIR__TLIC_ADJ_sense" synset = "example-ang-shame-adj"><SenseDefinition gloss = "shameful"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "OR-WIR__TU_N" partOfSpeech="n" grammaticalGender = "f">
+          <Lemma writtenForm="orwyrð" />
+          <Sense id ="OR-WIR__TU_N_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "shame, dishonour"/></Sense>
+          <Sense id ="OR-WIR__TU_N_sense_2"><SenseDefinition gloss = "abuse"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "SCEAM-F__AST_ADJ" partOfSpeech="a">
+          <Lemma writtenForm="scamfæst"/>
+            <Sense id = "SCEAM-F__AST_ADJ_sense" synset = "example-ang-shame-adj"><SenseDefinition gloss = "Shamefast, modest"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "SCEAMIAN_VB" partOfSpeech="v">
+          <Lemma writtenForm="scamian"/>
+          <Sense id = "SCEAMIAN_VB_sense" synset = "example-ang-shame-v"><SenseDefinition gloss = "to be ashamed, blush"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "SCEAM-LEAS_ADJ" partOfSpeech="a">
+          <Lemma writtenForm="scamlēas"/>
+          <Sense id = "SCEAM-LEAS_ADJ_sense">
+            <SenseDefinition gloss = "shameless, imprudent, immodest"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "SCEAM-LICE_ADJ" partOfSpeech="a">
+          <Lemma writtenForm="scamlīce"/>
+            <Sense id = "SCEAM-LICE_ADV_sense_1"><SenseDefinition gloss = "shameless, disgraceful"/></Sense>
+            <Sense id = "SCEAM-LICE_ADV_sense_2"><SenseDefinition gloss = "modest"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "SCEAM-LIC_ADJ" partOfSpeech="a">
+          <Lemma writtenForm="scamlic"/>
+            <Sense id = "SCEAM-LIC_ADJ_sense_1"><SenseDefinition gloss = "shamelessly, disgracefully"/></Sense>
+            <Sense id = "SCEAM-LIC_ADJ_sense_2"><SenseDefinition gloss = "modestly"/></Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id = "SCEAMU_N" partOfSpeech="n" grammaticalGender = "f">
+          <Lemma writtenForm="scamu"/>
+          <Sense id ="SCEAMU_N_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "'shame', confusion"/></Sense>
+          <Sense id ="SCEAMU_N_sense_2"><SenseDefinition gloss = "disgrace, dishonour"/></Sense>
+          <Sense id ="SCEAMU_N_sense_3"><SenseDefinition gloss = "insult"/></Sense>
+          <Sense id ="SCEAMU_N_sense_4"><SenseDefinition gloss = "shameful circumstance"/></Sense>
+          <Sense id ="SCEAMU_N_sense_5"><SenseDefinition gloss = "modesty"/></Sense>
+          <Sense id ="SCEAMU_N_sense_6"><SenseDefinition gloss = "private parts"/></Sense>
+        </LexicalEntry>
+
+          <LexicalEntry id = "SCEAND_N_I" partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm="scand"/>
+            <Sense id ="SCEAND_N_I_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "ignominy, shame, confusion, disgrace"/></Sense>
+            <Sense id ="SCEAND_N_I_sense_2" ><SenseDefinition gloss = "scandal, disgraceful thing"/></Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "SCEANDLIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="scandlic"/>
+            <Sense id = "SCEANDLIC_ADJ_sense">
+              <SenseDefinition gloss = "shameful, disgraceful, vile, unchaste"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "SCEANDLICE_ADV" partOfSpeech="a">
+            <Lemma writtenForm="scandlīce"/>
+            <Sense id = "SCEANDLICE_ADV_sense">
+              <SenseDefinition gloss = "shamefully, obscenely, insultingly"/>
+            </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "SCEANDLICNES_N"  partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm="scandlicnes"/>
+            <Sense id ="SCEANDLICNES_N_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "shame, disgrace"/></Sense>
+            <Sense id ="SCEANDLICNES_N_sense_2"><SenseDefinition gloss = "disgraceful act"/></Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "SCEAM-F__ASTNES_N">
+            <Lemma writtenForm="scamfæstnes"/>
+             <Sense id = "SCEAM-F__ASTNES_N_sense">
+                <SenseDefinition gloss = "shamefast, modest"></SenseDefinition>
+             </Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "SCEAM-LEAST_N" partOfSpeech="n" grammaticalGender = "f">
+              <Lemma writtenForm="scamlēast"/>
+              <Sense id ="SCEAM-LEAST_N_sense" synset = "example-ang-shame-n"><SenseDefinition gloss = "impudence, shamelessness, immodesty"/></Sense>
+            </LexicalEntry>
+    
+          <LexicalEntry id = "SCEAM-LIM_N" partOfSpeech="n">
+            <Lemma writtenForm="scamlim"/>
+            <Sense id = "SCEAM-LIM_N_sense_1"><SenseDefinition gloss = "private member"/></Sense>
+            <Sense id="SCEAM-LIM_N_sense_2"><SenseDefinition gloss = "Shame limb"/></Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "SCEAMUNG_N" partOfSpeech="n" grammaticalGender = "f">
+            <Lemma writtenForm="scamung"/>
+            <Sense id ="SCEAMUNG_N_sense"><SenseDefinition gloss = "disgrace"/></Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "TTURGEOTAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="ðurhgēotan"/>
+            <Sense id ="TTURGEOTAN_VB_sense">
+              <SenseDefinition gloss = "disgrace"/></Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "UN-FORWANDODLIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="unforwandodlic"/>
+            <Sense id = "UN-FORWANDODLIC_ADJ_sense">
+              <SenseDefinition gloss = "unhesitating, fearless"/></Sense>
+          </LexicalEntry>
+
+          <LexicalEntry id = "UN-FORWANDODLICE_ADV" partOfSpeech="a">
+            <Lemma writtenForm="unforwandodlīce"/>
+            <Sense id = "UN-FORWANDODLICE_ADV_sense">
+              <SenseDefinition gloss = "unhesitatingly, fearlessly, recklessly"/></Sense>
+          </LexicalEntry>
+
+          <Synset id="example-ang-shame-n" partOfSpeech="n" ili = "asdasda" ></Synset>
+          <Synset id="example-ang-shame-v" partOfSpeech="v" ili = "asdasda" ></Synset>
+          <Synset id="example-ang-shame-adj" partOfSpeech="a" ili = "asdasda" ></Synset>
+          <Synset id="example-ang-shame-adv" partOfSpeech="a" ili = "asdasda" ></Synset>
+
+  </Lexicon>
+</LexicalResource>
+
