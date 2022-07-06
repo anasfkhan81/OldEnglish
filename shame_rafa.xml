@@ -450,9 +450,27 @@
           </LexicalEntry>
 
           <Synset id="OEWN_Sample-example-ang-shame-n" partOfSpeech="n" ili = "i76196" ></Synset>
+          <!--
+          i76196; painful emotion resulting from an awareness of inadequacy or guilt
+          i112893, a state of dishonor; shame, ignominy, disgrace
+          i75080; an unfortunate development; pity, shame
+          -->
           <Synset id="OEWN_Sample-example-ang-shame-v" partOfSpeech="v" ili = "i3442" ></Synset>
+          <!--
+          i34432; bring shame or dishonor upon; shame, attaint, dishonor, dishonour, disgrace
+          i34253; compel through a sense of shame; shame
+          i30693; cause to be ashamed; shame
+          i27137; surpass or beat by a wide margin; shame
+          -->
           <Synset id="OEWN_Sample-example-ang-shame-adj" partOfSpeech="a" ili = "i6716" ></Synset>
+          <!--
+          i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
+          i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous
+          -->
           <Synset id="OEWN_Sample-example-ang-shame-adv" partOfSpeech="r" ili = "00315026" ></Synset>
+          <!--
+          i20315; in a dishonorable manner or to a dishonorable degree; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably
+          -->
 
   </Lexicon>
 </LexicalResource>
