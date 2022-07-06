@@ -15,7 +15,6 @@
             </Sense>
           </LexicalEntry>
 
-
           <LexicalEntry id = "A__APSEN_ADJ" partOfSpeech="a">
             <!-- Not found-->
             <Lemma writtenForm="æpsen"/>
@@ -30,7 +29,7 @@
               <SenseDefinition gloss = "to frighten"/>
             </Sense>
           </LexicalEntry>
-    
+
           <LexicalEntry id = "A__APSENNES_N" partOfSpeech="n" grammaticalGender = "f">
             <Lemma writtenForm="æpsenes"/>
             <Sense id = "A__APSENNES_N_sense">
@@ -88,11 +87,10 @@
             <Sense id ="ABLYSUNG_N_sense_1">
               <SenseDefinition gloss = "blushing"/>
             </Sense>
-            <Sense id ="ABLYSUNG_N_sense_2" synset = "example-ang-shame-n">
+            <Sense id ="ABLYSUNG_N_sense_2" synset = "OEWN_Sample-example-ang-shame-n">
               <SenseDefinition gloss = "shame"/>
             </Sense>
           </LexicalEntry>
-
 
           <LexicalEntry id = "A-METAN_VB" partOfSpeech="v">
             <Lemma writtenForm="āmētan"/>
@@ -150,19 +148,19 @@
 
           <LexicalEntry id = "ARYDERAN_VB" partOfSpeech="v">
             <Lemma writtenForm="ārȳderian"/>
-            <Sense id = "ARYDERAN_VB_sense" synset = "example-ang-shame-v"><SenseDefinition gloss = "to blush"/>
+            <Sense id = "ARYDERAN_VB_sense" synset = "OEWN_Sample-example-ang-shame-v"><SenseDefinition gloss = "to blush"/>
             </Sense>
           </LexicalEntry>
 
         <LexicalEntry id = "A-SCEAMIAN_VB" partOfSpeech="v">
             <Lemma writtenForm="āsceamian"/>
-            <Sense id = "A-SCEAMIAN_VB_sense" synset = "example-ang-shame-v"><SenseDefinition gloss = "to feel shame"/>
+            <Sense id = "A-SCEAMIAN_VB_sense" synset = "OEWN_Sample-example-ang-shame-v"><SenseDefinition gloss = "to feel shame"/>
           </Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "A-SW__AMAN_VB" partOfSpeech="v">
           <Lemma writtenForm="āswǣman"/>
-            <Sense id = "A-SW__AMAN_VB_sense_1" synset = "example-ang-shame-v"><SenseDefinition gloss = "grieve, pain"/></Sense>
+            <Sense id = "A-SW__AMAN_VB_sense_1" synset = "OEWN_Sample-example-ang-shame-v"><SenseDefinition gloss = "grieve, pain"/></Sense>
             <Sense id = "A-SW__AMAN_VB_sense_2"><SenseDefinition gloss = "to roam, wander about"/></Sense>
         </LexicalEntry>
 
@@ -174,7 +172,7 @@
         </LexicalEntry>
 
         <LexicalEntry id = "A-SWARNUNG_N" partOfSpeech="n"  grammaticalGender = "f"><Lemma writtenForm="āswārnung"/>
-            <Sense id ="A-SWARNUNG_N_sense_1" synset = "example-ang-shame-n">
+            <Sense id ="A-SWARNUNG_N_sense_1" synset = "OEWN_Sample-example-ang-shame-n">
               <SenseDefinition gloss = "shame"/></Sense>
             <Sense id ="A-SWARNUNG_N_sense_2">
               <SenseDefinition gloss = "confusion"/></Sense>
@@ -185,7 +183,7 @@
             <Sense id ="AWISC_N_sense_1">
               <SenseDefinition gloss = "offence"/>
             </Sense>
-            <Sense id ="AWISC_N_sense_2" synset = "example-ang-shame-n">
+            <Sense id ="AWISC_N_sense_2" synset = "OEWN_Sample-example-ang-shame-n">
               <SenseDefinition gloss = "shame"/>
             </Sense>
             <Sense id ="AWISC_N_sense_3">
@@ -205,7 +203,7 @@
 
         <LexicalEntry id = "BYSMOR_N" partOfSpeech="n" grammaticalGender = "nmf">
           <Lemma writtenForm="bismer"/>
-            <Sense id ="BYSMOR_N_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "disgrace, scandal, shame, mockery, insult, reproach, scorn"/></Sense>
+            <Sense id ="BYSMOR_N_sense_1" synset = "OEWN_Sample-example-ang-shame-n"><SenseDefinition gloss = "disgrace, scandal, shame, mockery, insult, reproach, scorn"/></Sense>
             <Sense id ="BYSMOR_N_sense_2" ><SenseDefinition gloss = " filthiness, defilement"/></Sense>
           </LexicalEntry>
 
@@ -214,10 +212,10 @@
             <Sense id ="BYSMORUNG_N_sense_1"><SenseDefinition gloss = "mockery, scorn, blasphemy"/></Sense>
             <Sense id ="BYSMORUNG_N_sense_2" ><SenseDefinition gloss = "infamy, disrepute"/></Sense>
         </LexicalEntry>
-        
+
         <LexicalEntry id = "ED-WIT_N" partOfSpeech="n" grammaticalGender = "n">
           <Lemma writtenForm="edwīt"/>
-            <Sense id ="ED-WIT_N_sense" synset = "example-ang-shame-n"><SenseDefinition gloss = "reproach, shame, disgrace, scorn, abuse"/></Sense>
+            <Sense id ="ED-WIT_N_sense" synset = "OEWN_Sample-example-ang-shame-n"><SenseDefinition gloss = "reproach, shame, disgrace, scorn, abuse"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "EDWIT_LIF_N" partOfSpeech="n" grammaticalGender = "n"><Lemma writtenForm="edwītlīf"/>
@@ -232,14 +230,14 @@
             <SenseDefinition gloss = "blemish, fault (in an object)"/>
           </Sense>
         </LexicalEntry>
-    
+
         <LexicalEntry id = "FOR-SCEAMIAN_VB" partOfSpeech="v">
           <Lemma writtenForm = "forscamian"></Lemma>
-            <Sense id = "FOR-SCEAMIAN_VB_sense" synset = "example-ang-shame-v">
+            <Sense id = "FOR-SCEAMIAN_VB_sense" synset = "OEWN_Sample-example-ang-shame-v">
               <SenseDefinition gloss = "to be ashamed"/>
             </Sense>
         </LexicalEntry>
-   
+
         <LexicalEntry id = "FOR-SCEAMUNG_N"  partOfSpeech="n" grammaticalGender = "f">
           <Lemma writtenForm = "forscamung"/>
             <Sense id =  "FOR-SCEAMUNG_N_sense" >
@@ -249,7 +247,7 @@
 
         <LexicalEntry id = "FOR-WANDUNG_N" partOfSpeech="n" grammaticalGender = "f">
           <Lemma writtenForm="forwandung"/>
-          <Sense id ="FOR-WANDUNG_N_sense" synset = "example-ang-shame-n"><SenseDefinition gloss = "shame"/></Sense>
+          <Sense id ="FOR-WANDUNG_N_sense" synset = "OEWN_Sample-example-ang-shame-n"><SenseDefinition gloss = "shame"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "FRACO__T_ADJ" partOfSpeech="a">
@@ -277,13 +275,13 @@
 
         <LexicalEntry id = "FRACO__TLIC_ADJ" partOfSpeech="a">
           <Lemma writtenForm = "fracoðlic "/>
-          <Sense id = "FRACO__TLIC_ADJ_sense" synset = "example-ang-shame-adj">
+          <Sense id = "FRACO__TLIC_ADJ_sense" synset = "OEWN_Sample-example-ang-shame-adj">
             <SenseDefinition gloss = "base, ignominious, shameful, lewd"/></Sense>
         </LexicalEntry>
 
-        <LexicalEntry id = "FRACO__TLICE_ADV" partOfSpeech="a">
+        <LexicalEntry id = "FRACO__TLICE_ADV" partOfSpeech="r">
           <Lemma writtenForm = "fracoðlīce"/>
-          <Sense id = "FRACO__TLICE_ADV_sense" synset = "example-ang-shame-adv"><SenseDefinition gloss = "shamefully"/></Sense>
+          <Sense id = "FRACO__TLICE_ADV_sense" synset = "OEWN_Sample-example-ang-shame-adv"><SenseDefinition gloss = "shamefully"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "FRACO__TNES_N" partOfSpeech="n" grammaticalGender = "f">
@@ -304,17 +302,17 @@
 
         <LexicalEntry id = "FULLIC_ADJ" partOfSpeech="a">
           <Lemma writtenForm="fūllic"/>
-            <Sense id = "FULLIC_ADJ_sense" synset = "example-ang-shame-adv"><SenseDefinition gloss = "unclean objectionable, shameful, base, foul"/></Sense>
+            <Sense id = "FULLIC_ADJ_sense" synset = "OEWN_Sample-example-ang-shame-adj"><SenseDefinition gloss = "unclean objectionable, shameful, base, foul"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "HUXLIC_ADJ" partOfSpeech="a">
           <Lemma writtenForm="hūsclic"/>
-            <Sense id = "HUXLIC_ADJ_sense" synset = "example-ang-shame-adj"><SenseDefinition gloss = "shameful, ignominious"/></Sense>
+            <Sense id = "HUXLIC_ADJ_sense" synset = "OEWN_Sample-example-ang-shame-adj"><SenseDefinition gloss = "shameful, ignominious"/></Sense>
         </LexicalEntry>
 
-        <LexicalEntry id = "HUXLICE_ADV" partOfSpeech="a">
+        <LexicalEntry id = "HUXLICE_ADV" partOfSpeech="r">
           <Lemma writtenForm ="hūsclīce"/>
-          <Sense id = "HUXLICE_ADJ_sense" synset = "example-ang-shame-adv"><SenseDefinition gloss = "shamefully, ignominiously"/></Sense>
+          <Sense id = "HUXLICE_ADJ_sense" synset = "OEWN_Sample-example-ang-shame-adv"><SenseDefinition gloss = "shamefully, ignominiously"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "LYSU_ADJ" partOfSpeech="a">
@@ -337,23 +335,23 @@
 
         <LexicalEntry id = "OR-WIR__TLIC_ADJ" partOfSpeech="a">
           <Lemma writtenForm="orwyrðlic "/>
-          <Sense id = "OR-WIR__TLIC_ADJ_sense" synset = "example-ang-shame-adj"><SenseDefinition gloss = "shameful"/></Sense>
+          <Sense id = "OR-WIR__TLIC_ADJ_sense" synset = "OEWN_Sample-example-ang-shame-adj"><SenseDefinition gloss = "shameful"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "OR-WIR__TU_N" partOfSpeech="n" grammaticalGender = "f">
           <Lemma writtenForm="orwyrð" />
-          <Sense id ="OR-WIR__TU_N_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "shame, dishonour"/></Sense>
+          <Sense id ="OR-WIR__TU_N_sense_1" synset = "OEWN_Sample-example-ang-shame-n"><SenseDefinition gloss = "shame, dishonour"/></Sense>
           <Sense id ="OR-WIR__TU_N_sense_2"><SenseDefinition gloss = "abuse"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "SCEAM-F__AST_ADJ" partOfSpeech="a">
           <Lemma writtenForm="scamfæst"/>
-            <Sense id = "SCEAM-F__AST_ADJ_sense" synset = "example-ang-shame-adj"><SenseDefinition gloss = "Shamefast, modest"/></Sense>
+            <Sense id = "SCEAM-F__AST_ADJ_sense" synset = "OEWN_Sample-example-ang-shame-adj"><SenseDefinition gloss = "Shamefast, modest"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "SCEAMIAN_VB" partOfSpeech="v">
           <Lemma writtenForm="scamian"/>
-          <Sense id = "SCEAMIAN_VB_sense" synset = "example-ang-shame-v"><SenseDefinition gloss = "to be ashamed, blush"/></Sense>
+          <Sense id = "SCEAMIAN_VB_sense" synset = "OEWN_Sample-example-ang-shame-v"><SenseDefinition gloss = "to be ashamed, blush"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "SCEAM-LEAS_ADJ" partOfSpeech="a">
@@ -376,7 +374,7 @@
 
         <LexicalEntry id = "SCEAMU_N" partOfSpeech="n" grammaticalGender = "f">
           <Lemma writtenForm="scamu"/>
-          <Sense id ="SCEAMU_N_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "'shame', confusion"/></Sense>
+          <Sense id ="SCEAMU_N_sense_1" synset = "OEWN_Sample-example-ang-shame-n"><SenseDefinition gloss = "'shame', confusion"/></Sense>
           <Sense id ="SCEAMU_N_sense_2"><SenseDefinition gloss = "disgrace, dishonour"/></Sense>
           <Sense id ="SCEAMU_N_sense_3"><SenseDefinition gloss = "insult"/></Sense>
           <Sense id ="SCEAMU_N_sense_4"><SenseDefinition gloss = "shameful circumstance"/></Sense>
@@ -386,7 +384,7 @@
 
           <LexicalEntry id = "SCEAND_N_I" partOfSpeech="n" grammaticalGender = "f">
             <Lemma writtenForm="scand"/>
-            <Sense id ="SCEAND_N_I_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "ignominy, shame, confusion, disgrace"/></Sense>
+            <Sense id ="SCEAND_N_I_sense_1" synset = "OEWN_Sample-example-ang-shame-n"><SenseDefinition gloss = "ignominy, shame, confusion, disgrace"/></Sense>
             <Sense id ="SCEAND_N_I_sense_2" ><SenseDefinition gloss = "scandal, disgraceful thing"/></Sense>
           </LexicalEntry>
 
@@ -397,7 +395,7 @@
             </Sense>
           </LexicalEntry>
 
-          <LexicalEntry id = "SCEANDLICE_ADV" partOfSpeech="a">
+          <LexicalEntry id = "SCEANDLICE_ADV" partOfSpeech="r">
             <Lemma writtenForm="scandlīce"/>
             <Sense id = "SCEANDLICE_ADV_sense">
               <SenseDefinition gloss = "shamefully, obscenely, insultingly"/>
@@ -406,7 +404,7 @@
 
           <LexicalEntry id = "SCEANDLICNES_N"  partOfSpeech="n" grammaticalGender = "f">
             <Lemma writtenForm="scandlicnes"/>
-            <Sense id ="SCEANDLICNES_N_sense_1" synset = "example-ang-shame-n"><SenseDefinition gloss = "shame, disgrace"/></Sense>
+            <Sense id ="SCEANDLICNES_N_sense_1" synset = "OEWN_Sample-example-ang-shame-n"><SenseDefinition gloss = "shame, disgrace"/></Sense>
             <Sense id ="SCEANDLICNES_N_sense_2"><SenseDefinition gloss = "disgraceful act"/></Sense>
           </LexicalEntry>
 
@@ -419,9 +417,9 @@
 
           <LexicalEntry id = "SCEAM-LEAST_N" partOfSpeech="n" grammaticalGender = "f">
               <Lemma writtenForm="scamlēast"/>
-              <Sense id ="SCEAM-LEAST_N_sense" synset = "example-ang-shame-n"><SenseDefinition gloss = "impudence, shamelessness, immodesty"/></Sense>
+              <Sense id ="SCEAM-LEAST_N_sense" synset = "OEWN_Sample-example-ang-shame-n"><SenseDefinition gloss = "impudence, shamelessness, immodesty"/></Sense>
             </LexicalEntry>
-    
+
           <LexicalEntry id = "SCEAM-LIM_N" partOfSpeech="n">
             <Lemma writtenForm="scamlim"/>
             <Sense id = "SCEAM-LIM_N_sense_1"><SenseDefinition gloss = "private member"/></Sense>
@@ -445,17 +443,16 @@
               <SenseDefinition gloss = "unhesitating, fearless"/></Sense>
           </LexicalEntry>
 
-          <LexicalEntry id = "UN-FORWANDODLICE_ADV" partOfSpeech="a">
+          <LexicalEntry id = "UN-FORWANDODLICE_ADV" partOfSpeech="r">
             <Lemma writtenForm="unforwandodlīce"/>
             <Sense id = "UN-FORWANDODLICE_ADV_sense">
               <SenseDefinition gloss = "unhesitatingly, fearlessly, recklessly"/></Sense>
           </LexicalEntry>
 
-          <Synset id="example-ang-shame-n" partOfSpeech="n" ili = "asdasda" ></Synset>
-          <Synset id="example-ang-shame-v" partOfSpeech="v" ili = "asdasda" ></Synset>
-          <Synset id="example-ang-shame-adj" partOfSpeech="a" ili = "asdasda" ></Synset>
-          <Synset id="example-ang-shame-adv" partOfSpeech="a" ili = "asdasda" ></Synset>
+          <Synset id="OEWN_Sample-example-ang-shame-n" partOfSpeech="n" ili = "i76196" ></Synset>
+          <Synset id="OEWN_Sample-example-ang-shame-v" partOfSpeech="v" ili = "i3442" ></Synset>
+          <Synset id="OEWN_Sample-example-ang-shame-adj" partOfSpeech="a" ili = "i6716" ></Synset>
+          <Synset id="OEWN_Sample-example-ang-shame-adv" partOfSpeech="r" ili = "00315026" ></Synset>
 
   </Lexicon>
 </LexicalResource>
-
