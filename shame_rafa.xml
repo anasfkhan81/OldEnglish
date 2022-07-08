@@ -9,6 +9,7 @@
           version = "0.1"
           language = "ang">
           <LexicalEntry id = "A__APSEN_N" partOfSpeech="n" grammaticalGender = "f">
+            <!-- no synsent found -->  
             <Lemma writtenForm="āpsen"/>
             <Sense id = "A__APSEN_N_sense" >
               <SenseDefinition gloss = "shameless, foulness"/>
@@ -24,6 +25,7 @@
           </LexicalEntry>
 
           <LexicalEntry id = "A-F__ARAN_VB" partOfSpeech="v">
+            <!-- no synsent found -->
             <Lemma writtenForm="āfǣran "/>
             <Sense id="A-F__ARAN_VB_sense">
               <SenseDefinition gloss = "to frighten"/>
@@ -32,96 +34,122 @@
 
           <LexicalEntry id = "A__APSENNES_N" partOfSpeech="n" grammaticalGender = "f">
             <Lemma writtenForm="æpsenes"/>
-            <Sense id = "A__APSENNES_N_sense">
+              <Sense id = "A__APSENNES_N_sense" synset="OEWN_Sample-example_ang-shame-n-2">
+                  <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->    
               <SenseDefinition gloss = "cowardice, disgrace"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "A_AWISC-BEREND_ADJ" partOfSpeech="a">
             <Lemma writtenForm="ǣwiscberende"/>
-            <Sense id = "A_AWISC-BEREND_ADJ_sense">
+              <Sense id = "A_AWISC-BEREND_ADJ_sense" synset="OEWN_Sample-example-ang-shame-adj-2">
+              <!-- i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous -->
               <SenseDefinition gloss = "disgraceful, shameful"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "A_AWISCE_ADJ" partOfSpeech="a">
             <Lemma writtenForm="awisce"/>
-            <Sense id = "A_AWISCE_ADJ_sense">
+              <Sense id = "A_AWISCE_ADJ_sense" synset="OEWN_Sample-example-ang-shame-adj-2">
+            <!-- i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous -->    
               <SenseDefinition gloss = "shameful"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "A_AWISCLIC_ADJ" partOfSpeech="a">
             <Lemma writtenForm="ǣwisclic"/>
-            <Sense id = "A_AWISCLIC_ADJ_sense">
+              <Sense id = "A_AWISCLIC_ADJ_sense" synset="OEWN_Sample-example-ang-shame-adj">
+              <!-- i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
+              -->
               <SenseDefinition gloss = "disgraceful, infamous"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "A_AWISC_MOD_ADJ" partOfSpeech="a">
             <Lemma writtenForm="ǣwiscmōd"/>
-            <Sense id ="A_AWISC_MOD_ADJ_sense">
+              <Sense id ="A_AWISC_MOD_ADJ_sense" synset="OEWN_Sample-example-ang-shame-adj-2">
+              <!-- i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous -->
               <SenseDefinition gloss = "ashamed, abashed, cowed"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "A__AWISCNES_N" partOfSpeech="n" grammaticalGender = "f">
             <Lemma writtenForm="ǣwiscnes"/>
-            <Sense id= "A__AWISCNES_N_sense_1">
+              <Sense id= "A__AWISCNES_N_sense_1" synset="OEWN_Sample-example_ang-shame-n-2">
+              <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->    
               <SenseDefinition gloss = "shameless conduct"/>
             </Sense>
             <Sense id= "A__AWISCNES_N_sense_2">
               <SenseDefinition gloss = "reverence"/>
+              <!-- no synset found -->
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "ABLYSIAN_VB" partOfSpeech="v">
             <Lemma writtenForm="āblysian"/>
-            <Sense id = "ABLYSIAN_VB_sense">
+              <Sense id = "ABLYSIAN_VB_sense" synset="OEWN_Sample-example-ang-shame-v-2">
+              <!-- i30693; cause to be ashamed; shame -->
               <SenseDefinition gloss = "to blush"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "ABLYSUNG_N" partOfSpeech="n" grammaticalGender = "f">
             <Lemma writtenForm="āblysung"/>
-            <Sense id ="ABLYSUNG_N_sense_1">
+              <Sense id ="ABLYSUNG_N_sense_1" synset="OEWN_Sample-example-ang-shame-n">
+              <!-- i76196; painful emotion resulting from an awareness of inadequacy or guilt -->
               <SenseDefinition gloss = "blushing"/>
             </Sense>
-            <Sense id ="ABLYSUNG_N_sense_2" synset = "OEWN_Sample-example-ang-shame-n">
+            <Sense id ="ABLYSUNG_N_sense_2" synset = "OEWN_Sample-example-ang-shame-n-2">
               <SenseDefinition gloss = "shame"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "A-METAN_VB" partOfSpeech="v">
             <Lemma writtenForm="āmētan"/>
-            <Sense id = "A-METAN_VB_sense3"><SenseDefinition gloss = "to paint, depict"/></Sense>
-            <Sense id = "A-METAN_VB_sense4"><SenseDefinition gloss = "adorn"/></Sense>
+            <Sense id = "A-METAN_VB_sense3">
+            <!-- no synset found -->
+            <SenseDefinition gloss = "to paint, depict"/>
+            </Sense>
+            <Sense id = "A-METAN_VB_sense4">
+            <!-- no synset found -->
+            <SenseDefinition gloss = "adorn"/>
+            </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "AREODIAN_VB" partOfSpeech="v">
             <Lemma writtenForm = "ārēodian"/>
-            <Sense id = "AREODIAN_VB_sense">
+              <Sense id = "AREODIAN_VB_sense" synset="OEWN_Sample-example-ang-shame-v-2">
+              <!-- i30693; cause to be ashamed; shame -->
               <SenseDefinition gloss = "to redden, blush"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "AR-LEAS_ADJ" partOfSpeech="a">
             <Lemma writtenForm = "ārlēas"/>
-            <Sense id = "AR-LEAS_ADJ_sense1"><SenseDefinition gloss = "dishonourable, base, impious, wicked"/></Sense>
-            <Sense id = "AR-LEAS_ADJ_sense2"><SenseDefinition gloss = "cruel"/></Sense>
+            <Sense id = "AR-LEAS_ADJ_sense1" synset="OEWN_Sample-example-ang-shame-adj">
+            <!-- i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
+          -->
+            <SenseDefinition gloss = "dishonourable, base, impious, wicked"/>
+            </Sense>
+            <Sense id = "AR-LEAS_ADJ_sense2">
+            <!-- no synset found -->
+            <SenseDefinition gloss = "cruel"/>
+            </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "AR-LEASLICE_ADV" partOfSpeech="r">
             <Lemma writtenForm="ārlēaslīce"/>
             <Sense id = "AR-LEASLICE_ADV_sense">
-              <SenseDefinition gloss = "cruelly"/>
+            <!-- no synset found -->
+            <SenseDefinition gloss = "cruelly"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "AR-LEASNES_N"  partOfSpeech="n" grammaticalGender = "f">
             <Lemma writtenForm="ārlēasnes"/>
-              <Sense id = "AR-LEASNES_N_">
-                <SenseDefinition gloss = "wickedness"/>
+              <Sense id = "AR-LEASNES_N_" synset="OEWN_Sample-example_ang-shame-n-2">
+              <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
+              <SenseDefinition gloss = "wickedness"/>
             </Sense>
           </LexicalEntry>
 
@@ -451,23 +479,40 @@
 
           <Synset id="OEWN_Sample-example-ang-shame-n" partOfSpeech="n" ili = "i76196" ></Synset>
           <!--
-          i76196; painful emotion resulting from an awareness of inadequacy or guilt
-          i112893, a state of dishonor; shame, ignominy, disgrace
-          i75080; an unfortunate development; pity, shame
+          i76196; painful emotion resulting from an awareness of inadequacy or guilt        
           -->
-          <Synset id="OEWN_Sample-example-ang-shame-v" partOfSpeech="v" ili = "i3442" ></Synset>
+      
+          <Synset id="OEWN_Sample-example_ang-shame-n-2" partOfSpeech="n" ili="i112893"></Synset>
+          <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
+      
+          <Synset id="OEWN_Sample-example_ang-shame-n-3" partOfSpeech="n" ili="i75080"></Synset>
+          <!-- i75080; an unfortunate development; pity, shame -->
+      
+      
+          <Synset id="OEWN_Sample-example-ang-shame-v" partOfSpeech="v" ili = "i34432" ></Synset>
           <!--
           i34432; bring shame or dishonor upon; shame, attaint, dishonor, dishonour, disgrace
-          i34253; compel through a sense of shame; shame
-          i30693; cause to be ashamed; shame
-          i27137; surpass or beat by a wide margin; shame
           -->
+      
+          <Synset id="OEWN_Sample-example-ang-shame-v-2" partOfSpeech="v" ili="i34253"></Synset>
+          <!-- i30693; cause to be ashamed; shame -->
+      
+          <Synset id="OEWN_Sample-example-ang-shame-v-3" partOfSpeech="v" ili="i27137"></Synset>
+          <!-- i27137; surpass or beat by a wide margin; shame -->
+      
+          <Synset id="OEWN_Sample-example-ang-shame-v-4" partOfSpeech="v" ili="i30693"></Synset>
+          <!-- i34253; compel through a sense of shame; shame -->
+      
+      
           <Synset id="OEWN_Sample-example-ang-shame-adj" partOfSpeech="a" ili = "i6716" ></Synset>
-          <!--
-          i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
-          i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous
+          <!-- i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
           -->
-          <Synset id="OEWN_Sample-example-ang-shame-adv" partOfSpeech="r" ili = "00315026" ></Synset>
+      
+          <Synset id="OEWN_Sample-example-ang-shame-adj-2" partOfSpeech="a" ili = "i8511" ></Synset>
+          <!-- i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous -->
+      
+          
+      <Synset id="OEWN_Sample-example-ang-shame-adv" partOfSpeech="r" ili = "00315026" ></Synset>
           <!--
           i20315; in a dishonorable manner or to a dishonorable degree; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably
           -->
