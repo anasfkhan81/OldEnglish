@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://raw.githubusercontent.com/anasfkhan81/OldEnglish/main/WN-IELMF-0.DTD">
+<LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <Lexicon id ="OEWN_Sample"
+        label = "A Sample of the Old English WordNet"
+        email = "rafael.cruz@uclm.es"
+        license = "https://creativecommons.org/publicdomain/zero/1.0/"
+        version = "0.1"
+        language = "ang">
+        
+        <LexicalEntry id="FOR-B__ARNAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="forbærnan"></Lemma>
+                <Sense id="FOR-B__ARNAN_VB_sense">
+                <SenseDefinition gloss="to cause to burn, burn up, consume by fire, be consumed" />
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="FOR-BELGAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="forbelgan"></Lemma>
+            <Sense id="FOR-BELGAN_VB_sense">
+                <SenseDefinition gloss="to be enraged"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="BELGAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="belgan"></Lemma>
+            <Sense id="BELGAN_VB_sense_1">
+                <SenseDefinition gloss="to be or become angry"></SenseDefinition>
+            </Sense>
+            <Sense id="BELGAN_VB_sense_2">
+                <SenseDefinition gloss="offend, provoke"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <!--  
+        <LexicalEntry id="EA__TBYLG_ADJ" partOfSpeech="a">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="EA__TBYLG_ADJ_sense">
+                <SenseDefinition gloss=""></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        -->
+        
+        <LexicalEntry id="GE-BELGAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="belgan"></Lemma>
+            <Sense id="GE-BELGAN_VB_sense_1">
+                <SenseDefinition gloss="to be or become angry together / with each other"></SenseDefinition>
+            </Sense>
+            <Sense id="GE-BELGAN_VB_sense_2">
+                <SenseDefinition gloss="offend, provoke together / with each other"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GE-BELG_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="gebelg"></Lemma>
+            <Sense id="GE-BELG_N_sense_1">
+                <SenseDefinition gloss="anger"></SenseDefinition>
+            </Sense>
+            <Sense id="GE-BELG_N_sense_2">
+                <SenseDefinition gloss="arrogance"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+      
+        <LexicalEntry id="BOLGEN-MOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="bolgenmōd"></Lemma>
+            <Sense id="BOLGEN-MOD_ADJ_sense">
+                <SenseDefinition gloss="to be enraged"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="BITER_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="biter"></Lemma>
+            <Sense id="BITER_ADJ_sense_1">
+                <SenseDefinition gloss="sharp, cutting"></SenseDefinition>
+            </Sense>
+            <Sense id="BITER_ADJ_sense_2">
+                <SenseDefinition gloss="stinging"></SenseDefinition>
+            </Sense>
+            <Sense id="BITER_ADJ_sense_3">
+                <SenseDefinition gloss="exasperated, angry, embittered"></SenseDefinition>
+            </Sense>
+            <Sense id="BITER_ADJ_sense_4">
+                <SenseDefinition gloss="painful, disastrous, virulent, cruel"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="BITER_LICE_ADV" partOfSpeech="a">
+            <Lemma writtenForm="biterlīce"></Lemma>
+            <Sense id="BITER_LICE_ADV_sense_1">
+                <SenseDefinition gloss="sharp, cutting"></SenseDefinition>
+            </Sense>
+            <Sense id="BITER_LICE_ADV_sense_2">
+                <SenseDefinition gloss="stinging"></SenseDefinition>
+            </Sense>
+            <Sense id="BITER_LICE_ADV_sense_3">
+                <SenseDefinition gloss="exasperated, angry, embittered"></SenseDefinition>
+            </Sense>
+            <Sense id="BITER_LICE_ADV_sense_4">
+                <SenseDefinition gloss="painful, disastrous, virulent, cruel"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="BLATAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="blātan"></Lemma>
+            <Sense id="BLATAN_VB_sense">
+                <SenseDefinition gloss="to be livid, pale"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="UN-BLI__TE_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="unblīðe"></Lemma>
+            <Sense id="UN-BLI__TE_ADJ_sense_1">
+                <SenseDefinition gloss="joyless, sad, sorrowful"></SenseDefinition>
+            </Sense>
+            <Sense id="UN-BLI__TE_ADJ_sense_2">
+                <SenseDefinition gloss="unfriendly"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A__ABYLG_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="ǣbylg"></Lemma>
+            <Sense id="A__ABYLG_N_sense">
+                <SenseDefinition gloss="anger"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A__ABYLG__T_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="ǣbylgð"></Lemma>
+            <Sense id="A__ABYLG__T_N_sense">
+                <SenseDefinition gloss="anger"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A__ABYLGA_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="ǣbylga"></Lemma>
+            <Sense id="A__ABYLGA_N_sense">
+                <SenseDefinition gloss="anger"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A__ABYLGNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="ǣbylgnes"></Lemma>
+            <Sense id="A__ABYLGNES_N_sense">
+                <SenseDefinition gloss="anger, offense"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <!--  
+        <LexicalEntry id="A-BLONCGNE_ADJ" partOfSpeech="a">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="A-BLONCGNE_ADJ_sense">
+                <SenseDefinition gloss=""></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        -->
+        
+        <!--  
+        <LexicalEntry id="GE-BYLGED_ADJ" partOfSpeech="a">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="GE-BYLGED_ADJ_sense_1">
+                <SenseDefinition gloss="to make angry, irritate, offend"></SenseDefinition>
+            </Sense>
+            <Sense id="GE-BYLGED_ADJ_sense_2">
+                <SenseDefinition gloss="hurt, distress"></SenseDefinition>
+            </Sense>
+            <Sense id="GE-BYLGED_ADJ_sense_3">
+                <SenseDefinition gloss="be angry with"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        The lexical entry does not exist per se in Clark-Hall dictionary but the meaning can be reached by follwing word formation rules
+        -->
+        
+        <LexicalEntry id="GE-BYLGAN_V" partOfSpeech="v">
+            <Lemma writtenForm="gebylgan"></Lemma>
+            <Sense id="GE-BYLGAN_V_sense">
+                <SenseDefinition gloss="to make angry, offend"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ELLEN_N" partOfSpeech="n" grammaticalGender="nm">
+            <Lemma writtenForm="ellen"></Lemma>
+            <Sense id="ELLEN_N_sense_1">
+                <SenseDefinition gloss="zeal, strength, courage"></SenseDefinition>
+            </Sense>
+            <Sense id="ELLEN_N_sense_2">
+                <SenseDefinition gloss="‘elder’-tree"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ELLEN-WODIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="ellenwōdian"></Lemma>
+            <Sense id="ELLEN-WODIAN_VB_sense_1">
+                <SenseDefinition gloss="to emulate"></SenseDefinition>
+            </Sense>
+            <Sense id="ELLEN-WODIAN_VB_sense_2">
+                <SenseDefinition gloss="to enfuriate"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="FYR_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="fȳr"></Lemma>
+            <Sense id="FYR_N_sense_1">
+                <SenseDefinition gloss="Fire"></SenseDefinition>
+            </Sense>
+            <Sense id="FYR_N_sense_2">
+                <SenseDefinition gloss="fury"></SenseDefinition>
+                <!-- I added the metaphorical sense but it didn't appear in the dictionary explicitly -->
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GAL-SCIPE_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="gālscipe"></Lemma>
+            <Sense id="GAL-SCIPE_N_sense_1">
+                <SenseDefinition gloss="excess, luxury, lasciviousness, wantonness"></SenseDefinition>
+            </Sense>
+            <Sense id="GAL-SCIPE_N_sense_2">
+                <SenseDefinition gloss="pride"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GEALG-MOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="gealgmōd"></Lemma>
+            <Sense id="GEALG-MOD_ADJ_sense">
+                <SenseDefinition gloss="sad, gloomy, angry"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GEALG_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="geald"></Lemma>
+            <Sense id="GEALG_ADJ_sense">
+                <SenseDefinition gloss="sad, gloomy, rebellious"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GE-GREMMAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="gegremian"></Lemma>
+            <Sense id="GE-GREMMAN_VB_sense_1">
+                <SenseDefinition gloss="to enrage, provoke, irritate"></SenseDefinition>
+            </Sense>
+            <Sense id="GE-GREMMAN_VG_sense_2">
+                <SenseDefinition gloss="revile"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAMA_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="GRAMA_N_sense_1">
+                <SenseDefinition gloss="rage, anger"></SenseDefinition>
+            </Sense>
+            <Sense id="GRAMA_N_sense_2">
+                <SenseDefinition gloss="trouble"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAM_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="gram"></Lemma>
+            <Sense id="GRAM_ADJ_sense_1">
+                <SenseDefinition gloss="angry, cruel, fierce"></SenseDefinition>
+            </Sense>
+            <Sense id="GRAM_ADJ_sense_2">
+                <SenseDefinition gloss="oppressive, hostile"></SenseDefinition>
+            </Sense>
+            <Sense id="GRAM_ADJ_sense_3">
+                <SenseDefinition gloss="enemy"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAM-B__ARE_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="grambǣre"></Lemma>
+            <Sense id="GRAM-B__ARE_ADJ_sense">
+                <SenseDefinition gloss="passionate"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAME_ADV" partOfSpeech="r"> 
+            <Lemma writtenForm="grame"></Lemma>
+            <Sense id="GRAME_ADV_sense">
+                <SenseDefinition gloss="angrily, fiercely, cruelly"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAM-FARNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="gramfǣrnes"></Lemma>
+            <Sense id="GRAM-FARNES_N_sense">
+                <SenseDefinition gloss="wrath"></SenseDefinition>
+                <!-- It didn't appear on Javier's dataset -->
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAM-HEORT_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="gramheort"></Lemma>
+            <Sense id="GRAM-HEORT_ADJ_sense">
+                <SenseDefinition gloss="hostile-minded"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAM-HYCGENDE_ADJ">
+            <Lemma writtenForm="gramhycgende"></Lemma>
+            <Sense id="GRAM_HYCGENDE_ADJ_sense">
+                <SenseDefinition gloss="hostile"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAM-HYGDIG_ADJ">
+            <Lemma writtenForm="gramhȳdig"></Lemma>
+            <Sense id="GRAM-HYGDIG_ADJ_sense">
+                <SenseDefinition gloss="hostile, malignant"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAMIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="gramian"></Lemma>
+            <Sense id="GRAMIAN_VB_sense">
+                <SenseDefinition gloss="to anger, enrage"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAMLIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="GRAMLIC_ADJ_sense">
+                <SenseDefinition gloss="wrathful, fierce, cruel, severe"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GRAMLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="gramlīce"></Lemma>
+            <Sense id="GRAMLICE_ADV_sense">
+                <SenseDefinition gloss="wrathfully, fiercely, cruelly, severly"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GREMMAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="gremman"></Lemma>
+            <Sense id="GREMMAN_VB_sense_1">
+                <SenseDefinition gloss="to enrage, provoke, irritate"></SenseDefinition>
+            </Sense>
+            <Sense id="GREMMAN_VB_sense_2">
+                <SenseDefinition gloss="revile"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GREMMUNG_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="gremung"></Lemma>
+            <Sense id="GREMMUNG_N_sense">
+                <SenseDefinition gloss="provocation"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="NI__TGRAMA_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="nīðgrama"></Lemma>
+            <Sense id="NI__TGRAMA_N_sense">
+                <SenseDefinition gloss="anger, malice"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="NI__TGRIM_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="nīðgrim"></Lemma>
+            <Sense id="NI__TGRIM_ADJ_sense">
+                <SenseDefinition gloss="fierce, hostile"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HAT-HEORTE_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="hātheorte"></Lemma>
+            <Sense id="HAT-HEORTE_ADJ_sense_1">
+                <SenseDefinition gloss="wrathful, furious, passionate"></SenseDefinition>
+            </Sense>
+            <Sense id="HAT-HEORTE_ADJ_sense_2">
+                <SenseDefinition gloss="ardent, whole-hearted"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HAT-HEORTLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="hātheortlīce"></Lemma>
+            <Sense id="HAT-HEORTLICE_ADV_sense_1">
+                <SenseDefinition gloss="wrathfully, furiously, passionately"></SenseDefinition>
+            </Sense>
+            <Sense id="HAT-HEORTLICE_ADV_sense_2">
+                <SenseDefinition gloss="ardently, whole-heartedly"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HAT-HEORTNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="hātheortnes"></Lemma>
+            <Sense id="HAT-HEORTNES_N_sense_1">
+                <SenseDefinition gloss="rage, fury, mania"></SenseDefinition>
+            </Sense>
+            <Sense id="HAT-HEORTNES_N_sense_2">
+                <SenseDefinition gloss="zeal, fervour"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HAT-HEORTE_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="HAT-HEORTE_N_sense">
+                <SenseDefinition gloss="anger, rage"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HIRNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="hīernes"></Lemma>
+            <Sense id="IRNES_N_sense_1">
+                <SenseDefinition gloss="hearing, report"></SenseDefinition>
+            </Sense>
+            <Sense id="IRNES_N_sense_2">
+                <SenseDefinition gloss="obedience, subjection, allegiance"></SenseDefinition>
+            </Sense>
+            <Sense id="IRNES_N_sense_3">
+                <SenseDefinition gloss="jurisdiction, district"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="IRRE_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ierre"></Lemma>
+            <Sense id="IRRE_ADJ_sense_1">
+                <SenseDefinition gloss="wandering, erring, perverse, depraved"></SenseDefinition>
+            </Sense>
+            <Sense id="IRRE_ADJ_sense_2">
+                <SenseDefinition gloss="angry, fierce"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="IRRE_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="ierre"></Lemma>
+            <Sense id="IRRE_ADJ_sense">
+                <SenseDefinition gloss="anger"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="IRRE-MOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ierremōd"></Lemma>
+            <Sense id="IRRE-MOD_ADJ_sense">
+                <SenseDefinition gloss="wrathful, wild"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="IRRINGA_ADV" partOfSpeech="r">
+            <Lemma writtenForm="ierrenga"></Lemma>
+            <Sense id="IRRINGA_ADV_sense">
+                <SenseDefinition gloss="angrily, fiercely"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="IRRINGE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="ierrenga"></Lemma>
+            <Sense id="IRRINGE_ADV_sense">
+                <SenseDefinition gloss="angrily, fiercely"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="IRSIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="iersian"></Lemma>
+            <Sense id="IRSIAN_VB_sense_1">
+                <SenseDefinition gloss="to be angry with, rage"></SenseDefinition>
+            </Sense>
+            <Sense id="IRSIAN_VB_sense_2">
+                <SenseDefinition gloss="enrage, irritate"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="IRSUNG_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="iersung"></Lemma>
+            <Sense id="IIRSUNG_N_sense_1">
+                <SenseDefinition gloss="anger"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GE-YRSIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="geiersian"></Lemma>
+            <Sense id="GE-YRSIAN_VB_sense_1">
+                <SenseDefinition gloss="to be angry with, rage with/to each other"></SenseDefinition>
+            </Sense>
+            
+            <Sense id="GE-YRSIAN_VB_sense_2">
+                <SenseDefinition gloss="enrage, irritate with/to each other"></SenseDefinition>
+            </Sense>
+            <!-- The lexical entry does not exist per se in Clark-Hall dictionary but the meaning can be reached by follwing word formation rules -->
+        </LexicalEntry>
+        
+        <LexicalEntry id="GE-LI__DIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="gelīðian"></Lemma>
+            <Sense id="GE-LI__DIAN_VB_sense_1">
+                <SenseDefinition gloss="to soften, calm, assuage, appease"></SenseDefinition>
+            </Sense>
+            <Sense id="GE-LI__DIAN_VB_sense_2">
+                <SenseDefinition gloss="be mild"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <!-- Not Found
+        <LexicalEntry id="GE-M__ADLA_N" partOfSpeech="n" grammaticalGender="?">
+            <Lemma writtenForm="?"></Lemma>
+            <Sense id="GE-M__ADLA_N_sense">
+                <SenseDefinition gloss="?"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+         -->
+        
+        <LexicalEntry id="RE__T-SCIPE_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="rēðscipe"></Lemma>
+            <Sense id="RE__T-SCIPE_N_sense">
+                <SenseDefinition gloss="fury, anger"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A-SENDAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āsændan"></Lemma>
+            <Sense id="A-SENDAN_VB_sense">
+                <SenseDefinition gloss="to send away, send off, send, give up"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A__TUNDENNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="āðundennes"></Lemma>
+            <Sense id="A__TUNDENNES_N_sense_1">
+                <SenseDefinition gloss="swelling, tumour"></SenseDefinition>
+            </Sense>
+            <Sense id="A__TUNDENNES_N_sense_2">
+                <SenseDefinition gloss="contumacy"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A__TRACIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āðrācian"></Lemma>
+            <Sense id="A__TRACIAN_VB_sense_1">
+                <SenseDefinition gloss="to dread"></SenseDefinition>
+            </Sense>
+            <Sense id="A__TRACIAN_VB_sense_2">
+                <SenseDefinition gloss="frighten"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A__TREOTAN_VB" partOfSpeech="v">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="A__TREOTAN_VB_VB_sense_1">
+                <SenseDefinition gloss="to tire of, weary, be tiresome to, displease, disgust"></SenseDefinition>
+            </Sense>
+            <Sense id="A__TREOTAN_VB_sense_2">
+                <SenseDefinition gloss="to weary, be irksome"></SenseDefinition>
+            </Sense>
+            <Sense id="A__TREOTAN_VB_sense_3">
+                <SenseDefinition gloss="to force away"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A__TROTENNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="āðrotennes"></Lemma>
+            <Sense id="A__TROTENNES_N_sense">
+                <SenseDefinition gloss="wearisomeness"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="T__TRUTIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="prūtian"></Lemma>
+            <Sense id="T__TRUTIAN_VB_sense">
+                <SenseDefinition gloss="to be ‘proud"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="T__TRUTUNG_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="prūtung"></Lemma>
+            <Sense id="T__TRUTUNG_N_sense">
+                <SenseDefinition gloss="pride, arrogance"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="LYGE-TORN_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="lygetorn"></Lemma>
+            <Sense id="LYGE-TORN_ADJ_ADJ_sense">
+                <SenseDefinition gloss="feigned anger or grief"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="TORN_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="torn"></Lemma>
+            <Sense id="TORN_N_sense_1">
+                <SenseDefinition gloss="anger, indignation"></SenseDefinition>
+            </Sense>
+            <Sense id="TORN_N_sense_2">
+                <SenseDefinition gloss="grief, misery, suffering, pain"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="TORN_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="torn"></Lemma>
+            <Sense id="TORN_ADJ_sense">
+                <SenseDefinition gloss="bitter, cruel, grievous"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HYGEW__ALM_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="hygewælm"></Lemma>
+            <Sense id="HYGEW__ALM_N_sense">
+                <SenseDefinition gloss="agitation of mind, anger"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WEA-MET_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="wēamēt"></Lemma>
+            <Sense id="WEA-MET_N_sense">
+                <SenseDefinition gloss="passion, anger"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WEA-MOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="wēamōd"></Lemma>
+            <Sense id="WEA-MOD_ADJ_sense">
+                <SenseDefinition gloss="ill-humoured, angry"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WEA-MODNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="wēamōdnes"></Lemma>
+            <Sense id="WEA-MODNES_N_sense">
+                <SenseDefinition gloss="anger, passion, impatience"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WEDEN-HEORT_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="wēdenheort"></Lemma>
+            <Sense id="WEDEN-HEORT_ADJ_sense">
+                <SenseDefinition gloss="mad, insane"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WEDEN-HEORT_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="wēdenheort"></Lemma>
+            <Sense id="WEDEN-HEORT_N_sense">
+                <SenseDefinition gloss="madness"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WEDEN-HEORTNESS_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="wēdenheortness"></Lemma>
+            <Sense id="WEDEN-HEORTNESS_N_sense">
+                <SenseDefinition gloss="madness, frenzy"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ELLEN-WODNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma  writtenForm="ellenwōdnes"></Lemma>
+            <Sense id="ELLEN-WODNES_N_sense">
+                <SenseDefinition gloss="zeal"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ELLEN-WOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ellenwōd"></Lemma>
+            <Sense id="ELLEN-WOD_ADJ_sense">
+                <SenseDefinition gloss="zealous, earnest"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="wōd"></Lemma>
+            <Sense id="WOD_ADJ_sense_1">
+                <SenseDefinition gloss="mad, raging, senseless"></SenseDefinition>
+            </Sense>
+            <Sense id="WOD_ADJ_sense_2">
+                <SenseDefinition gloss="blasphemous"></SenseDefinition>
+            </Sense>
+            <Sense id="WOD_ADJ_sense_3">
+                <SenseDefinition gloss="of wadan"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WOD_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="wōda"></Lemma>
+            <Sense id="WOD_N_sense_1">
+                <SenseDefinition gloss="madman"></SenseDefinition>
+            </Sense>
+            <Sense id="WOD_N_sense_2">
+                <SenseDefinition gloss="storm, flood, danger"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WOD-__TRAG_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="wōdðrāg"></Lemma>
+            <Sense id="WOD-__TRAG_N_sense">
+                <SenseDefinition gloss="paroxysm, madness, rage, fury"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WOD-FREC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="wōd-frec"></Lemma>
+            <Sense id="WOD-FREC_ADJ_sense">
+                <SenseDefinition gloss="madly ravenous"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WOD-HEORTNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="wōdheortnes"></Lemma>
+            <Sense id="WOD-HEORTNES_N_sense">
+                <SenseDefinition gloss="madness"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WODLIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="wōdlic"></Lemma>
+            <Sense id="WODLIC_ADJ_sense">
+                <SenseDefinition gloss="mad, furious"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WODLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="wōdlīce"></Lemma>
+            <Sense id="WODLICE_ADV_sense_1">
+                <SenseDefinition gloss="madly, furiously"></SenseDefinition>
+            </Sense>
+            <Sense id="WODLICE_ADV_sense_2">
+                <SenseDefinition gloss="blasphemously"></SenseDefinition>
+            </Sense>
+        </LexicalEntry> 
+        
+        <LexicalEntry id="WODNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="wōdnes"></Lemma>
+            <Sense id="WODNES_N_sense">
+                <SenseDefinition gloss="madness, frenzy, folly"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WOD-SCIPE_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="wōdscipe"></Lemma>
+            <Sense id="WOD-SCIPE_N_sense">
+                <SenseDefinition gloss="insanity"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WR__A__TU_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="wrǣððo"></Lemma>
+            <Sense id="WR__A__TU_N_sense">
+                <SenseDefinition gloss="‘wrath,’ anger, indignation"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WR__A__TAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="wrǣðan"></Lemma>
+            <Sense id="WR__A__TAN_VB_sense">
+                <SenseDefinition gloss="to be enraged"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WR__A__T_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="wrāð"></Lemma>
+            <Sense id="WR__A__T_ADJ_sense_1">
+                <SenseDefinition gloss="‘wroth,’ furious, angry, hostile"></SenseDefinition>
+            </Sense>
+            <Sense id="WR__A__T_ADJ_sense_2">
+                <SenseDefinition gloss="terrible,
+                    horrible"></SenseDefinition>
+            </Sense>
+            <Sense id="WR__A__T_ADJ_sense_3">
+                <SenseDefinition gloss="grievous, harsh, bitter, malignant, evil, cruel"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WR__A__TE_ADV" partOfSpeech="r">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="WR__A__TE_ADV_sense_1">
+                <SenseDefinition gloss="cruelty"></SenseDefinition>
+            </Sense>
+            <Sense id="WR__A__TE_ADV_sense_2">
+                <SenseDefinition gloss="hardship"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WRA__TLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="WRA__TLICE_ADV_sense">
+                <SenseDefinition gloss="grievously, severely, bitterly"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WRA__TLIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="wrāðlic"></Lemma>
+            <Sense id="WRA__TLIC_ADJ_sense">
+                <SenseDefinition gloss="grievous, severe, bitter"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WUHHUNG_ADJ" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="wuhhung"></Lemma>
+            <Sense id="WUHHUNG_ADJ_sense_1">
+                <SenseDefinition gloss="rage, fury, madness"></SenseDefinition>
+            </Sense>
+            <Sense id="WUHHUNG_ADJ_sense_2">
+                <SenseDefinition gloss="(pl.) the Furies"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        
+        
+        <Synset id="OEWN_Sample-example-ang-anger-n-1" partOfSpeech="n" ili = "" ></Synset>
+
+        
+        <Synset id="OEWN_Sample-example-ang-anger-n-2" partOfSpeech="n" ili=""></Synset>
+
+        
+        <Synset id="OEWN_Sample-example-ang-anger-n-3" partOfSpeech="n" ili=""></Synset>
+        
+        
+        <Synset id="OEWN_Sample-example-ang-anger-v-1" partOfSpeech="v" ili = "" ></Synset>
+        
+        
+        <Synset id="OEWN_Sample-example-ang-anger-v-2" partOfSpeech="v" ili=""></Synset>
+
+        
+        <Synset id="OEWN_Sample-example-ang-anger-v-3" partOfSpeech="v" ili=""></Synset>
+
+        
+        <Synset id="OEWN_Sample-example-ang-anger-v-4" partOfSpeech="v" ili=""></Synset>
+
+        
+        
+        <Synset id="OEWN_Sample-example-ang-anger-a-1" partOfSpeech="a" ili = "" ></Synset>
+
+        
+        <Synset id="OEWN_Sample-example-ang-anger-a-2" partOfSpeech="a" ili = "" ></Synset>
+        
+        
+        <Synset id="OEWN_Sample-example-ang-anger-r" partOfSpeech="r" ili = "" ></Synset>
+
+      
+        
+    </Lexicon>
+</LexicalResource>
