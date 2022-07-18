@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://raw.githubusercontent.com/anasfkhan81/OldEnglish/main/WN-IELMF-0.DTD">
+<LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <Lexicon id ="OEWN_Sample"
+        label = "A Sample of the Old English WordNet"
+        email = "rafael.cruz@uclm.es"
+        license = "https://creativecommons.org/publicdomain/zero/1.0/"
+        version = "0.1"
+        language = "ang">
+        
+        
+        <LexicalEntry id="CLENGAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="clengan"></Lemma>
+            <Sense id="CLENGAN_VB_sense">
+                <SenseDefinition gloss="to adhere"></SenseDefinition>
+            </Sense>
+            <!-- synaesthesia - laughter (sound) -->
+        </LexicalEntry>
+        
+        <LexicalEntry id="GAMEN_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="gamen"></Lemma>
+            <Sense id="GAMEN_N_sense_1">
+                <SenseDefinition gloss="sport, joy, mirth, pastime"></SenseDefinition>
+            </Sense>
+            <Sense id="GAMEN_N_sense_2">
+                <SenseDefinition gloss="game, amusement"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GAMEN-WA__TU_N" partOfSpeech="n" grammaticalGender="">
+            <Lemma writtenForm="gamenwāðu"></Lemma>
+            <Sense id="GAMEN-WA__TU_N_sense">
+                <SenseDefinition gloss="merry journey"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HLEAHTOR-SMI__T_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="hleahtorsmið"></Lemma>
+            <Sense id="HLEAHTOR-SMI__T_N_sense">
+                <SenseDefinition gloss="laughter-maker"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HLIHHAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āhlīehhan"></Lemma>
+            <Sense id="HLIHHAN_VB_sense_1">
+                <SenseDefinition gloss="to laugh at, deride"></SenseDefinition>
+            </Sense>
+            <Sense id="HLIHHAN_VB_sense_2">
+                <SenseDefinition gloss="laugh out, exult"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        
+        <!--  Not found in CH dictionnary
+        <LexicalEntry id="AR__ARAN_VB" partOfSpeech="v">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="AR__ARAN_VB_sense">
+                <SenseDefinition gloss=""></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        -->
+
+
+
+    </Lexicon>
+</LexicalResource>
