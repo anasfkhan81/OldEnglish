@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://raw.githubusercontent.com/anasfkhan81/OldEnglish/main/WN-IELMF-0.DTD">
+<LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <Lexicon id ="OEWN_Sample"
+        label = "A Sample of the Old English WordNet"
+        email = "rafael.cruz@uclm.es"
+        license = "https://creativecommons.org/publicdomain/zero/1.0/"
+        version = "0.1"
+        language = "ang">
+        
+        <LexicalEntry id="A__ALING_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ǣling"></Lemma>
+            <Sense id="A__ALING_ADJ_sense_1">
+                <SenseDefinition gloss="burning"></SenseDefinition>
+            </Sense>
+            <Sense id="A__ALING_ADJ_sense_2">
+                <SenseDefinition gloss="ardour"></SenseDefinition>
+            </Sense>
+       </LexicalEntry> 
+        
+        <LexicalEntry id="ANDUNG_N">
+            <Lemma writtenForm="andung"></Lemma>
+            <Sense id="ANDUNG_N_sense">
+                <SenseDefinition gloss="jealousy"></SenseDefinition>
+            </Sense>
+       </LexicalEntry> 
+        
+        <LexicalEntry id="BL__ASE_N">
+            <Lemma writtenForm="blæse"></Lemma>
+            <Sense id="BL__ASE_N_sense">
+                <SenseDefinition gloss="firebrand, torch, lamp"></SenseDefinition>
+            </Sense>
+            <!-- metaphor for love - malice (ardour) -->
+        </LexicalEntry>
+        
+        <LexicalEntry id="ABRYRDNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="onbryrdnes"></Lemma>
+            <Sense id="ABRYRDNES_N_sense_1">
+                <SenseDefinition gloss="inspiration, incitement, ardour"></SenseDefinition>
+            </Sense>
+            <Sense id="ABRYRDNES_N_sense_2">
+                <SenseDefinition gloss="remorse, contrition"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="CNEORDNES_N" grammaticalGender="" partOfSpeech="n">
+            <Lemma writtenForm="cneordnes"></Lemma>
+            <Sense id="CNEORDNES_N_sense">
+                <SenseDefinition gloss="zeal, diligence, study"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ELLEN_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="ellen"></Lemma>
+            <Sense id="ELLEN_N_sense">
+                <SenseDefinition gloss="zeal, strength, courage"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ELLEN-WODNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="ellenwōdnes"></Lemma>
+            <Sense id="ELLEN-WODNES_N_sense">
+                <SenseDefinition gloss="zeal"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ELNIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="elnian"></Lemma>
+            <Sense id="ELNIAN_VB_sense_1">
+                <SenseDefinition gloss="to emulate, be zealous"></SenseDefinition>
+            </Sense>
+            <Sense id="ELNIAN_VB_sense_2">
+                <SenseDefinition gloss="strengthen, comfort oneself"></SenseDefinition>
+            </Sense>
+            <Sense id="ELNIAN_VB_sense_3">
+                <SenseDefinition gloss="gain strength"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ELNUNG_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="elnung"></Lemma>
+            <Sense id="ELNUNG_N_sense_1">
+                <SenseDefinition gloss="comfort, consolation"></SenseDefinition>
+            </Sense>
+            <Sense id="ELNUNG_N_sense_2">
+                <SenseDefinition gloss="emulation, zeal"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A__AFESTIG_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="æfestig"></Lemma>
+            <Sense id="A__AFESTIG_ADJ_sense_1">
+                <SenseDefinition gloss="envious"></SenseDefinition>
+            </Sense>
+            <Sense id="A__AFESTIG_ADJ_sense_2">
+                <SenseDefinition gloss="zealous"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GEORN_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="georn"></Lemma>
+            <Sense id="GEORN_ADJ_sense">
+                <SenseDefinition gloss="desirous, eager, earnest, diligent, studious"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GEORNFUL_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="geornful"></Lemma>
+            <Sense id="GEORNFUL_ADJ_sense">
+                <SenseDefinition gloss="desirous, eager, zealous, diligent"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GEORNFULLIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="geornfullic"></Lemma>
+            <Sense id="GEORNFULLIC_ADJ_sense">
+                <SenseDefinition gloss="desirous, eager, zealous, diligent"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GEORNFULLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="geornfulīce"></Lemma>
+            <Sense id="GEORNFULLICE_ADV_sense">
+                <SenseDefinition gloss="desirously, eagerly, zealously, diligently"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GEORNFULLNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="geornfulnes"></Lemma>
+            <Sense id="GEORNFULLNES_N_sense_1">
+                <SenseDefinition gloss="eagerness, zeal, diligence"></SenseDefinition>
+            </Sense>
+            <Sense id="GEORNFULLNES_N_sense_2">
+                <SenseDefinition gloss="desire"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GEORNNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="geornnes"></Lemma>
+            <Sense id="GEORNNES_N_sense_1">
+                <SenseDefinition gloss="zeal, industry"></SenseDefinition>
+            </Sense>
+            <Sense id="GEORNNES_N_sense_2">
+                <SenseDefinition gloss="evil desire, lust, wickedness"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HATLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="hātlīce"></Lemma>
+            <Sense id="HATLICE_ADV_sense">
+                <SenseDefinition gloss="ardently"></SenseDefinition>
+                <!-- Not found in the Concise dictionary but in Douglas Harper's Etymology Dictionary: 1520s, from hot __ -ly (2). Compare Old English hatlice "ardently." -->
+            </Sense>
+        </LexicalEntry>
+        
+    </Lexicon>
+</LexicalResource>
