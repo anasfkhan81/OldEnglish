@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://raw.githubusercontent.com/anasfkhan81/OldEnglish/main/WN-IELMF-0.DTD">
+<LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <Lexicon id ="OEWN_Sample"
+        label = "A Sample of the Old English WordNet"
+        email = "rafael.cruz@uclm.es"
+        license = "https://creativecommons.org/publicdomain/zero/1.0/"
+        version = "0.1"
+        language = "ang">
+        
+        <LexicalEntry id="B__ALC_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="bælc"></Lemma>
+            <Sense id="FOR-B__ALC_N_sense">
+                <SenseDefinition gloss="pride, arrogance"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="BL__AD_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="blǣd"></Lemma>
+            <Sense id="BL__AD_N_sense_1">
+                <SenseDefinition gloss="blowing, blast"></SenseDefinition>
+            </Sense>
+            <Sense id="BL__AD_N_sense_2">
+                <SenseDefinition gloss="inspiration"></SenseDefinition>
+            </Sense>
+            <Sense id="BL__AD_N_sense_3">
+                <SenseDefinition gloss="breath, spirit"></SenseDefinition>
+            </Sense>
+            <Sense id="BL__AD_N_sense_4">
+                <SenseDefinition gloss="life, mind"></SenseDefinition>
+            </Sense>
+            <Sense id="BL__AD_N_sense_5">
+                <SenseDefinition gloss="glory, dignity, splendour_"></SenseDefinition>
+            </Sense>
+            <Sense id="BL__AD_N_sense_6">
+                <SenseDefinition gloss="prosperity, riches, success"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="BOGIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="bōgian"></Lemma>
+            <Sense id="BOGIAN_VB_sense_1">
+                <SenseDefinition gloss="to dwell"></SenseDefinition>
+            </Sense>
+            <Sense id="BOGIAN_VB_sense_2">
+                <SenseDefinition gloss="to inhabit"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GE-BYRMAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="gebyrman"></Lemma>
+            <Sense id="GE-BYRMAN_VB_sense_1">
+                <SenseDefinition gloss="to ferment, leaven"></SenseDefinition>
+            </Sense>
+            <Sense id="GE-BYRMAN_VB_sense_2">
+                <SenseDefinition gloss="swell up, be proud"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="DRUNCENNES_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="druncennes"></Lemma>
+            <Sense id="DRUNCENNES_N_sense">
+                <SenseDefinition gloss="drunkenness, intoxication"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="DYRSTIG_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="dyrstig"></Lemma>
+            <Sense id="DYRSTIG_ADJ_sense">
+                <SenseDefinition gloss="venturesome, presumptuous, daring, bold"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="DYRSTIGIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="dyrstigian"></Lemma>
+            <Sense id="DYRSTIGIAN_VB_sense">
+                <SenseDefinition gloss="to dare, presume"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="DYRSTIGLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="dyrstiglīce"></Lemma>
+            <Sense id="DYRSTIGLICE_ADV_sense">
+                <SenseDefinition gloss="venturesomely, presumptuously, daringly, boldly"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="DYRSTIGNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="dyrstignes"></Lemma>
+            <Sense id="DYRSTIGNES_N_sense">
+                <SenseDefinition gloss="boldness, insolence, daring, presumption, arrogance, rashness"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GE-DYRSTIG_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="gedyrstig"></Lemma>
+            <Sense id="GE-DYRSTIG_ADJ_sense">
+                <SenseDefinition gloss="enturesome, presumptuous, daring, bold"></SenseDefinition>
+            </Sense>
+            <!-- Literally not found in Clark Hall dictionary, but following word formation rules we add the prefix GE- (reciprocate) -->
+        </LexicalEntry>
+        
+        <LexicalEntry id="GEDYRSTIGIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="gedyrstigian"></Lemma>
+            <Sense id="GEDYRSTIGIAN_VB_sense">
+                <SenseDefinition gloss="to dare, presume"></SenseDefinition>
+            </Sense>
+            <!-- Literally not found in Clark Hall dictionary, but following word formation rules we add the prefix GE- (reciprocate) -->
+        </LexicalEntry>
+        
+        <LexicalEntry id="GE-DYRSTIGNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="gedrystignes"></Lemma>
+            <Sense id="GE-DYRSTIGNES_N_sense">
+                <SenseDefinition gloss="boldness, insolence, daring, presumption, arrogance, rashness"></SenseDefinition>
+            </Sense>
+            <!-- Literally not found in Clark Hall dictionary, but following word formation rules we add the prefix GE- (reciprocate) -->
+        </LexicalEntry>
+        
+        <LexicalEntry id="DOL-GYLP_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="dolgilp"></Lemma>
+            <Sense id="DOL-GYLP_N_sense">
+                <SenseDefinition gloss="idle boasting"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GYLP_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="gylp"></Lemma>
+            <Sense id="GYLP_N_sense_1">
+                <SenseDefinition gloss="boasting, pride, arrogance"></SenseDefinition>
+            </Sense>
+            <Sense id="GYLP_N_sense_2">
+                <SenseDefinition gloss="fame, glory"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="GYLPAN_VB" partOfSpeech="v">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="GYLPAN_VB_sense">
+                <SenseDefinition gloss="to boast, exult"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A-HAFENNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm=""></Lemma>
+            <Sense id="A-HAFENNES_N_sense_1">
+                <SenseDefinition gloss="rising, lifting up"></SenseDefinition>
+            </Sense>
+            <Sense id="A-HAFENNES_N_sense_2">
+                <SenseDefinition gloss="elevation, pride"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A-HEBBAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āhebban"></Lemma>
+            <Sense id="A-HEBBAN_VB_sense_1">
+                <SenseDefinition gloss="to lift up, stir up, raise, exalt, erect"></SenseDefinition>
+            </Sense>
+            <Sense id="A-HEBBAN_VB_sense_2">
+                <SenseDefinition gloss="take away, remove"></SenseDefinition>
+            </Sense>
+            <Sense id="A-HEBBAN_VB_sense_3">
+                <SenseDefinition gloss="support, uphold"></SenseDefinition>
+            </Sense>
+            <Sense id="A-HEBBAN_VB_sense_4">
+                <SenseDefinition gloss="leaven"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="UP-A-HEFEDLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="ūpāhefedlīce"></Lemma>
+            <Sense id="UP-A-HEFEDLICE_ADV_sense">
+                <SenseDefinition gloss="arrogantly"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="UP-A-HEFEDNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="ūpāhafennes"></Lemma>
+            <Sense id="UP-A-HEFEDNES_N_sense_1">
+                <SenseDefinition gloss="exultation, presumption, arrogance, pride"></SenseDefinition>
+            </Sense>
+            <Sense id="UP-A-HEFEDNES_N_sense_2">
+                <SenseDefinition gloss="elevation"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="OFER-HOGA_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="oferhoga"></Lemma>
+            <Sense id="OFER-HOGA_N_sense">
+                <SenseDefinition gloss="idespiser, proud man"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HEAH-MOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="hēahmōd"></Lemma>
+            <Sense id="HEAH-MOD_ADJ_sense_1">
+                <SenseDefinition gloss="high spirited, exultant"></SenseDefinition>
+            </Sense>
+            <Sense id="HEAH-MOD_sense_2">
+                <SenseDefinition gloss="proud, haughty"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="HEAH-MODNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="hēahmōdnes"></Lemma>
+            <Sense id="HEAH-MODNES_N_sense">
+                <SenseDefinition gloss="pride"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="AN-MEDLA_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="anmēdla"></Lemma>
+            <Sense id="AN-MEDLA_N_sense_1">
+                <SenseDefinition gloss="pomp, glory"></SenseDefinition>
+            </Sense>
+            <Sense id="AN-MEDLA_N_sense_2">
+                <SenseDefinition gloss="pride, presumption, arrogance"></SenseDefinition>
+            </Sense>
+            <Sense id="AN-MEDLA_N_sense_3">
+                <SenseDefinition gloss="courage"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="MOD_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="mōd"></Lemma>
+            <Sense id="MOD_N_sense_1">
+                <SenseDefinition gloss="heart, mind, spirit, ‘mood,’ temper"></SenseDefinition>
+            </Sense>
+            <Sense id="MOD_N_sense_2">
+                <SenseDefinition gloss="courage"></SenseDefinition>
+            </Sense>
+            <Sense id="MOD_N_sense_3">
+                <SenseDefinition gloss="arrogance, pride"></SenseDefinition>
+            </Sense>
+            <Sense id="MOD_N_sense_4">
+                <SenseDefinition gloss="power, violence"></SenseDefinition>
+            </Sense>
+            <!-- I added it myself since it is part of the the "pride" synset -->
+        </LexicalEntry>
+        
+        <LexicalEntry id="MODIG_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="mōdig"></Lemma>
+            <Sense id="MODIG_ADJ_ADJ_sense_1">
+                <SenseDefinition gloss="spirited, daring, bold, brave, high-souled, magnanimous"></SenseDefinition>
+            </Sense>
+            <Sense id="MODIG_ADJ_sense_2">
+                <SenseDefinition gloss="impetuous, headstrong"></SenseDefinition>
+            </Sense>
+            <Sense id="MODIG_ADJ_sense_3">
+                <SenseDefinition gloss="arrogant, proud"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="MODIGNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="mōdignes"></Lemma>
+            <Sense id="MODIGNES_N_sense_1">
+                <SenseDefinition gloss="greatness of soul"></SenseDefinition>
+            </Sense>
+            <Sense id="MODIGNES_N_sense_2">
+                <SenseDefinition gloss="pride, arrogance, haughtiness"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="MOD-LEAST_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="mōdlēast"></Lemma>
+            <Sense id="MOD-LEAST_N_sense">
+                <SenseDefinition gloss="want of courage"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="MOD-LEOF_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="mōdlēof"></Lemma>
+            <Sense id="MOD-LEOF_ADJ_sense">
+                <SenseDefinition gloss="dear, precious"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="OFER-MEDE_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ofermēde"></Lemma>
+            <Sense id="OFER-MEDE_ADJ_sense">
+                <SenseDefinition gloss="proud, arrogant"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="OFER-MEDE_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="ofermēde"></Lemma>
+            <Sense id="OFER-MEDE_N_sense">
+                <SenseDefinition gloss="pride"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="OFER-MOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ofermōd"></Lemma>
+            <Sense id="OFER-MOD_ADJ_sense">
+                <SenseDefinition gloss="proud, overbearing, insolent"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="OFER-MOD_N" partOfSpeech="n" grammaticalGender="n">
+            <Lemma writtenForm="ofermōd"></Lemma>
+            <Sense id="OFER-MOD_N_sense">
+                <SenseDefinition gloss="pride, insolence"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="OFER-MODIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="ofer-mōdgian"></Lemma>
+            <Sense id="OFER-MODIAN_VB_sense">
+                <SenseDefinition gloss="to be proud, arrogant"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="OFER-MODIG_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ofermōdig"></Lemma>
+            <Sense id="OFER-MODIG_ADJ_sense">
+                <SenseDefinition gloss="proud, arrogant"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="OFER-MODIGNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="ofermōdignes"></Lemma>
+            <Sense id="OFER-MODIGNES_N_sense">
+                <SenseDefinition gloss="pride, haughtiness, arrogance"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <!-- 
+        <LexcicalEntry id="OFER-MODIGUNG_N" partOfSpeech_"n" grammaticalGender="?">
+            <Lemma writtenForm="ofermōdigung"></Lemma>
+            <Sense id="OFER-MODIGUNG_N_sense">
+                <SenseDefinition gloss="">
+            </Sense
+        </LexicalEntry>
+        Not found in CH dictionary
+        -->
+        
+        <LexicalEntry id="OFER-MODILIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ofermōdiglic"></Lemma>
+            <Sense id="OFER-MODIGLIC_ADJ_sense">
+                <SenseDefinition gloss="proud, haughty, insolent"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="OFER-MODILICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="ofermōdiglīce"></Lemma>
+            <Sense id="OFER-MODIGLICE_ADV_sense">
+                <SenseDefinition gloss="proudly, haughtily, insolently"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="OR-MOD_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="ormōd"></Lemma>
+            <Sense id="OR-MOD_ADJ_sense">
+                <SenseDefinition gloss="despondent, despairing, hopeless"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+        
+        <LexicalEntry id="OR-MODNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="ormōdnes"></Lemma>
+            <Sense id="OR-MODNES_N_sense">
+                <SenseDefinition gloss="desperation, despair"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+            
+        <LexicalEntry id="ORGEL_N" partOfSpeech="n" grammaticalGender="?">
+            <Lemma writtenForm="orgel"></Lemma>
+            <Sense id="ORGEL_N_sense">
+                <SenseDefinition gloss="pride"></SenseDefinition>
+            </Sense> 
+        </LexicalEntry>
+            
+            <LexicalEntry id="ORGELLICE_ADV" partOfSpeech="r">
+                <Lemma writtenForm="orgellīce"></Lemma>
+                <Sense id="ORGELLICE_ADV_sense">
+                    <SenseDefinition gloss="proudly, insolently, scornfully"></SenseDefinition>
+                </Sense>
+            </LexicalEntry>
+            
+            <LexicalEntry id="ORGELNES_N" partOfSpeech="n" grammaticalGender="f">
+                <Lemma writtenForm="ormōdnes"></Lemma>
+                <Sense id="ORGELNES_N_sense">
+                    <SenseDefinition gloss="pride"></SenseDefinition>
+                </Sense>
+            </LexicalEntry>
+                
+            <LexicalEntry id="OFER-PRUT_ADJ" partOfSpeech="a">
+                <Lemma writtenForm="oferprūt"></Lemma>
+                <Sense id="OFER-PRUT_ADJ_sense">
+                    <SenseDefinition gloss="‘over-proud,’ presumptuous, arrogant, haughty"></SenseDefinition>
+                </Sense>
+                <!-- In Javier's dataset this entry can be found as a NOUN; Found as an adjective in CH dictionary -->
+            </LexicalEntry>
+ 
+        <LexicalEntry id="OFER-PRYDA_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="oferprȳda"></Lemma>
+            <Sense id="OFER-PRYDA_N_sense">
+                <SenseDefinition gloss="excessive pride"></SenseDefinition>
+            </Sense>
+            <!-- Not found in Javier's dataset -->
+        </LexicalEntry>
+
+        <LexicalEntry id="PRUT_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="prūt"></Lemma>
+            <Sense id="PRUT_ADJ_sense">
+                <SenseDefinition gloss="‘proud,’ arrogant"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id="PRUT_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="prȳto"></Lemma>
+            <Sense id="PRUT_N_sense">
+                <SenseDefinition gloss="‘pride,’ haughtiness, pomp"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+      
+        <LexicalEntry id="PRUTLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="prūtlice"></Lemma>
+            <Sense id="PRUTLICE_ADV_sense">
+                <SenseDefinition gloss="proudly, pompously, magnificently"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+                
+        <LexicalEntry id="PRUTLIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="prūtlic"></Lemma>
+            <Sense id="PRUTLICE_ADJ_sense">
+                <SenseDefinition gloss="proud, pompous, magnificent"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+
+        <LexicalEntry id="PRUT-SCIPE_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="prȳto"></Lemma>
+            <Sense id="PRUT-SCIPE_N_sense">
+                <SenseDefinition gloss="arrogance, pride"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+                
+        <LexicalEntry id="PRUT-UNG_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="prūtung"></Lemma>
+            <Sense id="PRUT-UNG_sense">
+                <SenseDefinition gloss="pride, arrogance"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+                
+        <LexicalEntry id="PRYT_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="prȳto"></Lemma>
+            <Sense id="PRYT_N_sense">
+                <SenseDefinition gloss="‘pride,’ haughtiness, pomp"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+                
+        <LexicalEntry id="RENC_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="rænc"></Lemma>
+            <Sense id="RENC_N_sense">
+                <SenseDefinition gloss="pride, ostentation"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+                
+        <LexicalEntry id="A-SWELLAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āswellan"></Lemma>
+            <Sense id="A-SWELLAN_VB_sense">
+                <SenseDefinition gloss="to swell"></SenseDefinition>
+                <!-- metaphor for arrogance / not shown in CH dictionnary -->
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="A-_TINDAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āðindan"></Lemma>
+            <Sense id="A-_TINDAN_VB_sense_1">
+                <SenseDefinition gloss="to swell, puff up, inflate, increase"></SenseDefinition>
+            </Sense>
+            <Sense id="A-_TINDAN_VB_sense_2">
+                <SenseDefinition gloss="melt, pass away"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <!-- metaphor for arrogance / not shown in CH dictionnary -->
+                
+        <LexicalEntry id="A_TUNDENNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="āðundennes"></Lemma>
+            <Sense id="A_TUNDENNES_N_sense_1">
+                <SenseDefinition gloss="swelling, tumour"></SenseDefinition>
+            </Sense>
+            <Sense id="A_TUNDENNES_N_sense_2">
+                <SenseDefinition gloss="contumacy"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>        
+        
+        <LexicalEntry id="A_A_TRYTNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="āðrytnes"></Lemma>
+            <Sense id="A_A_TRYTNES_N_sense">
+                <SenseDefinition gloss="weariness"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+                
+        <LexicalEntry id="T_TRUTIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="āðrēatian"></Lemma>
+            <Sense id="T_TRUTIAN_VB_sense_1">
+                <SenseDefinition gloss="to weary, be irksome"></SenseDefinition>
+            </Sense>
+            <Sense id="T_TRUTIAN_VB_sense_2">
+                <SenseDefinition gloss="force away"></SenseDefinition>
+            </Sense>
+        </LexicalEntry> 
+                
+        <LexicalEntry id="FOR-TRUWIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="fortrūwian"></Lemma>
+            <Sense id="FOR-TRUWIAN_VB_sense">
+                <SenseDefinition gloss="to be presumptuous, over-confident, rash"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="FOR-TRUWODNES_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="fortrūwodnes"></Lemma>
+            <Sense id="FOR-TRUWODNES_N_sense">
+                <SenseDefinition gloss="_presumption_"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+            
+        <LexicalEntry id="FOR-TRUWUNG_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="fortrūwung"></Lemma>
+            <Sense id="FOR-TRUWUNG_N_sense">
+                <SenseDefinition gloss="_presumption_"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+                
+        <LexicalEntry id="WLANC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="wlanc"></Lemma>
+            <Sense id="WLANC_ADJ_sense_1">
+                <SenseDefinition gloss="stately, splendid, lofty, magnificent, rich"></SenseDefinition>
+            </Sense>
+            <Sense id="WLANC_ADJ_sense_2">
+                <SenseDefinition gloss="boastful, arrogant, proud"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+            
+        <LexicalEntry id="WLANC_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="wlenc"></Lemma>
+            <Sense id="WLANC_N_sense_1">
+                <SenseDefinition gloss="pride, arrogance, haughtiness"></SenseDefinition>
+            </Sense>
+            <Sense id="WLANC_N_sense_2">
+                <SenseDefinition gloss="glory, pomp, splendour"></SenseDefinition>
+            </Sense>
+            <Sense id="WLANC_N_sense_3">
+                <SenseDefinition gloss="bravado"></SenseDefinition>
+            </Sense>
+            <Sense id="WLANC_N_sense_4">
+                <SenseDefinition gloss="prosperity, riches, wealth"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+            
+        <LexicalEntry id="WLANCIAN_VB" partOfSpeech="v">
+            <Lemma writtenForm="wlancian"></Lemma>
+            <Sense id="WLANCIAN_VB_sense">
+                <SenseDefinition gloss="to become proud or boastful, exult"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+            
+        <LexicalEntry id="WLANCLIC_ADJ" partOfSpeech="a">
+            <Lemma writtenForm="wlanclic"></Lemma>
+            <Sense id="WLANCLIC_ADJ_sense">
+                <SenseDefinition gloss="proud, arrogant"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="WLANCLICE_ADV" partOfSpeech="r">
+            <Lemma writtenForm="wlanclīce"></Lemma>
+            <Sense id="WLANCLICE_ADV_sense">
+                <SenseDefinition gloss="proudly, arrogantly"></SenseDefinition>
+            </Sense>
+        </LexicalEntry>
+                
+            <LexicalEntry id="WLENCU_N" partOfSpeech="n" grammaticalGender="f">
+                <Lemma writtenForm="wlenc"></Lemma>
+                <Sense id="WLENCU_N_sense_1">
+                    <SenseDefinition gloss="pride, arrogance, haughtiness"></SenseDefinition>
+                </Sense>
+                <Sense id="WLENCU_N_sense_2">
+                    <SenseDefinition gloss="glory, pomp, splendour"></SenseDefinition>
+                </Sense>
+                <Sense id="WLENCU_N_sense_3">
+                    <SenseDefinition gloss="bravado"></SenseDefinition>
+                </Sense>
+                <Sense id="WLENCU_N_sense_4">
+                    <SenseDefinition gloss="prosperity, riches, wealth"></SenseDefinition>
+                </Sense>
+            </LexicalEntry>    
+            
+    
+    </Lexicon>
+</LexicalResource>
