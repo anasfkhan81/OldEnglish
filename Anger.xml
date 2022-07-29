@@ -14,6 +14,7 @@
                 <Sense id="FOR-B__ARNAN_VB_sense">
                 <SenseDefinition gloss="to cause to burn, burn up, consume by fire, be consumed" />
             </Sense>
+            <!-- DOE: C.2. glossing exardere ‘to burn’, here in a description of anger: to be inflamed, blaze out / crear nuevo sense -->
         </LexicalEntry>
         
         <LexicalEntry id="FOR-BELGAN_VB" partOfSpeech="v">
@@ -791,33 +792,23 @@
         
         
         
-        <Synset id="OEWN_Sample-example-ang-anger-n-1" partOfSpeech="n" ili = "" ></Synset>
+        <Synset id="OEWN_Sample-example-ang-anger-n-1" partOfSpeech="n" ili = "i76253" ></Synset>
 
         
-        <Synset id="OEWN_Sample-example-ang-anger-n-2" partOfSpeech="n" ili=""></Synset>
+        <Synset id="OEWN_Sample-example-ang-anger-n-2" partOfSpeech="n" ili="i110692"></Synset>
 
         
-        <Synset id="OEWN_Sample-example-ang-anger-n-3" partOfSpeech="n" ili=""></Synset>
+        <Synset id="OEWN_Sample-example-ang-anger-n-3" partOfSpeech="n" ili="i39423"></Synset>
         
         
-        <Synset id="OEWN_Sample-example-ang-anger-v-1" partOfSpeech="v" ili = "" ></Synset>
+        <Synset id="OEWN_Sample-example-ang-anger-v-1" partOfSpeech="v" ili = "i30663" ></Synset>
         
         
-        <Synset id="OEWN_Sample-example-ang-anger-v-2" partOfSpeech="v" ili=""></Synset>
+        <Synset id="OEWN_Sample-example-ang-anger-v-2" partOfSpeech="v" ili="i30669"></Synset>
 
-        
-        <Synset id="OEWN_Sample-example-ang-anger-v-3" partOfSpeech="v" ili=""></Synset>
 
-        
-        <Synset id="OEWN_Sample-example-ang-anger-v-4" partOfSpeech="v" ili=""></Synset>
+        <Synset id="OEWN_Sample-example-ang-anger" partOfSpeech="a" ili = "i601" ></Synset>
 
-        
-        
-        <Synset id="OEWN_Sample-example-ang-anger-a-1" partOfSpeech="a" ili = "" ></Synset>
-
-        
-        <Synset id="OEWN_Sample-example-ang-anger-a-2" partOfSpeech="a" ili = "" ></Synset>
-        
         
         <Synset id="OEWN_Sample-example-ang-anger-r" partOfSpeech="r" ili = "" ></Synset>
 
