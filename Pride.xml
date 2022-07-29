@@ -11,8 +11,11 @@
         
         <LexicalEntry id="B__ALC_N" partOfSpeech="n" grammaticalGender="m">
             <Lemma writtenForm="bælc"></Lemma>
-            <Sense id="FOR-B__ALC_N_sense">
+            <Sense id="FOR-B__ALC_N_sense_1">
                 <SenseDefinition gloss="pride, arrogance"/>
+            </Sense>
+            <Sense id="FOR-B__ALC_N_sense_2">
+                <SenseDefinition gloss="covering, cloud"/>
             </Sense>
         </LexicalEntry>
         
@@ -27,6 +30,7 @@
             <Sense id="BL__AD_N_sense_3">
                 <SenseDefinition gloss="breath, spirit"></SenseDefinition>
             </Sense>
+            <!-- DOE: 1.b.i. glossing flatus here ‘pride’ as if ‘breath, breathing’; or take as figurative: ‘puffed up (with pride)’  -->
             <Sense id="BL__AD_N_sense_4">
                 <SenseDefinition gloss="life, mind"></SenseDefinition>
             </Sense>
@@ -132,6 +136,7 @@
             <Sense id="GYLP_N_sense_2">
                 <SenseDefinition gloss="fame, glory"></SenseDefinition>
             </Sense>
+            <!-- Etymological shift -->
         </LexicalEntry>
         
         <LexicalEntry id="GYLPAN_VB" partOfSpeech="v">
@@ -139,6 +144,7 @@
             <Sense id="GYLPAN_VB_sense">
                 <SenseDefinition gloss="to boast, exult"></SenseDefinition>
             </Sense>
+            <!-- Ask Fran!!! -->
         </LexicalEntry>
         
         <LexicalEntry id="A-HAFENNES_N" partOfSpeech="n" grammaticalGender="f">
@@ -156,6 +162,7 @@
             <Sense id="A-HEBBAN_VB_sense_1">
                 <SenseDefinition gloss="to lift up, stir up, raise, exalt, erect"></SenseDefinition>
             </Sense>
+            <!-- DOE:  A.8. to puff (oneself / one's heart / soul) up with pride, exalt oneself; frequently in collocation with phrases expressing the notion of pride: (up) ahebban in / on oferhygd / ofermetto / gylp, mid modignesse, etc.  -->
             <Sense id="A-HEBBAN_VB_sense_2">
                 <SenseDefinition gloss="take away, remove"></SenseDefinition>
             </Sense>
@@ -199,6 +206,7 @@
             <Sense id="HEAH-MOD_sense_2">
                 <SenseDefinition gloss="proud, haughty"></SenseDefinition>
             </Sense>
+            <!-- etymologial shift -->
         </LexicalEntry>
         
         <LexicalEntry id="HEAH-MODNES_N" partOfSpeech="n" grammaticalGender="f">
@@ -206,6 +214,7 @@
             <Sense id="HEAH-MODNES_N_sense">
                 <SenseDefinition gloss="pride"></SenseDefinition>
             </Sense>
+            <!-- etymological shift -->
         </LexicalEntry>
         
         <LexicalEntry id="AN-MEDLA_N" partOfSpeech="n" grammaticalGender="m">
@@ -453,6 +462,7 @@
             <Sense id="RENC_N_sense">
                 <SenseDefinition gloss="pride, ostentation"></SenseDefinition>
             </Sense>
+            <!-- check where Javier found the meaning or etymology of "tall" -->
         </LexicalEntry>
                 
         <LexicalEntry id="A-SWELLAN_VB" partOfSpeech="v">
@@ -460,6 +470,7 @@
             <Sense id="A-SWELLAN_VB_sense">
                 <SenseDefinition gloss="to swell"></SenseDefinition>
                 <!-- metaphor for arrogance / not shown in CH dictionnary -->
+                <!-- DOE:  2. figurative, of a person: to swell with pride, become puffed up with arrogance  -->
             </Sense>
         </LexicalEntry>
         
