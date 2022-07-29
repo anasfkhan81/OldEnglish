@@ -197,10 +197,11 @@
           <Lemma writtenForm="āswǣman"/>
             <Sense id = "A-SW__AMAN_VB_sense_1" synset = "OEWN_Sample-example-ang-shame-v-3">
               <!-- i27137; surpass or beat by a wide margin; shame -->
-              <SenseDefinition gloss = "grieve, pain"/></Sense>
+              <SenseDefinition gloss = "pine, grieve"/></Sense>
             <Sense id = "A-SW__AMAN_VB_sense_2">
               <!-- No synset found -->
               <SenseDefinition gloss = "to roam, wander about"/></Sense>
+          <!-- SHAME SENSE IS SENSE 2 OF THE DEO. We´ll create the sense (DOE). we'll like it to the closest synset -->
         </LexicalEntry>
 
         <LexicalEntry id = "A-SWARNIAN_VB" partOfSpeech="v">
@@ -208,6 +209,10 @@
           <Sense id = "A-SWARNIAN_VB_sense" synset="OEWN_Sample-example-ang-shame-v-2">
             <!-- i34253; compel through a sense of shame; shame -->
             <SenseDefinition gloss = "to be confounded"/>
+          </Sense>
+          <Sense id="A-SWARNIAN_VB_DOE" synset="OEWN_Sample-example-ang-shame-v-2">
+            <!-- i30693; cause to be ashamed; shame -->
+            <SenseDefinition gloss="to shame"></SenseDefinition>
           </Sense>
         </LexicalEntry>
 
@@ -247,6 +252,7 @@
             <!-- i30693; cause to be ashamed; shame -->         
             <SenseDefinition gloss = "to cover, hide, cover over, enwrap, protect, clothe"/>
           </Sense>
+          <!-- BT: " 1.a.i. with past participle: covered (by shame, the shadow of death) " -->
         </LexicalEntry>
 
         <LexicalEntry id = "BYSMOR_N" partOfSpeech="n" grammaticalGender = "nmf">
@@ -314,6 +320,7 @@
           <Lemma writtenForm="forwandung"/>
           <Sense id ="FOR-WANDUNG_N_sense" synset = "OEWN_Sample-example-ang-shame-n-2">
             <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
+            <!-- DOE: "turning away in shame" -->
             <SenseDefinition gloss = "shame"/></Sense>
         </LexicalEntry>
 
@@ -395,7 +402,20 @@
           -->
               <SenseDefinition gloss = "unclean objectionable, shameful, base, foul"/></Sense>
         </LexicalEntry>
-
+    
+        <LexicalEntry id="GE-TAWIAN_VB" partOfSpeech="v">
+          <Lemma writtenForm=""></Lemma>
+          <Sense id="GE_TAWIAN_VB_sense_1">
+            <SenseDefinition gloss="to taw, dress or prepare material"></SenseDefinition>
+          </Sense>
+          <Sense id="GE-TAWIAN_VB_sense_BT" synset="OEWN_Sample-example-ang-shame-v-2">
+            <!-- i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
+              -->
+            <SenseDefinition gloss="To intreat shamefully"></SenseDefinition>
+            <!-- BT: "but the word seems to occur in the older time in reference to the ill-treatment of persons or things, to intreat shamefully or evilly, treat badly, abuse, insult. Cf. to tew = to trouble, vex, E. D. S. Pub. (Linc.), and see Halliwell" -->
+          </Sense>
+        </LexicalEntry>
+    
         <LexicalEntry id = "HUXLIC_ADJ" partOfSpeech="a">
           <Lemma writtenForm="hūsclic"/>
             <Sense id = "HUXLIC_ADJ_sense" synset = "OEWN_Sample-example-ang-shame-a">
@@ -411,12 +431,16 @@
           -->
             <SenseDefinition gloss = "shamefully, ignominiously"/></Sense>
         </LexicalEntry>
+    
+    <!-- Hynt -->
 
         <LexicalEntry id = "LYSU_ADJ" partOfSpeech="a">
           <Lemma writtenForm="lysu"/>
-          <Sense id = "LYSU_ADJ_sense" synset = "OEWN_Sample-example-ang-shame-a-2">
-            <!-- i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous -->
+          <Sense id = "LYSU_ADJ_sense_1" synset = "OEWN_Sample-example-ang-shame-a-2">
+            <!-- i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous / in BT dictionary-->
               <SenseDefinition gloss = "base, false, evil"/></Sense>
+          <Sense id = "LYSU_ADJ_sense_2" synset = "OEWN_Sample-example-ang-shame-a-2">
+            <SenseDefinition gloss = "evil deed"/></Sense>
         </LexicalEntry>
 
         <LexicalEntry id = "OFER-GEOTAN_VB" partOfSpeech="v">
@@ -431,6 +455,7 @@
           <Sense id = "OFER-WRIGAN_VB_sense" synset = "OEWN_Sample-example-ang-shame-v-2">
             <!-- i34253; compel through a sense of shame; shame --> 
             <SenseDefinition gloss = "to cover over, conceal, hide"/></Sense>
+          <!-- ask Javier where he found this. BT: to fight, do battle -->
         </LexicalEntry>
 
         <LexicalEntry id = "OR-WIR__TLIC_ADJ" partOfSpeech="a">
@@ -439,6 +464,10 @@
             <!-- i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
           -->
             <SenseDefinition gloss = "shameful"/></Sense>
+          <Sense id="OR-WIR__TLIC_ADJ_sense_BT">
+            <SenseDefinition gloss="disgraced"></SenseDefinition>
+          </Sense>
+          <!-- BT: or-wirðed, disgraced, cf, ge-oruuierdid traductus, Txts. 100, 990. Georuuyrde, 103, 2042. Georwyrðed -->
         </LexicalEntry>
 
         <LexicalEntry id = "OR-WIR__TU_N" partOfSpeech="n" grammaticalGender = "f">
