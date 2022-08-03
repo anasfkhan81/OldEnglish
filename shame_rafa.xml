@@ -405,9 +405,10 @@
     
         <LexicalEntry id="GE-ORRETAN_VB" partOfSpeech="v">
           <Lemma writtenForm="ge-orrettan"></Lemma>
-          <Sense id="GE-ORETAN_VB_sense_BT" synset="">
+          <Sense id="GE-ORETAN_VB_sense_BT" synset="OEWN_Sample-example-ang-shame-v-4">
             <SenseDefinition gloss="to disgrace, to put to shame"></SenseDefinition>
           </Sense>
+          <!-- i34253; compel through a sense of shame; shame -->
         </LexicalEntry>
     
         <LexicalEntry id="GE-TAWIAN_VB" partOfSpeech="v">
