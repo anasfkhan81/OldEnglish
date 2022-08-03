@@ -403,10 +403,23 @@
               <SenseDefinition gloss = "unclean objectionable, shameful, base, foul"/></Sense>
         </LexicalEntry>
     
+        <LexicalEntry id="GE-ORRETAN_VB" partOfSpeech="v">
+          <Lemma writtenForm="ge-orrettan"></Lemma>
+          <Sense id="GE-ORETAN_VB_sense_BT" synset="">
+            <SenseDefinition gloss="to disgrace, to put to shame"></SenseDefinition>
+          </Sense>
+        </LexicalEntry>
+    
         <LexicalEntry id="GE-TAWIAN_VB" partOfSpeech="v">
-          <Lemma writtenForm=""></Lemma>
+          <Lemma writtenForm="getāwian"></Lemma>
           <Sense id="GE_TAWIAN_VB_sense_1">
-            <SenseDefinition gloss="to taw, dress or prepare material"></SenseDefinition>
+            <SenseDefinition gloss="to prepare, make ready, make"></SenseDefinition>
+          </Sense>
+          <Sense id="GE_TAWIAN_VB_sense_2">
+            <SenseDefinition gloss="till, cultivate"></SenseDefinition>
+          </Sense>
+          <Sense id="GE_TAWIAN_VB_sense_3">
+            <SenseDefinition gloss="harass, afflict, insult"></SenseDefinition>
           </Sense>
           <Sense id="GE-TAWIAN_VB_sense_BT" synset="OEWN_Sample-example-ang-shame-v-2">
             <!-- i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
@@ -414,6 +427,14 @@
             <SenseDefinition gloss="To intreat shamefully"></SenseDefinition>
             <!-- BT: "but the word seems to occur in the older time in reference to the ill-treatment of persons or things, to intreat shamefully or evilly, treat badly, abuse, insult. Cf. to tew = to trouble, vex, E. D. S. Pub. (Linc.), and see Halliwell" -->
           </Sense>
+        </LexicalEntry>
+    
+        <LexicalEntry id="HLEOR-SCEAMU_N" partOfSpeech="n" grammaticalGender="f">
+          <Lemma writtenForm="hleór-sceamu"></Lemma>
+          <Sense id="HLEOR-SCEAMU_N_sense" synset="OEWN_Sample-example-ang-humiliation-BT-n-1">
+            <SenseDefinition gloss="Shame or confusion of face"></SenseDefinition>
+          </Sense>
+          <!-- i76202: humiliation, mortification, chagring: strong feelings of embarrasment -->
         </LexicalEntry>
     
         <LexicalEntry id = "HUXLIC_ADJ" partOfSpeech="a">
@@ -431,6 +452,7 @@
           -->
             <SenseDefinition gloss = "shamefully, ignominiously"/></Sense>
         </LexicalEntry>
+    
     
     <!-- Hynt -->
 
@@ -617,6 +639,30 @@
               <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
               <SenseDefinition gloss = "disgrace"/></Sense>
           </LexicalEntry>
+    
+          <LexicalEntry id="TEONA_N" partOfSpeech="n" grammaticalGender="m">
+            <Lemma writtenForm="tēona"></Lemma>
+            <Sense id="TEONA_N_sense_1" synset="OEWN_Sample-example-ang-injury-n-1">
+              <SenseDefinition gloss="injury, hurt, wrong"></SenseDefinition>
+            </Sense>
+            <!-- i112025; injury: any physical damage to the body caused by violence or accident or fracture, the condition of an injury -->
+            <Sense id="TEONA_N_sense_2" synset="OEWN_Sample-example-ang-shame-n-4">
+              <SenseDefinition gloss="accusation, reproach, shame, insult, contumely"></SenseDefinition>
+            </Sense>
+            <!-- i11901; reproach (disgrace or shame)/ The definition of shame does not appear on CH but it does on BT (CAMBIO) -->
+            <Sense id="TEONA_N_sense_3" synset="OEWN_Sample-example-ang-anger-BT-n-1">
+              <SenseDefinition gloss="anger, grief"></SenseDefinition>
+            </Sense>
+            <!-- i76253; anger, grief: a strong emotion; a feeling that is oriented toward some real or supposed grievance -->
+            <Sense id="TEONA_N_sense_4" synset="OEWN_Sample-example-ang-malice-BT-n-1">
+              <SenseDefinition gloss="malice"></SenseDefinition>
+            </Sense>
+            <!-- i112025; injury: any physical damage to the body caused by violence or accident or fracture, the condition of an injury -->
+            <Sense id="TEONA_N_sense_5" synset="OEWN_Sample-example-ang-enmity-BT-n-1">
+              <SenseDefinition gloss="enmity, hostility"></SenseDefinition>
+            </Sense>
+            <!-- i110404: enmity, hostility: a state of deep-seated ill-will -->
+          </LexicalEntry>
 
           <LexicalEntry id = "UN-FORWANDODLIC_ADJ" partOfSpeech="a">
             <Lemma writtenForm="unforwandodlic"/>
@@ -631,6 +677,26 @@
               <!-- No Synset found -->
               <SenseDefinition gloss = "unhesitatingly, fearlessly, recklessly"/></Sense>
           </LexicalEntry>
+    
+          <LexicalEntry id="UN-GERISENNESS_N" partOfSpeech="n" grammaticalGender="f">
+            <Lemma writtenForm="un-gerisenness"></Lemma>
+            <Sense id="UN-GERISENNESS_N_sense" synset="OEWN_Sample-example-ang-shame-n-2">
+              <SenseDefinition gloss="unseemliness, shame"></SenseDefinition>
+            </Sense>
+            <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
+          </LexicalEntry>
+    
+         <LexicalEntry id="WEOROLD_SCEAMU_N" partOfSpeech="n" grammaticalGender="f">
+           <Lemma writtenForm="weorold-sceamu"></Lemma>
+           <Sense id="WEOROLD-SCEAMU_N_sense" synset="OEWN_Sample-example-ang-shame-n-2">
+             <SenseDefinition gloss="wordly shame, discrace among men"></SenseDefinition>
+           </Sense>
+           <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
+         </LexicalEntry>
+
+
+
+
 
           <Synset id="OEWN_Sample-example-ang-shame-n" partOfSpeech="n" ili = "i76196" ></Synset>
           <!-- i76196; painful emotion resulting from an awareness of inadequacy or guilt -->
@@ -640,12 +706,27 @@
       
           <Synset id="OEWN_Sample-example-ang-shame-n-3" partOfSpeech="n" ili="i75080"></Synset>
           <!-- i75080; an unfortunate development; pity, shame -->
+    
+          <Synset id="OEWN_Sample-example-ang-shame-n-4" partOfSpeech="n" ili="i11901"></Synset>
+          <!-- i11901; reproach (disgrace or shame) -->
+    
+          <Synset id="OEWN_Sample-example-ang-anger-BT-n-1" partOfSpeech="n" ili="i76253"></Synset>
+          <!-- i76253; anger, grief: a strong emotion; a feeling that is oriented toward some real or supposed grievance -->
       
+          <Synset id="OEWN_Sample-example-ang-injury-n-1" partOfSpeech="n" ili="i112025"></Synset>
+          <!-- i112025; injury: any physical damage to the body caused by violence or accident or fracture, the condition of an injury -->
+    
+          <Synset id="OEWN_Sample-example-ang-malice-BT-n-1"  partOfSpeech="n" ili="i62437"></Synset>
+          <!-- i62437: malice, malevolence: the quality of threatening evil -->
+    
+          <Synset id="OEWN_Sample-example-ang-enmity-BT-n-1" partOfSpeech="n" ili="i110404"></Synset>
+          <!-- i110404: enmity, hostility: a state of deep-seated ill-will -->
+    
+          <Synset id="OEWN_Sample-example-ang-humiliation-BT-n-1" partOfSpeech="n" ili="i76202"></Synset>
+          <!-- i76202: humiliation, mortification, chagring: strong feelings of embarrasment -->
       
           <Synset id="OEWN_Sample-example-ang-shame-v" partOfSpeech="v" ili = "i34432" ></Synset>
-          <!--
-          i34432; bring shame or dishonor upon; shame, attaint, dishonor, dishonour, disgrace
-          -->
+          <!-- i34432; bring shame or dishonor upon; shame, attaint, dishonor, dishonour, disgrace -->
       
           <Synset id="OEWN_Sample-example-ang-shame-v-2" partOfSpeech="v" ili="i34253"></Synset>
           <!-- i30693; cause to be ashamed; shame -->
