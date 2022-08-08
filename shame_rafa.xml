@@ -71,18 +71,18 @@
 
           <LexicalEntry id = "A_AWISC_MOD_ADJ" partOfSpeech="a">
             <Lemma writtenForm="ǣwiscmōd"/>
-              <Sense id ="A_AWISC_MOD_ADJ_sense" synset="OEWN_Sample-example-ang-shame-a-2">
-              <!-- i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous -->
+            <Sense id ="A_AWISC_MOD_ADJ_sense" synset="OEWN_Sample-example-ang-abashed-adj-BT-n-1">
+                <!-- embarrassed, chagrined, abashed -->
               <SenseDefinition gloss = "ashamed, abashed, cowed"/>
             </Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "A__AWISCNES_N" partOfSpeech="n" grammaticalGender = "f">
             <Lemma writtenForm="ǣwiscnes"/>
-              <Sense id= "A__AWISCNES_N_sense_1" synset="OEWN_Sample-example-ang-shame-n-2">
-              <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->    
+            <Sense id= "A__AWISCNES_N_sense_1" synset="OEWN_Sample-example-ang-shamelessness-N-BT-n-1">
               <SenseDefinition gloss = "shameless conduct"/>
             </Sense>
+            <!-- brazenness, shamelessness -->
             <Sense id= "A__AWISCNES_N_sense_2">
               <SenseDefinition gloss = "reverence"/>
               <!-- no synset found -->
@@ -91,8 +91,8 @@
 
           <LexicalEntry id = "ABLYSIAN_VB" partOfSpeech="v">
             <Lemma writtenForm="āblysian"/>
-              <Sense id = "ABLYSIAN_VB_sense" synset="OEWN_Sample-example-ang-shame-v-2">
-              <!-- i30693; cause to be ashamed; shame -->
+            <Sense id = "ABLYSIAN_VB_sense" synset="OEWN_Sample-example-ang-blush-BT-1">
+              <!-- i22289; blush, redden: turn red, as if in abarrasment or shame -->
               <SenseDefinition gloss = "to blush"/>
             </Sense>
           </LexicalEntry>
@@ -110,20 +110,21 @@
 
           <LexicalEntry id = "A-METAN_VB" partOfSpeech="v">
             <Lemma writtenForm="āmētan"/>
-            <Sense id = "A-METAN_VB_sense3">
+            <Sense id = "A-METAN_VB_sense_1">
             <!-- no synset found -->
             <SenseDefinition gloss = "to paint, depict"/>
             </Sense>
-            <Sense id = "A-METAN_VB_sense4">
+            <Sense id = "A-METAN_VB_sense_2">
             <!-- no synset found -->
             <SenseDefinition gloss = "adorn"/>
             </Sense>
+            <!-- PJ: ni idea de donde sale Shame aquí, en ninguno de los tres diccionarios -->
           </LexicalEntry>
 
           <LexicalEntry id = "AREODIAN_VB" partOfSpeech="v">
             <Lemma writtenForm = "ārēodian"/>
-              <Sense id = "AREODIAN_VB_sense" synset="OEWN_Sample-example-ang-shame-v-2">
-              <!-- i30693; cause to be ashamed; shame -->
+            <Sense id = "AREODIAN_VB_sense" synset="OEWN_Sample-example-ang-blush-BT-1">
+              <!-- i22289; blush, redden: turn red, as if in abarrasment or shame -->
               <SenseDefinition gloss = "to redden, blush"/>
             </Sense>
           </LexicalEntry>
@@ -183,8 +184,8 @@
 
           <LexicalEntry id = "ARYDERAN_VB" partOfSpeech="v">
             <Lemma writtenForm="ārȳderian"/>
-            <Sense id = "ARYDERAN_VB_sense" synset = "OEWN_Sample-example-ang-shame-v-2">
-              <!-- i34253; compel through a sense of shame; shame --> 
+            <Sense id = "ARYDERAN_VB_sense" synset = "OEWN_Sample-example-ang-blush-BT-1">
+              <!-- i22289; blush, redden: turn red, as if in abarrasment or shame -->
               <SenseDefinition gloss = "to blush"/>
             </Sense>
           </LexicalEntry>
@@ -206,6 +207,9 @@
               <!-- No synset found -->
               <SenseDefinition gloss = "to roam, wander about"/></Sense>
           <!-- SHAME SENSE IS SENSE 2 OF THE DEO. We´ll create the sense (DOE). we'll like it to the closest synset -->
+            <Sense id = "A-SW__AMAN_VB_sense_3_DOE">
+              <SenseDefinition gloss = "to feel shame"/></Sense> 
+          <!-- no synset found: Feel Shame is not represented in synset classification. need to be created -->
         </LexicalEntry>
 
         <LexicalEntry id = "A-SWARNIAN_VB" partOfSpeech="v">
@@ -214,10 +218,11 @@
             <!-- i34253; compel through a sense of shame; shame -->
             <SenseDefinition gloss = "to be confounded"/>
           </Sense>
-          <Sense id="A-SWARNIAN_VB_DOE" synset="OEWN_Sample-example-ang-shame-v-2">
+          <Sense id="A-SWARNIAN_VB_DOE">
             <!-- i30693; cause to be ashamed; shame -->
-            <SenseDefinition gloss="to shame"></SenseDefinition>
+            <SenseDefinition gloss="to feel shame"></SenseDefinition>
           </Sense>
+          <!-- no synset found: Feel Shame is not represented in synset classification. need to be created -->
         </LexicalEntry>
 
         <LexicalEntry id = "A-SWARNUNG_N" partOfSpeech="n"  grammaticalGender = "f">
@@ -432,24 +437,28 @@
     
     <LexicalEntry id="GE-SCENDAN_VB" partOfSpeech="v">
       <Lemma writtenForm="gescendan"></Lemma>
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_1" synset="OEWN_Sample-example-ang-shame-v-4">
+      <Sense id="GE-SCENDAN_VB_sense_BT_n_1" synset="OEWN_Sample-example-ang-disfigure-v-BT-n-1">
         <SenseDefinition gloss="to disfigure, spoil, injure, mar, dejile, corrupt."></SenseDefinition>
       </Sense>
-      <!-- i30693; cause to be ashamed; shame -->
+      <!--  i29481: disfigure, deface, blemish: mar or spoil the appearance of “scars defaced her cheeks” “The vandals disfigured the statue”  -->
       <!-- DISCUSS MEANING and PJ, etymology-->
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_2" synset="OEWN_Sample-example-ang-shame-v-4">
-        <SenseDefinition gloss="to discomfit, defeat utterly"></SenseDefinition>
+      <Sense id="GE-SCENDAN_VB_sense_BT_n_2_1" synset="OEWN_Sample-example-ang-disconfit-v-BT-n-1">
+        <SenseDefinition gloss="to discomfit"></SenseDefinition>
       </Sense>
-      <!-- i30693; cause to be ashamed; shame -->
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_3" synset="OEWN_Sample-example-ang-shame-v-4">
+      <!-- i30682: disconfit, upset, dishonor, disgrace: cause to lose one's composure -->
+      <Sense id="GE-SCENDAN_VB_sense_BT_n_2_2" synset="OEWN_Sample-example-ang-defeat-v-BT-n-1">
+        <SenseDefinition gloss="defeat utterly"></SenseDefinition>
+      </Sense>
+      <!-- i27138: defeat, overcome, get the better of: win a victory over “You must overcome all difficulties” “defeat your enemies” “He overcame his shyness” “He overcame his infirmity” “Her anger got the better of her and she blew up” -->
+      <Sense id="GE-SCENDAN_VB_sense_BT_n_3" synset="OEWN_Sample-example-ang-abash-v-BT-n-1">
         <SenseDefinition gloss="to confound, abash, bring to shame"></SenseDefinition>
       </Sense>
-      <!-- i30693; cause to be ashamed; shame -->
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_4" synset="OEWN_Sample-example-ang-shame-v-4">
+      <!-- i30692: embarrass, abash: cause to be embarrassed, cause to feel self-conscious -->
+      <Sense id="GE-SCENDAN_VB_sense_BT_n_4" synset="OEWN_">
         <SenseDefinition gloss="to confound, confuse, disturb, throw into disorder"></SenseDefinition>
       </Sense>
       <!-- i30693; cause to be ashamed; shame -->
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_5" synset="OEWN_Sample-example-ang-shame-v-4">
+      <Sense id="GE-SCENDAN_VB_sense_BT_n_5" synset="">
         <SenseDefinition gloss="to blame, rebuke"></SenseDefinition>
       </Sense>
       <!-- i30693; cause to be ashamed; shame -->
@@ -498,8 +507,13 @@
             <SenseDefinition gloss = "shamefully, ignominiously"/></Sense>
         </LexicalEntry>
     
-    
-    <!-- Hynt -->
+    <LexicalEntry id="HYN__T_N" partOfSpeech="n" grammaticalGender="f">
+      <Lemma writtenForm="nytenness"></Lemma>
+      <Sense id="HYN__T_N_sense_BT" synset="OEWN_Sample-example-ang-humiliation-BT-n-1">
+        <SenseDefinition gloss="Humiliation, abasement, disgrace, contempt, injury, harm, loss"></SenseDefinition>
+      </Sense>
+      <!-- i76202: humiliation, mortification, chagrin: strong feelings of embarrasment -->
+    </LexicalEntry>
 
         <LexicalEntry id = "LYSU_ADJ" partOfSpeech="a">
           <Lemma writtenForm="lysu"/>
@@ -841,6 +855,9 @@
     
           <Synset id="OEWN_Sample-example-ang-ignorance-BT-n-1" partOfSpeech="n" ili="i68291"></Synset>
           <!-- i68291; ignorance: lack of knoledge or education -->
+    
+          <Synset id="OEWN_Sample-example-ang-shamelessness-N-BT-n-1" partOfSpeech="n" ili="i6525"></Synset>
+          <!-- brazenness, shamelessness -->
       
           <Synset id="OEWN_Sample-example-ang-shame-v" partOfSpeech="v" ili = "i34432" ></Synset>
           <!-- i34432; bring shame or dishonor upon; shame, attaint, dishonor, dishonour, disgrace -->
@@ -858,6 +875,18 @@
           <Synset id="OEWN_Sample-example-ang-blush-BT-1" partOfSpeech="v" ili="22289"></Synset>
           <!-- i22289; blush, redden: turn red, as if in abarrasment or shame -->   
       
+          <Synset id="OEWN_Sample-example-ang-disfigure-v-BT-n-1" partOfSpeech="v" ili="i29481"></Synset>
+          <!-- i29481: disfigure, deface, blemish: mar or spoil the appearance of “scars defaced her cheeks” “The vandals disfigured the statue” --> 
+          
+          <Synset id="OEWN_Sample-example-ang-disconfit-v-BT-n-1" partOfSpeech="v" ili="i30682"></Synset>
+          <!-- i30682: disconfit, upset, dishonor, disgrace: cause to lose one's composure -->
+    
+          <Synset id="OEWN_Sample-example-ang-defeat-v-BT-n-1" partOfSpeech="v" ili="i27138"></Synset>
+          <!-- i27138: defeat, overcome, get the better of: win a victory over “You must overcome all difficulties” “defeat your enemies” “He overcame his shyness” “He overcame his infirmity” “Her anger got the better of her and she blew up” -->
+    
+          <Synset id="OEWN_Sample-example-ang-abash-v-BT-n-1" partOfSpeech="v" ili="i30692"></Synset>
+          <!-- i30692: embarrass, abash: cause to be embarrassed, cause to feel self-conscious -->
+    
           <Synset id="OEWN_Sample-example-ang-shame-a" partOfSpeech="a" ili = "i6716" ></Synset>
           <!-- i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
           -->
@@ -865,6 +894,8 @@
           <Synset id="OEWN_Sample-example-ang-shame-a-2" partOfSpeech="a" ili = "i8511" ></Synset>
           <!-- i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous -->
       
+          <Synset id="OEWN_Sample-example-ang-abashed-adj-BT-n-1" ili="i2975"></Synset>
+          <!-- embarrassed, chagrined, abashed -->
           
           <Synset id="OEWN_Sample-example-ang-shame-r" partOfSpeech="r" ili = "i20315" ></Synset>
           <!--
