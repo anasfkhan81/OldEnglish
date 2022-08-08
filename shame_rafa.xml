@@ -9,26 +9,31 @@
           version = "0.1"
           language = "ang">
           <LexicalEntry id = "A__APSEN_N" partOfSpeech="n" grammaticalGender = "f">
-            <!-- no synsent found -->  
             <Lemma writtenForm="āpsen"/>
-            <Sense id = "A__APSEN_N_sense" >
+            <Sense id = "A__APSEN_N_sense" synset="OEWN_Sample-example-ang-shamelessness-N-BT-n-1">
               <SenseDefinition gloss = "shameless, foulness"/>
             </Sense>
+            <!-- brazenness, shamelessness -->
           </LexicalEntry>
 
           <LexicalEntry id = "A__APSEN_ADJ" partOfSpeech="a">
             <!-- Not found-->
             <Lemma writtenForm="æpsen"/>
-            <Sense id = "A__APSEN_ADJ_sense" >
+            <Sense id = "A__APSEN_ADJ_sense" synset="OEWN_Sample-example-ang-shamelss-adj-BT-n-1" >
               <SenseDefinition gloss = "shameless"/>
             </Sense>
+            <!-- i841: shameless, unblushing: feeling no shame “a shameless imposter” “an unblushing apologist for fascism” -->
           </LexicalEntry>
 
           <LexicalEntry id = "A-F__ARAN_VB" partOfSpeech="v">
             <!-- no synsent found -->
             <Lemma writtenForm="āfǣran "/>
-            <Sense id="A-F__ARAN_VB_sense">
+            <Sense id="A-F__ARAN_VB_sense" synset="OEWN_Sample-example-ang-fighten-BT-v-1">
               <SenseDefinition gloss = "to frighten"/>
+            </Sense>
+            <!-- i30634: to frighten, scare, afflight: cause fear in “The stranger who hangs around the building frightens me” “Ghosts could never affright her”-->
+            <Sense id="A-F__ARAN_VB_sense_DOE">
+              <SenseDefinition gloss = "to be troubled with shame"/>
             </Sense>
             <!--  a.i.a. where the object of mid is an emotion: beon afæred mid ege ‘to be frightened with terror’; weorþan afæred mid scame ‘to be troubled with shame’  -->
             <!-- add sense and synset -->
@@ -435,34 +440,34 @@
           <!-- i34253; compel through a sense of shame; shame -->
         </LexicalEntry>
     
-    <LexicalEntry id="GE-SCENDAN_VB" partOfSpeech="v">
-      <Lemma writtenForm="gescendan"></Lemma>
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_1" synset="OEWN_Sample-example-ang-disfigure-v-BT-n-1">
-        <SenseDefinition gloss="to disfigure, spoil, injure, mar, dejile, corrupt."></SenseDefinition>
-      </Sense>
-      <!--  i29481: disfigure, deface, blemish: mar or spoil the appearance of “scars defaced her cheeks” “The vandals disfigured the statue”  -->
-      <!-- DISCUSS MEANING and PJ, etymology-->
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_2_1" synset="OEWN_Sample-example-ang-disconfit-v-BT-n-1">
-        <SenseDefinition gloss="to discomfit"></SenseDefinition>
-      </Sense>
-      <!-- i30682: disconfit, upset, dishonor, disgrace: cause to lose one's composure -->
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_2_2" synset="OEWN_Sample-example-ang-defeat-v-BT-n-1">
-        <SenseDefinition gloss="defeat utterly"></SenseDefinition>
-      </Sense>
-      <!-- i27138: defeat, overcome, get the better of: win a victory over “You must overcome all difficulties” “defeat your enemies” “He overcame his shyness” “He overcame his infirmity” “Her anger got the better of her and she blew up” -->
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_3" synset="OEWN_Sample-example-ang-abash-v-BT-n-1">
-        <SenseDefinition gloss="to confound, abash, bring to shame"></SenseDefinition>
-      </Sense>
-      <!-- i30692: embarrass, abash: cause to be embarrassed, cause to feel self-conscious -->
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_4" synset="OEWN_">
-        <SenseDefinition gloss="to confound, confuse, disturb, throw into disorder"></SenseDefinition>
-      </Sense>
-      <!-- i30693; cause to be ashamed; shame -->
-      <Sense id="GE-SCENDAN_VB_sense_BT_n_5" synset="">
-        <SenseDefinition gloss="to blame, rebuke"></SenseDefinition>
-      </Sense>
-      <!-- i30693; cause to be ashamed; shame -->
-    </LexicalEntry>
+         <LexicalEntry id="GE-SCENDAN_VB" partOfSpeech="v">
+           <Lemma writtenForm="gescendan"></Lemma>
+           <Sense id="GE-SCENDAN_VB_sense_BT_n_1" synset="OEWN_Sample-example-ang-disfigure-v-BT-n-1">
+             <SenseDefinition gloss="to disfigure, spoil, injure, mar, dejile, corrupt."></SenseDefinition>
+           </Sense>
+           <!--  i29481: disfigure, deface, blemish: mar or spoil the appearance of “scars defaced her cheeks” “The vandals disfigured the statue”  -->
+           <!-- DISCUSS MEANING and PJ, etymology-->
+           <Sense id="GE-SCENDAN_VB_sense_BT_n_2_1" synset="OEWN_Sample-example-ang-disconfit-v-BT-n-1">
+             <SenseDefinition gloss="to discomfit"></SenseDefinition>
+           </Sense>
+           <!-- i30682: disconfit, upset, dishonor, disgrace: cause to lose one's composure -->
+           <Sense id="GE-SCENDAN_VB_sense_BT_n_2_2" synset="OEWN_Sample-example-ang-defeat-v-BT-n-1">
+             <SenseDefinition gloss="defeat utterly"></SenseDefinition>
+           </Sense>
+           <!-- i27138: defeat, overcome, get the better of: win a victory over “You must overcome all difficulties” “defeat your enemies” “He overcame his shyness” “He overcame his infirmity” “Her anger got the better of her and she blew up” -->
+           <Sense id="GE-SCENDAN_VB_sense_BT_n_3" synset="OEWN_Sample-example-ang-abash-v-BT-n-1">
+             <SenseDefinition gloss="to confound, abash, bring to shame"></SenseDefinition>
+           </Sense>
+           <!-- i30692: embarrass, abash: cause to be embarrassed, cause to feel self-conscious -->
+           <Sense id="GE-SCENDAN_VB_sense_BT_n_4" synset="OEWN_Sample-example-ang-confound-BT-v-1">
+             <SenseDefinition gloss="to confound, confuse, disturb, throw into disorder"></SenseDefinition>
+           </Sense>
+           <!-- i24862:  throw, bedevil, befuddle, fuddle, discombobulate, confound, fox, confuse be confusing or perplexing to; cause to be unable to think clearly -->
+           <Sense id="GE-SCENDAN_VB_sense_BT_n_5" synset="OEWN_Sample-example-ang-blame-BT-v-1">
+             <SenseDefinition gloss="to blame, rebuke"></SenseDefinition>
+           </Sense>
+           <!-- i25855: blame, fault: put or pin the blame on -->
+         </LexicalEntry>
     
         <LexicalEntry id="GE-TAWIAN_VB" partOfSpeech="v">
           <Lemma writtenForm="getāwian"></Lemma>
@@ -886,7 +891,16 @@
     
           <Synset id="OEWN_Sample-example-ang-abash-v-BT-n-1" partOfSpeech="v" ili="i30692"></Synset>
           <!-- i30692: embarrass, abash: cause to be embarrassed, cause to feel self-conscious -->
+          
+          <Synset id="OEWN_Sample-example-ang-blame-BT-v-1" partOfSpeech="v" ili="i25855"></Synset>
+          <!-- i25855: blame, fault: put or pin the blame on -->
     
+          <Synset id="OEWN_Sample-example-ang-confound-BT-v-1" partOfSpeech="v" ili="i24862"></Synset>
+          <!-- i24862:  throw, bedevil, befuddle, fuddle, discombobulate, confound, fox, confuse be confusing or perplexing to; cause to be unable to think clearly “These questions confuse even the experts” “This question completely threw me” “This question befuddled even the teacher” -->
+          
+          <Synset id="OEWN_Sample-example-ang-fighten-BT-v-1" partOfSpeech="v" ili="i30634"></Synset>
+          <!-- i30634: to frighten, scare, afflight: cause fear in “The stranger who hangs around the building frightens me” “Ghosts could never affright her”-->
+          
           <Synset id="OEWN_Sample-example-ang-shame-a" partOfSpeech="a" ili = "i6716" ></Synset>
           <!-- i6716; (used of conduct or character) deserving or bringing disgrace or shame; ignominious, shameful, black, opprobrious, disgraceful, inglorious
           -->
@@ -896,6 +910,9 @@
       
           <Synset id="OEWN_Sample-example-ang-abashed-adj-BT-n-1" ili="i2975"></Synset>
           <!-- embarrassed, chagrined, abashed -->
+    
+    <Synset id="OEWN_Sample-example-ang-shamelss-adj-BT-n-1" partOfSpeech="a" ili="i841"></Synset>
+    <!-- i841: shameless, unblushing: feeling no shame “a shameless imposter” “an unblushing apologist for fascism” -->
           
           <Synset id="OEWN_Sample-example-ang-shame-r" partOfSpeech="r" ili = "i20315" ></Synset>
           <!--
