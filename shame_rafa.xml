@@ -17,7 +17,6 @@
           </LexicalEntry>
 
           <LexicalEntry id = "A__APSEN_ADJ" partOfSpeech="a">
-            <!-- Not found-->
             <Lemma writtenForm="æpsen"/>
             <Sense id = "A__APSEN_ADJ_sense" synset="OEWN_Sample-example-ang-shamelss-adj-BT-n-1" >
               <SenseDefinition gloss = "shameless"/>
@@ -26,7 +25,6 @@
           </LexicalEntry>
 
           <LexicalEntry id = "A-F__ARAN_VB" partOfSpeech="v">
-            <!-- no synsent found -->
             <Lemma writtenForm="āfǣran "/>
             <Sense id="A-F__ARAN_VB_sense" synset="OEWN_Sample-example-ang-fighten-BT-v-1">
               <SenseDefinition gloss = "to frighten"/>
@@ -171,7 +169,7 @@
             </Sense>
           </LexicalEntry>
 
-          <LexicalEntry id = "AR-WUR__TNES_N" partOfSpeech="n">
+          <LexicalEntry id = "AR-WUR__TNES_N" partOfSpeech="n" grammaticalGender="f">
             <Lemma writtenForm="ārweorðnes"/>
             <Sense id = "AR-WUR__TNES_N_sense" synset="OEWN_Sample-example-ang-shame-v-2">
               <!-- i34253; compel through a sense of shame; shame -->
@@ -303,7 +301,8 @@
           </Sense>
            </LexicalEntry>
 
-        <LexicalEntry id = "FACEN_N" partOfSpeech="n" grammaticalGender = "n"><Lemma writtenForm="fācen"/>
+        <LexicalEntry id = "FACEN_N" partOfSpeech="n" grammaticalGender = "n">
+          <Lemma writtenForm="fācen"/>
           <Sense id = "FACEN_N_sense_1">
             <!-- No synset found -->
             <SenseDefinition gloss = "deceit, fraud, treachery, sin, evil, wickedness, crime"/>
@@ -425,7 +424,7 @@
               <SenseDefinition gloss = "unclean objectionable, shameful, base, foul"/></Sense>
         </LexicalEntry>
     
-    <LexicalEntry id="GE-_ASWICOD_ADJ">
+    <LexicalEntry id="GE-_ASWICOD_ADJ" partOfSpeech="a">
       <Lemma writtenForm=""></Lemma>
       <Sense id="GE-_ASWICOD_ADJ_sense_BT">
         <SenseDefinition gloss="offended, scandalized"></SenseDefinition>
@@ -703,7 +702,7 @@
               <SenseDefinition gloss = "disgraceful act"/></Sense>
           </LexicalEntry>
 
-          <LexicalEntry id = "SCEAM-F__ASTNES_N">
+          <LexicalEntry id = "SCEAM-F__ASTNES_N" partOfSpeech="n" grammaticalGender="f">
             <Lemma writtenForm="scamfæstnes"/>
             <Sense id = "SCEAM-F__ASTNES_N_sense" synset="OEWN_Sample-example-ang-shame-n-3">
                <!-- i75080; an unfortunate development; pity, shame -->
@@ -723,8 +722,8 @@
             <Sense id = "SCEAM-LIM_N_sense_1" synset="OEWN_Sample-example-ang-shame-n">
               <SenseDefinition gloss = "private member"/></Sense>
             <!-- i76196; painful emotion resulting from an awareness of inadequacy or guilt -->
-            <Sense id="SCEAM-LIM_N_sense_2" synset="OEWN_Sample-example-ang-shame-n-2">
-              <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
+            <Sense id="SCEAM-LIM_N_sense_2" synset="OEWN_Sample-example-ang-genitalia-BT-n-1">
+              <!-- external sex organ -->
               <SenseDefinition gloss = "Shame limb"/></Sense>
           </LexicalEntry>
 
@@ -855,7 +854,7 @@
           <Synset id="OEWN_Sample-example-ang-humiliation-BT-n-1" partOfSpeech="n" ili="i76202"></Synset>
           <!-- i76202: humiliation, mortification, chagrin: strong feelings of embarrasment -->
     
-          <Synset id="OEWN_Sample-example-ang-indignation-BT-n-1" ili="i76260"></Synset>
+          <Synset id="OEWN_Sample-example-ang-indignation-BT-n-1" partOfSpeech="n" ili="i76260"></Synset>
           <!-- i76260; indignation, outrage: a feeling of rightous anger -->
     
           <Synset id="OEWN_Sample-example-ang-ignorance-BT-n-1" partOfSpeech="n" ili="i68291"></Synset>
@@ -863,6 +862,9 @@
     
           <Synset id="OEWN_Sample-example-ang-shamelessness-N-BT-n-1" partOfSpeech="n" ili="i6525"></Synset>
           <!-- brazenness, shamelessness -->
+    
+          <Synset id="OEWN_Sample-example-ang-genitalia-BT-n-1" partOfSpeech="n" ili="i65904"></Synset>
+          <!-- external sex organ -->
       
           <Synset id="OEWN_Sample-example-ang-shame-v" partOfSpeech="v" ili = "i34432" ></Synset>
           <!-- i34432; bring shame or dishonor upon; shame, attaint, dishonor, dishonour, disgrace -->
@@ -908,7 +910,7 @@
           <Synset id="OEWN_Sample-example-ang-shame-a-2" partOfSpeech="a" ili = "i8511" ></Synset>
           <!-- i8511; giving offense to moral sensibilities and injurious to reputation; shocking, shameful, disgraceful, scandalous -->
       
-          <Synset id="OEWN_Sample-example-ang-abashed-adj-BT-n-1" ili="i2975"></Synset>
+          <Synset id="OEWN_Sample-example-ang-abashed-adj-BT-n-1" partOfSpeech="a" ili="i2975"></Synset>
           <!-- embarrassed, chagrined, abashed -->
     
     <Synset id="OEWN_Sample-example-ang-shamelss-adj-BT-n-1" partOfSpeech="a" ili="i841"></Synset>
