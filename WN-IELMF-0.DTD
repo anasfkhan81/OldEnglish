@@ -29,7 +29,7 @@
     status CDATA #IMPLIED
     note CDATA #IMPLIED
     confidenceScore CDATA "1.0">
-<!ELEMENT LexicalEntry (Lemma, Form*, Sense*, SyntacticBehaviour*)>
+<!ELEMENT LexicalEntry (Lemma, Form*, Sense*, SyntacticBehaviour*, Etymology*)>
 <!ATTLIST LexicalEntry
     id ID #REQUIRED
     dc:contributor CDATA #IMPLIED
@@ -62,7 +62,7 @@
 <!ELEMENT Tag (#PCDATA)>
 <!ATTLIST Tag
     category CDATA #REQUIRED>
-<!ELEMENT Sense (SenseDefinition?, SenseRelation*, Example*, Count*)>
+<!ELEMENT Sense (SenseDefinition?, SenseRelation*, Example*, Count*, Etymology*)>
 <!ATTLIST Sense
     id ID #REQUIRED
     synset IDREF #IMPLIED
@@ -237,4 +237,18 @@
     dc:type CDATA #IMPLIED
     status CDATA #IMPLIED
     note CDATA #IMPLIED
+    confidenceScore CDATA #IMPLIED>
+<!ELEMENT Etymology (Etylink+)>
+<!ATTLIST Etymology
+    dc:creator CDATA #IMPLIED
+    dc:source  CDATA #IMPLIED
+    dc:type CDATA #IMPLIED
+    confidenceScore CDATA #IMPLIED
+    >
+<!ELEMENT Etylink EMPTY>
+<!ATTLIST Etylink
+    source CDATA #REQUIRED
+    target CDATA #REQUIRED
+    linkType CDATA #IMPLIED
+    linkNote CDATA #IMPLIED
     confidenceScore CDATA #IMPLIED>
