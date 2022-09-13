@@ -21,39 +21,6 @@
         <SenseDefinition gloss="dishonour"/>
       </Sense>
     </LexicalEntry>
-    <LexicalEntry id="BYSMORUNG_N" partOfSpeech="n" grammaticalGender="nmf">
-      <Lemma writtenForm="bismerung"/>
-      <Sense id="BYSMORUNG_N_sense_1" synset="OEWN_Sample-example-ang-shame-n">
-        <SenseDefinition gloss="mockery, scorn, blasphemy"/>
-      </Sense>
-      <!-- i76196; painful emotion resulting from an awareness of inadequacy or guilt -->
-      <Sense id="BYSMORUNG_N_sense_2" synset="OEWN_Sample-example-ang-shame-n-2">
-        <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
-        <SenseDefinition gloss="infamy, disrepute"/>
-      </Sense>
-    </LexicalEntry>
-    <LexicalEntry id="ED-WIT_N" partOfSpeech="n" grammaticalGender="n">
-      <Lemma writtenForm="edwīt"/>
-      <Sense id="ED-WIT_N_sense" synset="OEWN_Sample-example-ang-shame-n-2">
-        <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
-        <SenseDefinition gloss="reproach, shame, disgrace, scorn, abuse"/>
-      </Sense>
-    </LexicalEntry>
-    <LexicalEntry id="EDWIT_LIF_N" partOfSpeech="n" grammaticalGender="n">
-      <Lemma writtenForm="edwītlīf"/>
-      <Sense id="EDWIT_LIF_N_sense" synset="OEWN_Sample-example-ang-shame-n-2">
-        <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
-        <SenseDefinition gloss="life of dishonour"/>
-      </Sense>
-    </LexicalEntry>
-    <LexicalEntry id="FOR-WANDUNG_N" partOfSpeech="n" grammaticalGender="f">
-      <Lemma writtenForm="forwandung"/>
-      <Sense id="FOR-WANDUNG_N_sense" synset="OEWN_Sample-example-ang-shame-n-2">
-        <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
-        <!-- DOE: "turning away in shame" -->
-        <SenseDefinition gloss="shame"/>
-      </Sense>
-    </LexicalEntry>
     <LexicalEntry id="FRACO__T_ADJ" partOfSpeech="a">
       <Lemma writtenForm="fracoð"/>
       <Sense id="FRACO__T_ADJ_sense_1" synset="OEWN_Sample-example-ang-shame-n-2">
@@ -75,28 +42,6 @@
         <!-- No synset found -->
         <SenseDefinition gloss="wickedness"/>
       </Sense>
-    </LexicalEntry>
-    <LexicalEntry id="NYTENNESS" partOfSpeech="n" grammaticalGender="f">
-      <Lemma writtenForm="nytenness"/>
-      <Sense id="NYTENNESS_sense_BT_1" synset="OEWN_Sample-example-ang-ignorance-BT-n-1">
-        <SenseDefinition gloss="ignorance"/>
-      </Sense>
-      <!-- i68291; ignorance: lack of knoledge or education -->
-      <Sense id="NYTENNESS_sense_BT_2" synset="OEWN_Sample-example-ang-shame-n-2">
-        <SenseDefinition gloss="laziness, disgrace, ignominy"/>
-      </Sense>
-      <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
-    </LexicalEntry>
-    <LexicalEntry id="OR-WIR__TU_N" partOfSpeech="n" grammaticalGender="f">
-      <Lemma writtenForm="orwyrð"/>
-      <Sense id="OR-WIR__TU_N_sense_1" synset="OEWN_Sample-example-ang-shame-n-2">
-        <SenseDefinition gloss="shame, dishonour"/>
-      </Sense>
-      <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
-      <Sense id="OR-WIR__TU_N_sense_2">
-        <SenseDefinition gloss="abuse"/>
-      </Sense>
-      <!-- No synset found -->
     </LexicalEntry>
     <LexicalEntry id="SCEAMU_N" partOfSpeech="n" grammaticalGender="f">
       <Lemma writtenForm="scamu"/>
@@ -127,17 +72,7 @@
         <SenseDefinition gloss="private parts"/>
       </Sense>
     </LexicalEntry>
-    <LexicalEntry id="SCEAND_N_I" partOfSpeech="n" grammaticalGender="f">
-      <Lemma writtenForm="scand"/>
-      <Sense id="SCEAND_N_I_sense_1" synset="OEWN_Sample-example-ang-shame-n-2">
-        <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
-        <SenseDefinition gloss="ignominy, shame, confusion, disgrace"/>
-      </Sense>
-      <Sense id="SCEAND_N_I_sense_2" synset="OEWN_Sample-example-ang-shame-n-3">
-        <!-- i75080; an unfortunate development; pity, shame -->
-        <SenseDefinition gloss="scandal, disgraceful thing"/>
-      </Sense>
-    </LexicalEntry>
+
 
     <Synset id="OEWN_Sample-example-ang-shame-n" partOfSpeech="n" ili="i76196"/>
     <Synset id="OEWN_Sample-example-ang-shame-n-2" partOfSpeech="n" ili="i112893"/>
