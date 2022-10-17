@@ -798,21 +798,27 @@
 
           <LexicalEntry id = "UN-FORWANDODLICE_ADV" partOfSpeech="r">
             <Lemma writtenForm="unforwandodlīce"/>
-            <Sense id = "UN-FORWANDODLICE_ADV_sense">
-              <!-- No Synset found -->
-              <SenseDefinition gloss = "unhesitatingly, fearlessly, recklessly"/></Sense>
+            <Sense id = "UN-FORWANDODLICE_ADV_sense_BT_1" synset="OEWN_Sample-example-ang-directly-BT-r-1">
+              <SenseDefinition gloss = "without swerving, directly"/></Sense>
+            <Sense id = "UN-FORWANDODLICE_ADV_sense_BT_2">
+              <SenseDefinition gloss = "unexpectedly, suddenly"/></Sense>
+          <Sense id = "UN-FORWANDODLICE_ADV_sense_BT_3">
+              <SenseDefinition gloss = "with a disregard of fear, unhesitatingly, freely, fearlessly"/></Sense>
+          <Sense id = "UN-FORWANDODLICE_ADV_sense_BT_4">
+              <SenseDefinition gloss = "rashly, recklessly, inconsiderately, heedlessly"/></Sense>
           </LexicalEntry>
 
           <LexicalEntry id="UN-GERISENNESS_N" partOfSpeech="n" grammaticalGender="f">
             <Lemma writtenForm="ungerisenness"></Lemma>
-            <Sense id="UN-GERISENNESS_N_sense" synset="OEWN_Sample-example-ang-shame-n-2">
+              <Sense id="UN-GERISENNESS_N_sense" synset="OEWN_Sample-example-ang-unseemliness_BT-n-1">
               <SenseDefinition gloss="unseemliness, shame"></SenseDefinition>
             </Sense>
-            <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
+              <!-- i62751; a lack of consideration for others -->
           </LexicalEntry>
 
           <LexicalEntry id="UN-WEOR__TUNG_N" partOfSpeech="n" grammaticalGender="f">
             <Lemma writtenForm="unweorðung"></Lemma>
+            <Form writtenForm="unweorþung"></Form>
             <Sense id="UN-WEOR__TUNG_N_sense_BT_1" synset="OEWN_Sample-example-ang-shame-n-2">
               <SenseDefinition gloss="disgrace, shame"></SenseDefinition>
             </Sense>
@@ -825,6 +831,7 @@
 
          <LexicalEntry id="WEOROLD_SCEAMU_N" partOfSpeech="n" grammaticalGender="f">
            <Lemma writtenForm="weoroldsceamu"></Lemma>
+           <Form writtenForm="woruldsceamu"
            <Sense id="WEOROLD-SCEAMU_N_sense" synset="OEWN_Sample-example-ang-shame-n-2">
              <SenseDefinition gloss="wordly shame, discrace among men"></SenseDefinition>
            </Sense>
@@ -873,6 +880,9 @@
 
           <Synset id="OEWN_Sample-example-ang-genitalia-BT-n-1" partOfSpeech="n" ili="i65904"></Synset>
           <!-- external sex organ -->
+      
+          <Synset id="OEWN_Sample-example-ang-unseemliness_BT-n-1" partOfSpeech="n" ili="i62751"></Synset>
+          <!-- i62751; a lack of consideration for others -->
 
           <Synset id="OEWN_Sample-example-ang-shame-v" partOfSpeech="v" ili = "i34432" ></Synset>
           <!-- i34432; bring shame or dishonor upon; shame, attaint, dishonor, dishonour, disgrace -->
@@ -928,6 +938,9 @@
           <!--
           i20315; in a dishonorable manner or to a dishonorable degree; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably
           -->
+      <Synset id="OEWN_Sample-example-ang-directly-BT-r-1" partOfSpeech="r" ili="i18442"></Synset>
+      <!-- i18442; without deviation “the path leads directly to the lake” “went direct to the office” -->
 
   </Lexicon>
 </LexicalResource>
+
