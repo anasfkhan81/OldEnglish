@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE LexicalResource SYSTEM "WN-LMF-1.0.1.dtd">
+<!DOCTYPE LexicalResource SYSTEM "https://raw.githubusercontent.com/anasfkhan81/OldEnglish/main/WN-IELMF-0.DTD">
 <LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
 
   <Lexicon id ="OEWN_Sample"
@@ -744,7 +744,7 @@
 
           <LexicalEntry id = "TTURGEOTAN_VB" partOfSpeech="v">
             <Lemma writtenForm="ðurhgēotan"/>
-              <Form writtenForm="þurhgeótan"
+              <Form writtenForm="þurhgeótan"/>
             <Sense id ="TTURGEOTAN_VB_sense" synset="OEWN_Sample-example-ang-shame-n-2">
               <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
               <SenseDefinition gloss = "disgrace"/></Sense>
@@ -776,11 +776,13 @@
 
     <LexicalEntry id="TEONLICE_ADV" partOfSpeech="r">
       <Lemma writtenForm="teónlíce"></Lemma>
-      <Sense id="TEONLICE_ADV_sense_BT_1" synset="OEWN_Sample-example-ang-shame-r" synset="OEWN_Sample-example-ang-grievously-BT-a-1">
+      <Sense id="TEONLICE_ADV_sense_BT_1" synset="OEWN_Sample-example-ang-grievously-BT-a-1">
+      <!-- previous synset="OEWN_Sample-example-ang-shame-r" -->
         <SenseDefinition gloss="in a manner that causes harm or trouble, grievously, miserably"></SenseDefinition>
       </Sense>
         <!-- i20560; in a grievous manner “the resolute but unbroken Germany, grievously wounded but far from destruction, was able to lay the firm foundations for military revival” -->
-      <Sense id="TEONLICE_ADV_sense_BT_2" synset="OEWN_Sample-example-ang-shame-r" synset="OEWN_Sample-example-ang-BT-r-1">
+      <Sense id="TEONLICE_ADV_sense_BT_2" synset="OEWN_Sample-example-ang-shame-r">
+        <!-- previous synset="OEWN_Sample-example-ang-BT-r-1" -->
         <SenseDefinition gloss="in a way that brings shame or affront, with insult or ignominy"></SenseDefinition>
       </Sense>
         <!-- i20315; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably in a dishonorable manner or to a dishonorable degree “his grades were disgracefully low” -->
@@ -798,10 +800,10 @@
             <Sense id = "UN-FORWANDODLICE_ADV_sense_BT_1" synset="OEWN_Sample-example-ang-directly-BT-r-1">
               <SenseDefinition gloss = "without swerving, directly"/></Sense>
             <Sense id = "UN-FORWANDODLICE_ADV_sense_BT_2" synset="OEWN_Sample-example-ang-unexpectedly-BT-r-1">
-            <!-- i18375; unexpectedly, suddendly -->    
+            <!-- i18375; unexpectedly, suddendly -->
               <SenseDefinition gloss = "unexpectedly, suddenly"/></Sense>
           <Sense id = "UN-FORWANDODLICE_ADV_sense_BT_3" synset="OEWN_Sample-example-ang-fearlessly-BT-r-1">
-            <!-- i19517; with a disregard of fear, unhesitatingly, freely, fearlessly -->     
+            <!-- i19517; with a disregard of fear, unhesitatingly, freely, fearlessly -->
               <SenseDefinition gloss = "with a disregard of fear, unhesitatingly, freely, fearlessly"/></Sense>
           <Sense id = "UN-FORWANDODLICE_ADV_sense_BT_4" synset="OEWN_Sample-example-ang-rashly-BT-r-1">
             <!-- i20584; headlong in a hasty and foolhardy manner “he fell headlong in love with his cousin” -->
@@ -831,7 +833,7 @@
 
          <LexicalEntry id="WEOROLD_SCEAMU_N" partOfSpeech="n" grammaticalGender="f">
            <Lemma writtenForm="weoroldsceamu"></Lemma>
-           <Form writtenForm="woruldsceamu"
+           <Form writtenForm="woruldsceamu"/>
            <Sense id="WEOROLD-SCEAMU_N_sense" synset="OEWN_Sample-example-ang-shame-n-2">
              <SenseDefinition gloss="wordly shame, discrace among men"></SenseDefinition>
            </Sense>
@@ -880,7 +882,7 @@
 
           <Synset id="OEWN_Sample-example-ang-genitalia-BT-n-1" partOfSpeech="n" ili="i65904"></Synset>
           <!-- external sex organ -->
-      
+
           <Synset id="OEWN_Sample-example-ang-unseemliness_BT-n-1" partOfSpeech="n" ili="i62751"></Synset>
           <!-- i62751; a lack of consideration for others -->
 
@@ -936,29 +938,28 @@
 
       <Synset id="OEWN_Sample-example-ang-unhesitating-a-1" partOfSpeech="a" ili="i3820"></Synset>
       <!-- i3820; resolute, unhesitating characterized by quickness and firmness “his reply was unhesitating -->
-          
+
           <Synset id="OEWN_Sample-example-ang-shame-r" partOfSpeech="r" ili = "i20315" ></Synset>
           <!--
           i20315; in a dishonorable manner or to a dishonorable degree; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably
           -->
       <Synset id="OEWN_Sample-example-ang-directly-BT-r-1" partOfSpeech="r" ili="i18442"></Synset>
       <!-- i18442; without deviation “the path leads directly to the lake” “went direct to the office” -->
-        
+
       <Synset id="OEWN_Sample-example-ang-unexpectedly-BT-r-1" partOfSpeech="r" ili="i18375"></Synset>
       <!-- i18375; unexpectedly, suddendly -->
-      
-      <Syset id="OEWN_Sample-example-ang-fearlessly-BT-r-1" partOfSpeech="r" ili="i19517"></Syset>
+
+      <Synset id="OEWN_Sample-example-ang-fearlessly-BT-r-1" partOfSpeech="r" ili="i19517"></Synset>
       <!-- i19517; with a disregard of fear, unhesitatingly, freely, fearlessly -->
-      
+
       <Synset id="OEWN_Sample-example-ang-rashly-BT-r-1" partOfSpeech="r" ili="i20584"></Synset>
       <!-- i20584; headlong in a hasty and foolhardy manner “he fell headlong in love with his cousin” -->
-      
+
       <Synset id="OEWN_Sample-example-ang-grievously-BT-a-1" partOfSpeech="r" ili="i20560"></Synset>
       <!-- i20560; in a grievous manner “the resolute but unbroken Germany, grievously wounded but far from destruction, was able to lay the firm foundations for military revival” -->
-      
-          <Synset id="OEWN_Sample-example-ang-BT-r-1" partOfSPeech="r" ili="i20315"></Synset>
+
+      <Synset id="OEWN_Sample-example-ang-BT-r-1" partOfSpeech="r" ili="i20315"></Synset>
       <!-- i20315; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably in a dishonorable manner or to a dishonorable degree “his grades were disgracefully low” -->
-      
+
   </Lexicon>
 </LexicalResource>
-
