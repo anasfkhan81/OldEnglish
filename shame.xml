@@ -758,7 +758,7 @@
             <Sense id="TEONA_N_sense_2" synset="OEWN_Sample-example-ang-shame-n-4">
               <SenseDefinition gloss="accusation, reproach, shame, insult, contumely"></SenseDefinition>
             </Sense>
-            <!-- i11901; reproach (disgrace or shame)/ The definition of shame does not appear on CH but it does on BT (CAMBIO) -->
+            <!-- i112901; reproach (disgrace or shame)/ The definition of shame does not appear on CH but it does on BT (CAMBIO) -->
             <Sense id="TEONA_N_sense_3" synset="OEWN_Sample-example-ang-anger-BT-n-1">
               <SenseDefinition gloss="anger, grief"></SenseDefinition>
             </Sense>
@@ -775,24 +775,20 @@
 
     <LexicalEntry id="TEONLICE_ADV" partOfSpeech="r">
       <Lemma writtenForm="teónlíce"></Lemma>
-      <Sense id="TEONLICE_ADV_sense_BT_1" synset="OEWN_Sample-example-ang-shame-r">
+      <Sense id="TEONLICE_ADV_sense_BT_1" synset="OEWN_Sample-example-ang-shame-r" synset="OEWN_Sample-example-ang-grievously-BT-a-1">
         <SenseDefinition gloss="in a manner that causes harm or trouble, grievously, miserably"></SenseDefinition>
       </Sense>
-      <!--
-          i20315; in a dishonorable manner or to a dishonorable degree; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably
-          -->
-      <Sense id="TEONLICE_ADV_sense_BT_2" synset="OEWN_Sample-example-ang-shame-r">
+        <!-- i20560; in a grievous manner “the resolute but unbroken Germany, grievously wounded but far from destruction, was able to lay the firm foundations for military revival” -->
+      <Sense id="TEONLICE_ADV_sense_BT_2" synset="OEWN_Sample-example-ang-shame-r" synset="OEWN_Sample-example-ang-BT-r-1">
         <SenseDefinition gloss="in a way that brings shame or affront, with insult or ignominy"></SenseDefinition>
       </Sense>
-      <!--
-          i20315; in a dishonorable manner or to a dishonorable degree; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably
-          -->
+        <!-- i20315; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably in a dishonorable manner or to a dishonorable degree “his grades were disgracefully low” -->
     </LexicalEntry>
 
           <LexicalEntry id = "UN-FORWANDODLIC_ADJ" partOfSpeech="a">
             <Lemma writtenForm="unforwandodlic"/>
-            <Sense id = "UN-FORWANDODLIC_ADJ_sense">
-              <!-- No Synset found -->
+            <Sense id = "UN-FORWANDODLIC_ADJ_sense" synset="OEWN_Sample-example-ang-unhesitating-a-1">
+             <!-- i3820; resolute, unhesitating characterized by quickness and firmness “his reply was unhesitating -->
               <SenseDefinition gloss = "unhesitating, fearless"/></Sense>
           </LexicalEntry>
 
@@ -854,8 +850,8 @@
           <Synset id="OEWN_Sample-example-ang-shame-n-3" partOfSpeech="n" ili="i75080"></Synset>
           <!-- i75080; an unfortunate development; pity, shame -->
 
-          <Synset id="OEWN_Sample-example-ang-shame-n-4" partOfSpeech="n" ili="i11901"></Synset>
-          <!-- i11901; reproach (disgrace or shame) -->
+          <Synset id="OEWN_Sample-example-ang-shame-n-4" partOfSpeech="n" ili="i112901"></Synset>
+          <!-- i112901; reproach (disgrace or shame) -->
 
           <Synset id="OEWN_Sample-example-ang-anger-BT-n-1" partOfSpeech="n" ili="i76253"></Synset>
           <!-- i76253; anger, grief: a strong emotion; a feeling that is oriented toward some real or supposed grievance -->
@@ -937,6 +933,9 @@
     <Synset id="OEWN_Sample-example-ang-shamelss-adj-BT-n-1" partOfSpeech="a" ili="i841"></Synset>
     <!-- i841: shameless, unblushing: feeling no shame “a shameless imposter” “an unblushing apologist for fascism” -->
 
+      <Synset id="OEWN_Sample-example-ang-unhesitating-a-1" partOfSpeech="a" ili="i3820"></Synset>
+      <!-- i3820; resolute, unhesitating characterized by quickness and firmness “his reply was unhesitating -->
+          
           <Synset id="OEWN_Sample-example-ang-shame-r" partOfSpeech="r" ili = "i20315" ></Synset>
           <!--
           i20315; in a dishonorable manner or to a dishonorable degree; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably
@@ -953,7 +952,11 @@
       <Synset id="OEWN_Sample-example-ang-rashly-BT-r-1" partOfSpeech="r" ili="i20584"></Synset>
       <!-- i20584; headlong in a hasty and foolhardy manner “he fell headlong in love with his cousin” -->
       
+      <Synset id="OEWN_Sample-example-ang-grievously-BT-a-1" partOfSpeech="r" ili="i20560"></Synset>
+      <!-- i20560; in a grievous manner “the resolute but unbroken Germany, grievously wounded but far from destruction, was able to lay the firm foundations for military revival” -->
       
+          <Synset id="OEWN_Sample-example-ang-BT-r-1" partOfSPeech="r" ili="i20315"></Synset>
+      <!-- i20315; dishonorably, disgracefully, discreditably, shamefully, ingloriously, ignominiously, dishonourably in a dishonorable manner or to a dishonorable degree “his grades were disgracefully low” -->
       
   </Lexicon>
 </LexicalResource>
