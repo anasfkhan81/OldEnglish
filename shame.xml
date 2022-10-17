@@ -731,7 +731,7 @@
               <SenseDefinition gloss = "private member"/></Sense>
             <!-- i76196; painful emotion resulting from an awareness of inadequacy or guilt -->
             <Sense id="SCEAM-LIM_N_sense_2" synset="OEWN_Sample-example-ang-genitalia-BT-n-1">
-              <!-- external sex organ -->
+                <!-- i65904 external sex organ -->
               <SenseDefinition gloss = "Shame limb"/></Sense>
           </LexicalEntry>
 
@@ -739,11 +739,12 @@
             <Lemma writtenForm="scamung"/>
             <Sense id ="SCEAMUNG_N_sense" synset="OEWN_Sample-example-ang-shame-n-2">
               <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
-              <SenseDefinition gloss = "disgrace"/></Sense>
+              <SenseDefinition gloss = "shaming, disgrace"/></Sense>
           </LexicalEntry>
 
           <LexicalEntry id = "TTURGEOTAN_VB" partOfSpeech="v">
             <Lemma writtenForm="ðurhgēotan"/>
+              <Form writtenForm="þurhgeótan"
             <Sense id ="TTURGEOTAN_VB_sense" synset="OEWN_Sample-example-ang-shame-n-2">
               <!-- i112893; a state of dishonor; shame, ignominy, disgrace -->
               <SenseDefinition gloss = "disgrace"/></Sense>
