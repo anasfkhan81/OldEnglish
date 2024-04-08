@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "https://raw.githubusercontent.com/anasfkhan81/OldEnglish/main/WN-IELMF-0.DTD">
+<LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <Lexicon id="OEWN_Sample" label="A Sample of the Old English WordNet" email="anasfkhan81@gmail.com" license="https://creativecommons.org/publicdomain/zero/1.0/" version="0.1" language="ang">
+
+<LexicalEntry id="A-BERAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="āberan"/>
+  <Sense id="A-BERAN_VB_1" synset="">
+    <SenseDefinition gloss="to bear, carry"/>
+  </Sense>
+  <Sense id="A-BERAN_VB_2" synset="">
+    <SenseDefinition gloss="endure, suffer, Mt, Bo; Æ, CP"/>
+  </Sense>
+  <Sense id="A-BERAN_VB_3" synset="">
+    <SenseDefinition gloss="bear (a child), Æ"/>
+  </Sense>
+  <Sense id="A-BERAN_VB_4" synset="">
+    <SenseDefinition gloss="take away, remove"/>
+  </Sense>
+  <Sense id="A-BERAN_VB_5" synset="">
+    <SenseDefinition gloss="reveal"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="A-BICGAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="abicgan, abycgan"/>
+  <Sense id="A-BICGAN_VB_1" synset="">
+    <SenseDefinition gloss="to buy, pay for, recompense"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="A+TWEAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="a-þweán"/>
+  <Sense id="A+TWEAN_VB_1" synset="">
+    <SenseDefinition gloss="to wash out, to wash"/>
+  </Sense>
+  <Sense id="A+TWEAN_VB_2" synset="">
+    <SenseDefinition gloss="to baptize, anoint, cleanse"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="ACL+ANSIAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="āclǣnsian"/>
+  <Sense id="ACL+ANSIAN_VB_1" synset="">
+    <SenseDefinition gloss="to cleanse, purify"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="AFEORMIAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="āfeormian"/>
+  <Sense id="AFEORMIAN_VB_1" synset="">
+    <SenseDefinition gloss="to cleanse, purge, purify"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="ALYSAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="alýsan"/>
+  <Sense id="ALYSAN_VB_1" synset="">
+    <SenseDefinition gloss="to let loose, free, deliver, liberate"/>
+  </Sense>
+  <Sense id="ALYSAN_VB_2" synset="">
+    <SenseDefinition gloss="to pay for loosing, to pay"/>
+  </Sense>
+  <Sense id="ALYSAN_VB_3" synset="">
+    <SenseDefinition gloss="to redeem, ransom"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="ASCEADAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="āscēadan"/>
+  <Sense id="ASCEADAN_VB_1" synset="">
+    <SenseDefinition gloss="to separate, hold aloof or asunder, exclude"/>
+  </Sense>
+  <Sense id="ASCEADAN_VB_2" synset="">
+    <SenseDefinition gloss="make clear, cleanse, purify"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="BETAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="betan"/>
+  <Sense id="BETAN_VB_1" synset="">
+    <SenseDefinition gloss="to amend, repair, restore, cure"/>
+  </Sense>
+  <Sense id="BETAN_VB_2" synset="">
+    <SenseDefinition gloss="make good, make amends, remedy, compensate, atone, pay ‘bōt’ for an offence"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="BLOD_N" partOfSpeech="n"  grammaticalGender="n">
+  <Lemma writtenForm="blōd"/>
+  <Sense id="BLOD_N_1" synset="">
+    <SenseDefinition gloss="blood, gore"/>
+  </Sense>
+  <Sense id="BLOD_N_2" synset="">
+    <SenseDefinition gloss="responsibility for bloodshed"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="CULPA_N" partOfSpeech="n" grammaticalGender="m">
+  <Lemma writtenForm="culpa"/>
+  <Sense id="CULPA_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-5">
+    <SenseDefinition gloss="fault, sin"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="DEA+T-SCYLDIG_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="deáþscyldig"/>
+  <Sense id="DEA+T-SCYLDIG_ADJ_1" synset="">
+    <SenseDefinition gloss="death-guilty, condemned"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="DEAD-SCYLDIG_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="dēaðscyldig, dēadsynnig"/>
+  <Sense id="DEAD-SCYLDIG_ADJ_1" synset="">
+    <SenseDefinition gloss="condemned to death"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="DEOP_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="dēop"/>
+  <Sense id="DEOP_ADJ_1" synset="">
+    <SenseDefinition gloss="‘deep,’ profound"/>
+  </Sense>
+  <Sense id="DEOP_ADJ_2" synset="">
+    <SenseDefinition gloss="awful, mysterious"/>
+  </Sense>
+  <Sense id="DEOP_ADJ_3" synset="">
+    <SenseDefinition gloss="heinous"/>
+  </Sense>
+  <Sense id="DEOP_ADJ_4" synset="">
+    <SenseDefinition gloss="serious, solemn, earnest"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="DIGOL_N" partOfSpeech="n" grammaticalGender="f">
+  <Lemma writtenForm="dīgol, dīgul, dīegol"/>
+  <Sense id="DIGOL_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-2">
+    <SenseDefinition gloss="concealment, obscurity, secrecy, mystery"/>
+  </Sense>
+  <Sense id="DIGOL_N_2" synset="">
+    <SenseDefinition gloss="hidden place, grave"/>
+  </Sense>
+  <Sense id="DIGOL_N_3" synset="">
+    <SenseDefinition gloss="guilt that is secret"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="DIGOLNES_N" partOfSpeech="n" grammaticalGender="f">
+  <Lemma writtenForm="digolnes, digolnys"/>
+  <Sense id="DIGOLNES_N_1" synset="">
+    <SenseDefinition gloss="solitariness, solitude, privacy"/>
+  </Sense>
+  <Sense id="DIGOLNES_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-2">
+    <SenseDefinition gloss="secrecy"/>
+  </Sense>
+  <Sense id="DIGOLNES_N_3" synset="">
+    <SenseDefinition gloss="mystery"/>
+  </Sense>
+  <Sense id="DIGOLNES_N_4" synset="">
+    <SenseDefinition gloss="hiding-place, recess"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="EFEN-SCYLDIG_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="efenscyldig"/>
+  <Sense id="EFEN-SCYLDIG_ADJ_1" synset="">
+    <SenseDefinition gloss="equally guilty"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="EOFOT_N" partOfSpeech="n"  grammaticalGender="m">
+  <Lemma writtenForm="eofot, eobot"/>
+  <Sense id="EOFOT_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-1">
+    <SenseDefinition gloss="crime, sin, guilt"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="FAH_N" partOfSpeech="n"  grammaticalGender="m">
+  <Lemma writtenForm="fāh"/>
+  <Sense id="FAH_N_1" synset="">
+    <SenseDefinition gloss="‘foe,’ enemy"/>
+  </Sense>
+  <Sense id="FAH_N_2" synset="">
+    <SenseDefinition gloss="state of being stained by sin"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="FOR-GYLTAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="forgyltan"/>
+  <Sense id="FOR-GYLTAN_VB_1" synset="">
+    <SenseDefinition gloss="to sin, be or become guilty"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="FOR-SCYLDIG_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="forscyldig"/>
+  <Sense id="FOR-SCYLDIG_ADJ_1" synset="">
+    <SenseDefinition gloss="very guilty, wicked, flagitious"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="FOR-WYRCAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="forwyrcan, forwercan"/>
+  <Sense id="FOR-WYRCAN_VB_1" synset="">
+    <SenseDefinition gloss="to do wrong, sin"/>
+  </Sense>
+  <!-- Add other senses here -->
+</LexicalEntry>
+
+<LexicalEntry id="GE-CL+ANSIAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="geclansian"/>
+  <Sense id="GE-CL+ANSIAN_VB_1" synset="">
+    <SenseDefinition gloss="to cleanse, purify"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="GE-CL+ANSUNG_N" partOfSpeech="n" grammaticalGender="f">
+  <Lemma writtenForm="geclansung"/>
+  <Sense id="GE-CL+ANSUNG_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-4">
+    <SenseDefinition gloss="a cleansing, purifying"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="GE-GYLTAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="gegyltan"/>
+  <Sense id="GE-GYLTAN_VB_1" synset="">
+    <SenseDefinition gloss="to become guilty, to offend, sin"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="GOD-SCYLD_N" partOfSpeech="n" grammaticalGender="f">
+  <Lemma writtenForm="godscyldig"/>
+  <Sense id="GOD-SCYLD_N_1" synset="">
+    <SenseDefinition gloss="sin against God, impiety"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="GYLT_N" partOfSpeech="n" grammaticalGender="m">
+  <Lemma writtenForm="gylt"/>
+  <Sense id="GYLT_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-1">
+    <SenseDefinition gloss="‘guilt,’ sin, offence, crime, fault"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="GYLTAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="gyltan"/>
+  <Sense id="GYLTAN_VB_1" synset="">
+    <SenseDefinition gloss="to commit sin, be guilty"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="GYLTIG_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="gyltig"/>
+  <Sense id="GYLTIG_ADJ_1" synset="">
+    <SenseDefinition gloss="offending, ‘guilty,’"/>
+  </Sense>
+</LexicalEntry>
+
+
+<LexicalEntry id="GYLTLIC_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="gyltlic"/>
+  <Sense id="GYLTLIC_ADJ_1" synset="">
+    <SenseDefinition gloss="sinful"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="SACU_N" partOfSpeech="n" grammaticalGender="f">
+  <Lemma writtenForm="sacu, sac, sōcn"/>
+  <Sense id="SACU_N_1" synset="">
+    <SenseDefinition gloss="conflict, strife, war, battle, feud, sedition, dispute"/>
+  </Sense>
+  <Sense id="SACU_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-7">
+    <SenseDefinition gloss="affliction, persecution, trial"/>
+  </Sense>
+  <Sense id="SACU_N_3" synset="OEWN_Sample-example-ang-guilt-remorse-1">
+    <SenseDefinition gloss="sin, fault, guilt"/>
+  </Sense>
+  <Sense id="SACU_N_4" synset="OEWN_Sample-example-ang-guilt-remorse-3">
+    <SenseDefinition gloss="prosecution, lawsuit, action"/>
+  </Sense>
+  <Sense id="SACU_N_5" synset="OEWN_Sample-example-ang-guilt-remorse-3">
+    <SenseDefinition gloss="jurisdiction, right of holding a court for criminal and civil matters"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="SCYLD_N" partOfSpeech="n" grammaticalGender="f">
+  <Lemma writtenForm="scyld"/>
+  <Sense id="SCYLD_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-1">
+    <SenseDefinition gloss="offence, fault, crime, guilt, sin"/>
+  </Sense>
+  <Sense id="SCYLD_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-6">
+    <SenseDefinition gloss="obligation, liability, due, debt"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="SCYLD-FRECU_N" partOfSpeech="n" grammaticalGender="f">
+  <Lemma writtenForm="scyldfrecu"/>
+  <Sense id="SCYLD-FRECU_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-5">
+    <SenseDefinition gloss="wicked craving"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="SCYLDAN_VB" partOfSpeech="v">
+  <Lemma writtenForm="scyldan, scyldian, scyldigian, scyldgian"/>
+  <Sense id="SCYLDAN_VB_1" synset="">
+    <SenseDefinition gloss="to accuse"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="SCYLDDIGNES_N" partOfSpeech="n" grammaticalGender="f">
+  <Lemma writtenForm="scyldignes"/>
+  <Sense id="SCYLDDIGNES_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-1">
+    <SenseDefinition gloss="guilt"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="SCYLDEND_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="scildend"/>
+  <Sense id="SCYLDEND_ADJ_1" synset="">
+    <SenseDefinition gloss="protector, guardian, defender"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="SCYLDFUL_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="scyldful"/>
+  <Sense id="SCYLDFUL_ADJ_1" synset="">
+    <SenseDefinition gloss="sinful, guilty"/>
+  </Sense>
+</LexicalEntry>
+
+<LexicalEntry id="SCYLDIG_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="scyldig"/>
+  <Sense id="SCYLDIG_ADJ_1" synset="">
+    <SenseDefinition gloss="guilty, criminal, sinful, Æ, B"/>
+  </Sense>
+  <Sense id="SCYLDIG_ADJ_2" synset="">
+    <SenseDefinition gloss="having forfeited his life"/>
+  </Sense>
+  <Sense id="SCYLDIG_ADJ_3" synset="">
+    <SenseDefinition gloss="liable, responsible, in debt to"/>
+  </Sense>
+</LexicalEntry>
+
+
+
+<LexicalEntry id="WAMMFULL_ADJ" partOfSpeech="a">
+  <Lemma writtenForm="wammfull"/>
+  <Sense id="WAMMFULL_ADJ_1" synset="">
+    <SenseDefinition gloss="evil, guilty, criminal, flagitious"/>
+  </Sense>
+</LexicalEntry>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-1" partOfSpeech="n" ili="i76196" note="guilt, guiltiness the state of having committed an offense"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-2" partOfSpeech="n" ili="i112764" note="concealment, secrecy, privacy, privateness the condition of being concealed or hidden"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-3" partOfSpeech="n" ili="i41595" note="suit, case, lawsuit, causa, cause a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy “the family brought suit against the landlord”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-4" partOfSpeech="n" ili="i17812" note="purifying, purgatorial, purging serving to purge or rid of sin “purgatorial rites”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-5" partOfSpeech="n" ili="i35783" note="fault, error, mistake a wrong action attributable to bad judgment or ignorance or inattention “he made a bad mistake” “she was quick to point out my errors” “I could understand his English in spite of his grammatical faults”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-6" partOfSpeech="n" ili="i39353" note="immorality, wickedness, evil, iniquity morally objectionable behavior"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-7" partOfSpeech="n" ili="i40532" note="offence, offense, offensive the action of attacking an enemy"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-8" partOfSpeech="n" ili="i41656" note="trial (law) the determination of a person's innocence or guilt by due process of law “he had a fair trial and the jury found him guilty” “most of these complaints are settled before they go to trial”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-9" partOfSpeech="n" ili="i4931" note="arcane requiring secret or mysterious knowledge “the arcane science of dowsing”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-10" partOfSpeech="n" ili="i54410" note="grave, tomb a place for the burial of a corpse (especially beneath the ground and marked by a tombstone) “he put flowers on his mother's grave”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-11" partOfSpeech="n" ili="i90012" note="foe, enemy a personal enemy “they had been political foes for years”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-12" partOfSpeech="n" ili="i82083" note="hiding place a place suitable for hiding something (such as yourself)"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-13" partOfSpeech="n" ili="i74396" note="conflict, difference, dispute, difference of opinion a disagreement or argument about something important “he had a dispute with his wife” “there were irreconcilable differences” “the familiar conflict between Republicans and Democrats”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-14" partOfSpeech="n" ili="i72082" note="debt an obligation to pay or do something"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-15" partOfSpeech="n" ili="i65349" note="blood the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets “blood carries oxygen and nutrients to the tissues and carries away waste products” “the ancients believed that blood was the seat of the emotions”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-16" partOfSpeech="n" ili="i62366" note="impiety, impiousness unrighteousness by virtue of lacking respect for a god"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-17" partOfSpeech="n" ili="i61371" note="seclusion, privacy, privateness the quality of being secluded from the presence or view of others"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-18" partOfSpeech="n" ili="OEGX1" note="State of being stained with sin"/>
+
+  </Lexicon>
+</LexicalResource>
