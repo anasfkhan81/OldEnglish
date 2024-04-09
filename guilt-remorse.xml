@@ -8,13 +8,13 @@
   <Sense id="A-BERAN_VB_1" synset="">
     <SenseDefinition gloss="to bear, carry"/>
   </Sense>
-  <Sense id="A-BERAN_VB_2" synset="">
+  <Sense id="A-BERAN_VB_2" synset="OEWN_Sample-example-ang-guilt-remorse-27">
     <SenseDefinition gloss="endure, suffer, Mt, Bo; Æ, CP"/>
   </Sense>
-  <Sense id="A-BERAN_VB_3" synset="">
+  <Sense id="A-BERAN_VB_3" synset="OEWN_Sample-example-ang-guilt-remorse-23">
     <SenseDefinition gloss="bear (a child), Æ"/>
   </Sense>
-  <Sense id="A-BERAN_VB_4" synset="">
+  <Sense id="A-BERAN_VB_4" synset="OEWN_Sample-example-ang-guilt-remorse-24">
     <SenseDefinition gloss="take away, remove"/>
   </Sense>
   <Sense id="A-BERAN_VB_5" synset="">
@@ -34,28 +34,28 @@
   <Sense id="A+TWEAN_VB_1" synset="">
     <SenseDefinition gloss="to wash out, to wash"/>
   </Sense>
-  <Sense id="A+TWEAN_VB_2" synset="">
+  <Sense id="A+TWEAN_VB_2" synset="OEWN_Sample-example-ang-guilt-remorse-21">
     <SenseDefinition gloss="to baptize, anoint, cleanse"/>
   </Sense>
 </LexicalEntry>
 
 <LexicalEntry id="ACL+ANSIAN_VB" partOfSpeech="v">
   <Lemma writtenForm="āclǣnsian"/>
-  <Sense id="ACL+ANSIAN_VB_1" synset="">
+  <Sense id="ACL+ANSIAN_VB_1" synset="OEWN_Sample-example-ang-guilt-remorse-21">
     <SenseDefinition gloss="to cleanse, purify"/>
   </Sense>
 </LexicalEntry>
 
 <LexicalEntry id="AFEORMIAN_VB" partOfSpeech="v">
   <Lemma writtenForm="āfeormian"/>
-  <Sense id="AFEORMIAN_VB_1" synset="">
+  <Sense id="AFEORMIAN_VB_1" synset="OEWN_Sample-example-ang-guilt-remorse-21">
     <SenseDefinition gloss="to cleanse, purge, purify"/>
   </Sense>
 </LexicalEntry>
 
 <LexicalEntry id="ALYSAN_VB" partOfSpeech="v">
   <Lemma writtenForm="alýsan"/>
-  <Sense id="ALYSAN_VB_1" synset="">
+  <Sense id="ALYSAN_VB_1" synset="OEWN_Sample-example-ang-guilt-remorse-22">
     <SenseDefinition gloss="to let loose, free, deliver, liberate"/>
   </Sense>
   <Sense id="ALYSAN_VB_2" synset="">
@@ -71,27 +71,27 @@
   <Sense id="ASCEADAN_VB_1" synset="">
     <SenseDefinition gloss="to separate, hold aloof or asunder, exclude"/>
   </Sense>
-  <Sense id="ASCEADAN_VB_2" synset="">
+  <Sense id="ASCEADAN_VB_2" synset="OEWN_Sample-example-ang-guilt-remorse-21">
     <SenseDefinition gloss="make clear, cleanse, purify"/>
   </Sense>
 </LexicalEntry>
 
 <LexicalEntry id="BETAN_VB" partOfSpeech="v">
   <Lemma writtenForm="betan"/>
-  <Sense id="BETAN_VB_1" synset="">
+  <Sense id="BETAN_VB_1" synset="OEWN_Sample-example-ang-guilt-remorse-26">
     <SenseDefinition gloss="to amend, repair, restore, cure"/>
   </Sense>
-  <Sense id="BETAN_VB_2" synset="">
+  <Sense id="BETAN_VB_2" synset="OEWN_Sample-example-ang-guilt-remorse-25">
     <SenseDefinition gloss="make good, make amends, remedy, compensate, atone, pay ‘bōt’ for an offence"/>
   </Sense>
 </LexicalEntry>
 
 <LexicalEntry id="BLOD_N" partOfSpeech="n"  grammaticalGender="n">
   <Lemma writtenForm="blōd"/>
-  <Sense id="BLOD_N_1" synset="">
+  <Sense id="BLOD_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-15">
     <SenseDefinition gloss="blood, gore"/>
   </Sense>
-  <Sense id="BLOD_N_2" synset="">
+  <Sense id="BLOD_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-19">
     <SenseDefinition gloss="responsibility for bloodshed"/>
   </Sense>
 </LexicalEntry>
@@ -138,26 +138,26 @@
   <Sense id="DIGOL_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-2">
     <SenseDefinition gloss="concealment, obscurity, secrecy, mystery"/>
   </Sense>
-  <Sense id="DIGOL_N_2" synset="">
+  <Sense id="DIGOL_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-10">
     <SenseDefinition gloss="hidden place, grave"/>
   </Sense>
-  <Sense id="DIGOL_N_3" synset="">
+  <Sense id="DIGOL_N_3" synset="EWN_Sample-example-ang-guilt-remorse-20">
     <SenseDefinition gloss="guilt that is secret"/>
   </Sense>
 </LexicalEntry>
 
 <LexicalEntry id="DIGOLNES_N" partOfSpeech="n" grammaticalGender="f">
   <Lemma writtenForm="digolnes, digolnys"/>
-  <Sense id="DIGOLNES_N_1" synset="">
+  <Sense id="DIGOLNES_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-17">
     <SenseDefinition gloss="solitariness, solitude, privacy"/>
   </Sense>
   <Sense id="DIGOLNES_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-2">
     <SenseDefinition gloss="secrecy"/>
   </Sense>
-  <Sense id="DIGOLNES_N_3" synset="">
+  <Sense id="DIGOLNES_N_3" synset="OEWN_Sample-example-ang-guilt-remorse-9">
     <SenseDefinition gloss="mystery"/>
   </Sense>
-  <Sense id="DIGOLNES_N_4" synset="">
+  <Sense id="DIGOLNES_N_4" synset="OEWN_Sample-example-ang-guilt-remorse-12">
     <SenseDefinition gloss="hiding-place, recess"/>
   </Sense>
 </LexicalEntry>
@@ -178,17 +178,17 @@
 
 <LexicalEntry id="FAH_N" partOfSpeech="n"  grammaticalGender="m">
   <Lemma writtenForm="fāh"/>
-  <Sense id="FAH_N_1" synset="">
+  <Sense id="FAH_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-11">
     <SenseDefinition gloss="‘foe,’ enemy"/>
   </Sense>
-  <Sense id="FAH_N_2" synset="">
+  <Sense id="FAH_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-18">
     <SenseDefinition gloss="state of being stained by sin"/>
   </Sense>
 </LexicalEntry>
 
 <LexicalEntry id="FOR-GYLTAN_VB" partOfSpeech="v">
   <Lemma writtenForm="forgyltan"/>
-  <Sense id="FOR-GYLTAN_VB_1" synset="">
+  <Sense id="FOR-GYLTAN_VB_1" synset="OEWN_Sample-example-ang-guilt-remorse-22">
     <SenseDefinition gloss="to sin, be or become guilty"/>
   </Sense>
 </LexicalEntry>
@@ -202,7 +202,7 @@
 
 <LexicalEntry id="FOR-WYRCAN_VB" partOfSpeech="v">
   <Lemma writtenForm="forwyrcan, forwercan"/>
-  <Sense id="FOR-WYRCAN_VB_1" synset="">
+  <Sense id="FOR-WYRCAN_VB_1" synset="OEWN_Sample-example-ang-guilt-remorse-22">
     <SenseDefinition gloss="to do wrong, sin"/>
   </Sense>
   <!-- Add other senses here -->
@@ -210,7 +210,7 @@
 
 <LexicalEntry id="GE-CL+ANSIAN_VB" partOfSpeech="v">
   <Lemma writtenForm="geclansian"/>
-  <Sense id="GE-CL+ANSIAN_VB_1" synset="">
+  <Sense id="GE-CL+ANSIAN_VB_1" synset="OEWN_Sample-example-ang-guilt-remorse-21">
     <SenseDefinition gloss="to cleanse, purify"/>
   </Sense>
 </LexicalEntry>
@@ -224,14 +224,14 @@
 
 <LexicalEntry id="GE-GYLTAN_VB" partOfSpeech="v">
   <Lemma writtenForm="gegyltan"/>
-  <Sense id="GE-GYLTAN_VB_1" synset="">
+  <Sense id="GE-GYLTAN_VB_1" synset="OEWN_Sample-example-ang-guilt-remorse-22">
     <SenseDefinition gloss="to become guilty, to offend, sin"/>
   </Sense>
 </LexicalEntry>
 
 <LexicalEntry id="GOD-SCYLD_N" partOfSpeech="n" grammaticalGender="f">
   <Lemma writtenForm="godscyldig"/>
-  <Sense id="GOD-SCYLD_N_1" synset="">
+  <Sense id="GOD-SCYLD_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-16">
     <SenseDefinition gloss="sin against God, impiety"/>
   </Sense>
 </LexicalEntry>
@@ -267,10 +267,10 @@
 
 <LexicalEntry id="SACU_N" partOfSpeech="n" grammaticalGender="f">
   <Lemma writtenForm="sacu, sac, sōcn"/>
-  <Sense id="SACU_N_1" synset="">
+  <Sense id="SACU_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-13">
     <SenseDefinition gloss="conflict, strife, war, battle, feud, sedition, dispute"/>
   </Sense>
-  <Sense id="SACU_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-7">
+  <Sense id="SACU_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-8">
     <SenseDefinition gloss="affliction, persecution, trial"/>
   </Sense>
   <Sense id="SACU_N_3" synset="OEWN_Sample-example-ang-guilt-remorse-1">
@@ -289,14 +289,14 @@
   <Sense id="SCYLD_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-1">
     <SenseDefinition gloss="offence, fault, crime, guilt, sin"/>
   </Sense>
-  <Sense id="SCYLD_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-6">
+  <Sense id="SCYLD_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-14">
     <SenseDefinition gloss="obligation, liability, due, debt"/>
   </Sense>
 </LexicalEntry>
 
 <LexicalEntry id="SCYLD-FRECU_N" partOfSpeech="n" grammaticalGender="f">
   <Lemma writtenForm="scyldfrecu"/>
-  <Sense id="SCYLD-FRECU_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-5">
+  <Sense id="SCYLD-FRECU_N_1" synset="OEWN_Sample-example-ang-guilt-remorse-6">
     <SenseDefinition gloss="wicked craving"/>
   </Sense>
 </LexicalEntry>
@@ -367,7 +367,26 @@
 <Synset id="OEWN_Sample-example-ang-guilt-remorse-15" partOfSpeech="n" ili="i65349" note="blood the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets “blood carries oxygen and nutrients to the tissues and carries away waste products” “the ancients believed that blood was the seat of the emotions”"/>
 <Synset id="OEWN_Sample-example-ang-guilt-remorse-16" partOfSpeech="n" ili="i62366" note="impiety, impiousness unrighteousness by virtue of lacking respect for a god"/>
 <Synset id="OEWN_Sample-example-ang-guilt-remorse-17" partOfSpeech="n" ili="i61371" note="seclusion, privacy, privateness the quality of being secluded from the presence or view of others"/>
-<Synset id="OEWN_Sample-example-ang-guilt-remorse-18" partOfSpeech="n" ili="OEGX1" note="State of being stained with sin"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-18" partOfSpeech="n" ili="XXXX" note="State of being stained with sin"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-19" partOfSpeech="n" ili="XXXX" note="guilt for bloodshed"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-20" partOfSpeech="n" ili="XXXX" note="guilt that is secret"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-21" partOfSpeech="v" ili="i24221" note="cleanse purge of an ideology, bad thoughts, or sins “Purgatory is supposed to cleanse you from your sins”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-22" partOfSpeech="v" ili="i34521" note="transgress, trespass, sin commit a sin; violate a law of God or a moral law"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-23" partOfSpeech="v" ili="i22058" note="bear, have, deliver, give birth, birth cause to be born “My wife had twins yesterday!”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-24" partOfSpeech="v" ili="i22577" note="take away, remove"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-25" partOfSpeech="v" ili="i22724" note="repair, rectify, remediate, remedy, amend set straight or right “remedy these deficiencies” “rectify the inequities in salaries” “repair an oversight”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-26" partOfSpeech="v" ili="i22752" note="better, improve, ameliorate, amend, meliorate to make better “The editor improved the manuscript with his changes”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-27" partOfSpeech="v" ili="i25064" note="stand, support, bear, put up, stick out, suffer, abide, endure, stomach, brook, digest, tolerate put up with something or somebody unpleasant “I cannot bear his constant criticism” “The new secretary had to endure a lot of unprofessional remarks” “he learned to tolerate the heat” “She stuck out two years in a miserable marriage”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-28" partOfSpeech="v" ili="i25857" note="incriminate, impeach, accuse, criminate bring an accusation against; level a charge against “The neighbors accused the man of spousal abuse”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-29" partOfSpeech="v" ili="i25949" note="excoriate, reprobate, condemn, objurgate, decry express strong disapproval of “We condemn the racism in South Africa” “These ideas were reprobated”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-30" partOfSpeech="v" ili="i26277" note="break, bring out, uncover, unwrap, let out, expose, discover, disclose, reveal, give away, divulge, let on make known to the public information that was previously known only to a few people or that was meant to be kept a secret “The auction house would not disclose the price at which the van Gogh had sold” “The actress won't reveal how old she is” “bring out the truth” “he broke the news to her” “unwrap the evidence in the murder case” “The newspaper uncovered the President's illegal dealings”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-31" partOfSpeech="v" ili="i29108" note="top, bar, barricade, block, block off, block up, blockade render unsuitable for passage “block the way” “barricade the streets” “stop the busy road”):"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-32" partOfSpeech="v" ili="i29408" note="wash out wash free from unwanted substances, such as dirt “Wash out your dirty shirt in the sink”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-33" partOfSpeech="v" ili="i29513" note="separate, disunite, divide, part force, take, or pull apart “He separated the fighting children” “Moses parted the Red Sea”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-34" partOfSpeech="v" ili="i29552" note="destroy, ruin destroy completely; damage irreparably “You have ruined my car by pouring sugar in the tank!” “The tears ruined her make-up”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-35" partOfSpeech="v" ili="i29750" note="bear, hold, carry support or hold in a certain manner “She holds her head high” “He carried himself upright”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-36" partOfSpeech="v" ili="i32788" note="buy, purchase obtain by purchase; acquire by means of a financial transaction “The family purchased a new car” “The conglomerate acquired a new company” “She buys for the big department store”"/>
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-37" partOfSpeech="v" ili="i32999" note="pay, pay up, ante up cancel or discharge a debt “pay up, please!”"/>
 
-  </Lexicon>
+</Lexicon>
 </LexicalResource>
