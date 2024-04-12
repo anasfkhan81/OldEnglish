@@ -94,6 +94,7 @@
   <Sense id="BLOD_N_2" synset="OEWN_Sample-example-ang-guilt-remorse-19">
     <SenseDefinition gloss="responsibility for bloodshed"/>
   </Sense>
+  <Etymology><Etylink linkType="instrumental-metaphor" source="BLOD_N_1" target="BLOD_N_2" /></Etymology>
 </LexicalEntry>
 
 <LexicalEntry id="CULPA_N" partOfSpeech="n" grammaticalGender="m">
@@ -160,6 +161,7 @@
   <Sense id="DIGOLNES_N_4" synset="OEWN_Sample-example-ang-guilt-remorse-12">
     <SenseDefinition gloss="hiding-place, recess"/>
   </Sense>
+  <Etymology><Etylink linkType="metaphor" source="DIGOLNES_N_2" target="DIGOLNES_N_4" /></Etymology>
 </LexicalEntry>
 
 <LexicalEntry id="EFEN-SCYLDIG_ADJ" partOfSpeech="a">
@@ -282,6 +284,7 @@
   <Sense id="SACU_N_5" synset="OEWN_Sample-example-ang-guilt-remorse-3">
     <SenseDefinition gloss="jurisdiction, right of holding a court for criminal and civil matters"/>
   </Sense>
+  <Etymology><Etylink linkType="resultative-metonymy" source="SACU_N_1" target="SACU_N_3" /></Etymology>
 </LexicalEntry>
 
 <LexicalEntry id="SCYLD_N" partOfSpeech="n" grammaticalGender="f">
@@ -387,6 +390,6 @@
 <Synset id="OEWN_Sample-example-ang-guilt-remorse-35" partOfSpeech="v" ili="i29750" note="bear, hold, carry support or hold in a certain manner “She holds her head high” “He carried himself upright”"/>
 <Synset id="OEWN_Sample-example-ang-guilt-remorse-36" partOfSpeech="v" ili="i32788" note="buy, purchase obtain by purchase; acquire by means of a financial transaction “The family purchased a new car” “The conglomerate acquired a new company” “She buys for the big department store”"/>
 <Synset id="OEWN_Sample-example-ang-guilt-remorse-37" partOfSpeech="v" ili="i32999" note="pay, pay up, ante up cancel or discharge a debt “pay up, please!”"/>
-
+<Synset id="OEWN_Sample-example-ang-guilt-remorse-37" partOfSpeech="v" ili="i32999" note="pay, pay up, ante up cancel or discharge a debt “pay up, please!”"/>
 </Lexicon>
 </LexicalResource>
